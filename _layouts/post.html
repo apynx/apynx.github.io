@@ -28,7 +28,6 @@ layout: default
       <div class="author">
         <small><i>
           {% if page.author %}
-          by
           <span itemprop="author">
             {% if site.google_plus_link %}
               <a rel="author" href="{{ site.google_plus_link }}">
@@ -41,14 +40,14 @@ layout: default
             {% endif %}
           </span>
           {% endif %}
-          diposting <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
-          {% if page.categories != empty %} dengan kategori {% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
+          - <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
+          {% if page.categories != empty %} - {% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
         </i></small>
       </div>
 
       <div class="read-time">
         <small>
-          {{ minutes }} menit dibaca
+          Durasi: {{ minutes }} menit
         </small>
       </div>
 
@@ -104,18 +103,18 @@ layout: default
 
       {% if site.twitter_username and site.disqus_account %}
       <div class="content-panel feedback">
-        Tak kenal maka tak <i class="fa fa-heart"></i>.<br />
-        Tinggalkan pesan atau komentar di bawah ini.
+        I <i class="fa fa-heart"></i> feedback.<br />
+        Let me know what you think of this article on twitter <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a> or leave a comment below!
       </div>
       {% elsif site.twitter_username %}
       <div class="content-panel feedback">
-        Tak kenal maka tak <i class="fa fa-heart"></i>.<br />
-        Tinggalkan pesan atau komentar di bawah ini.
+        I <i class="fa fa-heart"></i> feedback.<br />
+        Let me know what you think of this article on twitter <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>!
       </div>
       {% elsif site.disqus_account %}
       <div class="content-panel feedback">
-        Tak kenal maka tak <i class="fa fa-heart"></i>.<br />
-        Tinggalkan pesan atau komentar di bawah ini.
+        I <i class="fa fa-heart"></i> feedback.<br />
+        Let me know what you think of this article in the comment section below!
       </div>
       {% endif %}
 
