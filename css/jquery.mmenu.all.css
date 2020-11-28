@@ -198,7 +198,7 @@ html.mm-opened .mm-page {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); }
 
 .mm-ismenu {
-  background: #333333;
+  background: #008c5f;
   color: rgba(255, 255, 255, 0.6); }
 
 .mm-menu .mm-list > li:after {
@@ -626,7 +626,7 @@ em.mm-counter + a.mm-subopen + label.mm-toggle {
 .mm-menu label.mm-toggle {
   background: rgba(0, 0, 0, 0.15); }
   .mm-menu label.mm-toggle div {
-    background: #333333; }
+    background: #008c5f; }
 .mm-menu input.mm-toggle:checked ~ label.mm-toggle {
   background: #4bd963; }
 
