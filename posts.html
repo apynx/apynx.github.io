@@ -8,15 +8,15 @@ make-smaller-titles: true
   <div class="row index all-posts">
 
     <h1 class="header author-header">{{ site.author_name }}</h1>
-    <h2 class="header" itemprop="headline">All posts</h2>
-    <h2 class="header categories" itemprop="headline"><small>grouped by
+    <h2 class="header" itemprop="headline">Semua Posting</h2>
+    <h2 class="header categories" itemprop="headline"><small>dikelompokkan berdasarkan
 
       <div class="dropdown btn-group">
-        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Years
+        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Tahun
           <span class="caret"></span>
         </button>
         <ul class="dropdown-menu">
-          <li><a href="{{ site.baseurl }}/posts-by-categories/">Categories</a></li>
+          <li><a href="{{ site.baseurl }}/posts-by-categories/">Kategori</a></li>
         </ul>
       </div>
 
@@ -34,7 +34,7 @@ make-smaller-titles: true
 
           <li>
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+            <small class="hidden-xs">{{ post.date | date: "%-d %B %Y" }}</small>
           </li>
       {% if forloop.last %}
         </ul>
