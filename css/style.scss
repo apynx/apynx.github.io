@@ -16,14 +16,14 @@ $instagram:      #cd486b;
 $reddit:         #cee3f8;
 $rss:            #eea33a;
 
-$darker:         #21211E;
+$darker:         #3f3f3f;
 $dark:           #2D2D29;
 $medium:         #3B3B35;
 $light-medium:   #969696;
 $dark-blue:      #215A6D;
-$light-blue:     #3CA2A2;
+$light-blue:     #008c5f;
 $green:          #92C7A3;
-$light:          #DFECE6;
+$light:          #ededed;
 $white:          #FFFFFF;
 $dark-purple:    #300030;
 $medium-purple:  #480048;
@@ -46,8 +46,8 @@ html {
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
-	background-color: $dark;
-	color: $white;
+	background-color: $light;
+	color: $darker;
 	font-size: 16px;
 	height: 100%;
 	width: 100%
@@ -119,7 +119,7 @@ ul {
 	cursor: pointer;
 	line-height: 1em;
 	padding: 10px;
-	background-color: $dark;
+	background-color: $light-medium;
 	z-index: 100;
 	@media (min-width: $screen-sm-min) {
 		top: 20px;
@@ -128,7 +128,7 @@ ul {
 }
 
 .content-panel {
-	background-color: $medium;
+	background-color: $white;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	padding-left: 30px;
