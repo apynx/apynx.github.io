@@ -826,21 +826,6 @@ ul {
 		color: $red;
 	}
 
-	@media (min-width: $screen-sm-min) {
-		width: 90%;
-		margin-left: 5%;
-	}
-
-	@media (min-width: $screen-md-min) {
-		width: 80%;
-		margin-left: 10%;
-	}
-
-	@media (min-width: $screen-lg-min) {
-		width: 70%;
-		margin-left: 15%;
-	}
-
 	div {
 		color: $light-medium;
 		text-align: center;
