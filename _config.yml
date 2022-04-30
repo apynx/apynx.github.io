@@ -31,6 +31,8 @@ author:
 twitter_username: capkatak
 github_username:  apynx
 
+disqus: aping-github
+
 # Build settings
 theme: ockham
 plugins:
