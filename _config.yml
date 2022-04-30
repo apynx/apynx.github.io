@@ -34,6 +34,10 @@ github_username:  apynx
 disqus: aping-github
 
 # Build settings
+markdown: kramdown
+timezone: "Asia/Jakarta"
+permalink: /:year/:month/:title/
+
 theme: ockham
 plugins:
   - jekyll-feed
