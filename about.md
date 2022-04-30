@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Panggil saja APING. PNS di Mahkamah Agung yang kadang ngutak-atik kode meskipun gak *pinter-pinter amat*. Suka tantangan dan mempelajari sesuatu yang baru asalkan masih sesuai minat.
+Panggil saja Aping. PNS di Mahkamah Agung yang kadang suka ngutak-atik kode meskipun gak *pinter-pinter amat*. Suka tantangan dan mempelajari sesuatu yang baru asalkan masih sesuai minat.
 
 Ini situs pertama pake git yang benar-benar dibikin dengan niat. Yang gak pake niat, sudah ada puluhan situs yang terbengkalai. Kenapa gak balik ke Blogger sama WP? *Bosen*.
 
