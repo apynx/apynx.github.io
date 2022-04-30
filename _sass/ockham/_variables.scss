@@ -33,9 +33,9 @@ $xl-screen: 80rem;
 @media (prefers-color-scheme: dark) {
   :root {
     --body-color: #{$oc-gray-4};
-    --body-bg: #{$oc-gray-9};
+    --body-bg: #{$oc-gray-6};
 
-    --link-color: #{$oc-orange-9};
+    --link-color: #{$oc-yellow-5};
 
     --heading-color: #{$oc-white};
 
