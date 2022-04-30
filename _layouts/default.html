@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+  {% include head.html %}
+
+  <body>
+    {% include sidebar.html %}
+
+    <div class="wrap">
+      <div class="container">
+
+        <header class="masthead">
+          <div class="masthead-title">
+            <a href="{{ '/' | relative_url }}" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </div>
+        </header>
+
+        <main>
+          {{ content }}
+        </main>
+
+        <footer class="footer">
+          <small>
+            &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
+            {%- if site.author -%}
+              &nbsp;<a href="{{ site.author.url }}" target="_blank">{{ site.author.name }}</a>
+            {%- endif -%}. All rights reserved.
+          </small>
+        </footer>
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    {% if page.math %}
+      {% include mathjax.html %}
+    {% endif %}
+
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+      {% include google-analytics.html %}
+    {% endif %}
+  </body>
+</html>
