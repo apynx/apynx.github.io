@@ -27,3 +27,25 @@ Mengetahui; atau setidaknya; pernah mempelajari tentang ini:
 ![Phyton](//img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C Plus](//img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C Sharp](//img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<p align="center">
+<img src="//img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="//img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black" />
+<img src="//img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="//img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="//img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black" />
+<img src="//img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=black" />
+<img src="//img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=black" />
+<img src="//img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=black" />
+<img src="//img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=black" />
+<img src="//img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="//img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="//img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=black" />
+<img src="//img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=black" />
+<img src="//img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=black" />
+<img src="//img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=black" />
+<img src="//img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black" />
+<img src="//img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=black" />
+<img src="//img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
+<img src="//img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black" />
+</p>
