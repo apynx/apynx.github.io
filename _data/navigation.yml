@@ -1,4 +1,6 @@
-- title: Home
+- title: Beranda
   url: /
 - title: About
   url: /about/
+- title: Arsip
+  url: /arsip/
