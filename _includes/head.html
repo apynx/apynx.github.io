@@ -1,6 +1,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>
+    {%- if title -%}{{ title }}
+    {%- elsif page.title -%}{{ page.title }}
+    {%- else -%}{{ site.title }}
+    {%- endif -%}
+  </title>
+  
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="robots" content="index,follow">
   
   <link rel="stylesheet" href="{{ 'assets/css/normalize.css' | relative_url }}">
   <link rel="stylesheet" href="{{ 'assets/css/ockham.css' | relative_url }}">
