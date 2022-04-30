@@ -22,27 +22,25 @@ title: Aping Blog
 email: safriladi@gmail.com
 tagline: Just Another FUNtastix Blog
 description: Hanya sekedar catatan kecil dari hal-hal yang menarik perhatian
+author: Aping
 baseurl: "//aping.netlify.app" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-author:
-  name: Aping
-  url: https://instagram.com/apynx
+# Social Profiles
+facebook_username: safril
+instagram_username: apynx
 twitter_username: capkatak
-github_username:  apynx
-
+github_username: apynx
 disqus: aping-github
 
 # Build settings
 markdown: kramdown
 timezone: "Asia/Jakarta"
 permalink: /:categories/:title/
-
 theme: ockham
 plugins:
   - jekyll-feed
   - jekyll-paginate
-
 paginate: 3
 paginate_path: /halaman-:num/
 

@@ -2,19 +2,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>
-    {%- if title -%}{{ title }}
-    {%- elsif page.title -%}{{ page.title }}
-    {%- else -%}{{ site.title }}
-    {%- endif -%}
+    {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}
+    {% else %}{{ site.title | escape }}{% endif %}
   </title>
   
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   <meta name="robots" content="index,follow">
-  
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <link rel="stylesheet" href="{{ 'assets/css/normalize.css' | relative_url }}">
   <link rel="stylesheet" href="{{ 'assets/css/ockham.css' | relative_url }}">
   <script async src="{{ 'assets/js/ockham.js' | relative_url }}"></script>
   <script async src="https://use.fontawesome.com/releases/v5.15.4/js/all.js"></script>
-
+  <script src="https://kit.fontawesome.com/f11554130c.js" crossorigin="anonymous"></script>
+  
   {% include custom-head.html %}
 </head>
