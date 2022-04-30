@@ -32,6 +32,7 @@ instagram_username: apynx
 twitter_username: capkatak
 github_username: apynx
 disqus: aping-github
+google_analytics: 
 
 # Build settings
 markdown: kramdown
