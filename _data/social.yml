@@ -1,12 +1,15 @@
+- title: Facebook
+  url: //facebook.com/safril
+  icon: fab fa-facebook
+- title: Instagram
+  url: //instagram.com/apynx
+  icon: fab fa-instagram
+- title: Twitter
+  url: //twitter.com/capkatak
+  icon: fab fa-twitter
+- title: Pinterest
+  url: //pinterest.com/aping8
+  icon: fab fa-twitter
 - title: Email
   url: mailto:safriladi@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/capkatak
-  icon: fab fa-twitter
-- title: Instagram
-  url: https://instagram.com/apynx
-  icon: fab fa-instagram
-- title: Facebook
-  url: https://facebook.com/safril
-  icon: fab fa-facebook

@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Perkenalkan nama saya Safril Adi, biasa dipanggil APING. This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Panggil saja APING. PNS di Mahkamah Agung yang kadang ngutak-atik kode meskipun gak *pinter-pinter amat*. Suka tantangan dan mempelajari sesuatu yang baru asalkan masih sesuai minat.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Ini situs pertama pake git yang benar-benar dibikin dengan niat. Yang gak pake niat, sudah ada puluhan situs yang terbengkalai. Kenapa gak balik ke Blogger sama WP? *Bosen*.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Mengetahui; atau setidaknya; pernah mempelajari bahasa-bahasa pemrograman berikut:
+![HTML](//img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](//img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
