@@ -4,17 +4,3 @@
 
 layout: home
 ---  
-  {% if paginator %}
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        <a class="pagination-item left" href="{{ paginator.previous_page_path | relative_url }}"><i class="fas fa-chevron-left"></i></a>
-      {% else %}
-        <span class="pagination-item left"><i class="fas fa-chevron-left"></i></span>
-      {% endif %}
-      {% if paginator.next_page %}
-        <a class="pagination-item right" href="{{ paginator.next_page_path | relative_url }}"><i class="fas fa-chevron-right"></i></a>
-      {% else %}
-        <span class="pagination-item right"><i class="fas fa-chevron-right"></i></span>
-      {% endif %}
-    </div>
-  {% endif %}
