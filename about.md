@@ -9,8 +9,7 @@ Panggil saja APING. PNS di Mahkamah Agung yang kadang ngutak-atik kode meskipun 
 Ini situs pertama pake git yang benar-benar dibikin dengan niat. Yang gak pake niat, sudah ada puluhan situs yang terbengkalai. Kenapa gak balik ke Blogger sama WP? *Bosen*.
 
 Mengetahui; atau setidaknya; pernah mempelajari tentang ini:
-![HTML](//img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](//img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML](//img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](//img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](//img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](//img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](//img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
