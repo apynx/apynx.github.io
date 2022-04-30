@@ -24,6 +24,10 @@ tagline: Just Another FUNtastix Blog
 description: Hanya sekedar catatan kecil dari hal-hal yang menarik perhatian
 baseurl: "//aping.netlify.app" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+author:
+  name: Aping
+  url: https://instagram.com/apynx
 twitter_username: capkatak
 github_username:  apynx
 
