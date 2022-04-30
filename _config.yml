@@ -38,6 +38,9 @@ markdown: kramdown
 timezone: "Asia/Jakarta"
 permalink: /:categories/:title/
 
+paginate: 3
+paginate_path: "/halaman:num/"
+
 theme: ockham
 plugins:
   - jekyll-feed
