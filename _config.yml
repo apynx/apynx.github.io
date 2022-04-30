@@ -38,13 +38,13 @@ markdown: kramdown
 timezone: "Asia/Jakarta"
 permalink: /:categories/:title/
 
-paginate: 3
-paginate_path: "/halaman:num/"
-
 theme: ockham
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+paginate: 3
+paginate_path: "/halaman:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
