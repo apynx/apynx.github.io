@@ -26,11 +26,12 @@ layout: default
 
   {{ content }}
 
-</article>
+  
+  {% if page.comments %}
+    {% include disqus.html %}
+  {% endif %}
 
-{% if page.comments %}
-	{% include disqus.html %}
-{% endif %}
+</article>
 
 <div class="post-pagination">
   {% if page.previous %}
