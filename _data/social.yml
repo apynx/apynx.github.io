@@ -1,9 +1,12 @@
 - title: Email
-  url: mailto:zivong@protonmail.com
+  url: mailto:safriladi@gmail.com
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/zivong91
+  url: https://twitter.com/capkatak
   icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/zivong
-  icon: fab fa-github
+- title: Instagram
+  url: https://instagram.com/apynx
+  icon: fab fa-instagram
+- title: Facebook
+  url: https://facebook.com/safril
+  icon: fab fa-facebook
