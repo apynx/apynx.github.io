@@ -2,6 +2,6 @@
 layout: post
 title:  "Test Post"
 date:   2021-04-30 06:58:06 +0700
-categories: Test Category
+categories: Pribadi
 ---
 This is test post
