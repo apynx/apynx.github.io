@@ -1,14 +1,169 @@
-{% if paginator %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a class="pagination-item left" href="{{ paginator.previous_page_path | relative_url }}"><i class="fas fa-chevron-left"></i></a>
-    {% else %}
-      <span class="pagination-item left"><i class="fas fa-chevron-left"></i></span>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a class="pagination-item right" href="{{ paginator.next_page_path | relative_url }}"><i class="fas fa-chevron-right"></i></a>
-    {% else %}
-      <span class="pagination-item right"><i class="fas fa-chevron-right"></i></span>
-    {% endif %}
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link rel="stylesheet" href="//aping.netlify.app/assets/css/normalize.css">
+  <link rel="stylesheet" href="//aping.netlify.app/assets/css/ockham.css">
+  <script async src="//aping.netlify.app/assets/js/ockham.js"></script>
+  <script async src="https://use.fontawesome.com/releases/v5.15.4/js/all.js"></script>
+
+  
+
+</head>
+
+
+  <body>
+    <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>Hanya sekedar catatan kecil dari hal-hal yang menarik perhatian</p>
   </div>
-{% endif %}
+
+  
+  <nav class="sidebar-nav">
+    <ul class="sidebar-nav-list">
+    
+      <li">
+        <a href="//aping.netlify.app/" class="sidebar-nav-item active">
+          Home
+        </a>
+      </li>
+    
+      <li">
+        <a href="//aping.netlify.app/about/" class="sidebar-nav-item ">
+          About
+        </a>
+      </li>
+    
+    </ul>
+  </nav>
+  
+
+  
+  <div class="sidebar-item">
+    
+      <a class="social-icon" href="mailto:zivong@protonmail.com" target="_blank">
+        <i class="fas fa-envelope" title="Email"></i>
+      </a>
+    
+      <a class="social-icon" href="https://twitter.com/zivong91" target="_blank">
+        <i class="fab fa-twitter" title="Twitter"></i>
+      </a>
+    
+      <a class="social-icon" href="https://github.com/zivong" target="_blank">
+        <i class="fab fa-github" title="GitHub"></i>
+      </a>
+    
+  </div>
+  
+
+  <div class="sidebar-item">
+    <small>
+      Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> & <a href="https://github.com/zivong/ockham" target="_blank">Ockham</a>
+    </small>
+  </div>
+</div>
+
+
+    <div class="wrap">
+      <div class="container">
+
+        <header class="masthead">
+          <div class="masthead-title">
+            <a href="//aping.netlify.app/" title="Home">Aping Blog</a>
+            <small>Just Another FUNtastix Blog</small>
+          </div>
+        </header>
+
+        <main>
+          
+
+
+<div class="posts">
+  
+  
+  
+    <div class="post-entry">
+      <time datetime="2022-04-29T23:58:06+00:00" class="post-meta">29 Apr 2022</time>
+      <h2 class="post-title">
+        <a href="//aping.netlify.app/pribadi/welcome-to-jekyll/">
+          Welcome to Jekyll!
+        </a>
+      </h2>
+      <p class="post-excerpt">
+        
+          You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.
+
+        
+      </p>
+    </div>
+  
+    <div class="post-entry">
+      <time datetime="2022-04-27T23:58:06+00:00" class="post-meta">27 Apr 2022</time>
+      <h2 class="post-title">
+        <a href="//aping.netlify.app/pribadi/lorem-ipsum/">
+          Lorem Ipsum
+        </a>
+      </h2>
+      <p class="post-excerpt">
+        
+          Lorem ipsum dolor sit amet
+
+        
+      </p>
+    </div>
+  
+    <div class="post-entry">
+      <time datetime="2021-04-29T23:58:06+00:00" class="post-meta">29 Apr 2021</time>
+      <h2 class="post-title">
+        <a href="//aping.netlify.app/pribadi/test-post/">
+          Test Post
+        </a>
+      </h2>
+      <p class="post-excerpt">
+        
+          This is test post
+
+        
+      </p>
+    </div>
+  
+    <div class="post-entry">
+      <time datetime="2021-04-29T23:58:06+00:00" class="post-meta">29 Apr 2021</time>
+      <h2 class="post-title">
+        <a href="//aping.netlify.app/pribadi/posting-baru/">
+          Posting Baru
+        </a>
+      </h2>
+      <p class="post-excerpt">
+        
+          Ini posting baru
+
+        
+      </p>
+    </div>
+  
+</div>
+
+
+
+        </main>
+
+        <footer class="footer">
+          <small>
+            &copy; <time datetime="2022-04-30T06:03:41+00:00">2022</time>&nbsp;<a href="https://instagram.com/apynx" target="_blank">Aping</a>. All rights reserved.
+          </small>
+        </footer>
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    
+
+    
+  </body>
+</html>
