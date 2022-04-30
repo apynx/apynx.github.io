@@ -44,7 +44,7 @@ plugins:
   - jekyll-paginate
 
 paginate: 3
-paginate_path: /page:num/
+paginate_path: /halaman-:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
