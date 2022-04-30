@@ -44,6 +44,7 @@ paginate_path: "/halaman:num/"
 theme: ockham
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
