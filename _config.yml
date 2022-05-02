@@ -25,7 +25,6 @@ description: Hanya sekedar catatan kecil dari hal-hal yang menarik perhatian
 author: Aping
 url: "https://aping.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-favicon: 'assets/images/favicon.ico'
 
 # Social Profiles
 facebook_username: safril
