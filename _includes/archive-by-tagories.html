@@ -57,7 +57,7 @@
       <ul class="post-list-by-taxonomy">
         {%- for post in posts -%}
           <li>
-            <time datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %Y" }}</time> 
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %y" }}</time> 
             - 
             <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           </li>

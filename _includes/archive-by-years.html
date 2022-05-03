@@ -20,8 +20,8 @@
     {%- assign posts = taxonomy.items -%}
     {%- for post in posts -%}
       <li>
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time> 
-        &raquo;
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: "%d %B" }}</time> 
+        -
         <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </li>
     {%- endfor -%}
