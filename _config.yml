@@ -38,10 +38,13 @@ google_analytics:
 markdown: kramdown
 timezone: "Asia/Jakarta"
 permalink: /:title/
-theme: ockham
+#theme: ockham
+remote_theme: zivong/ockham
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
+
 paginate: 3
 paginate_path: /halaman-:num/
 
