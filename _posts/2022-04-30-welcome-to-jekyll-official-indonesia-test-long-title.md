@@ -1,7 +1,6 @@
 ---
 layout      : post
-title       : Welcome to Jekyll!
-excerpt     : Jekyll requires blog post files to be named according to the following format
+title       : Welcome to Jekyll Official Indonesia Test Long Title
 date        : 2022-04-30 06:58:06 +0700
 categories  : Pribadi
 ---
