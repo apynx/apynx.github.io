@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 .page, .post {
-  h1 {
+  h1, h2 {
     font-size: 24px;
-    color: var(--heading-color);
+    color: var(--link-color) !important;
   }
 }
 
-.post-entry .post-title .h2 {
+.post-entry .post-title {
   font-size: 22px;
 }
 
