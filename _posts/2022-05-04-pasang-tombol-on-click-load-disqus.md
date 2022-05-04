@@ -11,7 +11,7 @@ Mumpung masih inget keburu lupa, sekarang saya akan bagikan cara memasang tombol
 
 Sebenarnya saya lebih suka kalau sebuah situs tanpa fitur komentar. Berasa lebih bersih. Tapi apa hendak dikata, bukan 'blog' namanya kalau cuma satu arah. Blog menjadi tren justru karena *commenting system*-nya, adanya interaksi antara penulis dan pengunjung. Itu yang saya pelajari belasan tahun lalu mengenai kenapa blog menjadi sebuah gaya hidup baru. Sumbernya lupa.
 
-Dan untuk static web seperti Hugo, Jekyll, Gatsby, dan sebagainya Disqus adalah platform layanan komentar paling populer. Disqus dipuji karena fleksibilitas dan keluwesannya untuk dapat tampil di beragam jenis situs web. Dari berbasis CMS seperti Blogger, Wordpress, Joomla, hingga ke static-site generator (SSG).
+Dan untuk static web seperti Hugo, Jekyll, Gatsby, dan sebagainya Disqus adalah platform layanan komentar paling populer. Disqus dipuji karena fleksibilitas dan keluwesannya untuk dapat tampil di beragam jenis situs web. Dari berbasis CMS seperti Blogger, Wordpress, Joomla, hingga ke *static-site generator* (SSG).
 
 ### Menyembunyikan Kolom Komentar Disqus
 
@@ -19,9 +19,9 @@ Dibalik fleksibilitas dan kemampuannya dalam memanajemen komentar yang masuk, Di
 
 Solusinya gampang, **hapus saja Disqusnya**. Tapi nanti jadi tidak sesuai tema tulisan ini. Hehehe.
 
-Itu memang cara paling mudah. Tapi sebenarnya ada kok cara lain, yakni dengan menyembunyikan kolom komentar Disqus sebelum dipanggil atau dengan cara menunda pemuatan (*lazy-load*) script Disqu. Untuk cara terakhir, sayang saya belum menemukan cara yang ampuh untuk dipasang di Jekyll. Kalo buat Blogger atau WP *mah* banyakk.
+Itu memang cara paling mudah. Tapi sebenarnya ada kok cara lain, yakni dengan menyembunyikan kolom komentar Disqus sebelum dipanggil atau dengan cara menunda pemuatan (*lazy-load*) script Disqus. Untuk cara terakhir, saya belum menemukan cara yang ampuh untuk dipasang di Jekyll. Kalo buat Blogger atau WP *mah* banyakk.
 
-Lalu bagaimana cara menymbunyikan komentar Disqus di Jekyll dan static-site generator lain? kamu cukup memasang script berikut ini di '_layouts/post.html' atau di bagian manapun yang kamu pakai untuk menampilkan komentar Disqus:
+Lalu bagaimana cara menymbunyikan komentar Disqus di Jekyll dan *static-site generator* lain? kamu cukup memasang script berikut ini di '_layouts/post.html' atau di bagian manapun yang kamu pakai untuk menampilkan komentar Disqus:
 
 {% highlight html %}
 <div class="comments-block">
@@ -75,7 +75,7 @@ Jangan lupa ganti '**xxxxx**' dengan akun Disqus kamu lalu klik tombol simpan. O
     {% endif %}
 ```
 
-Sampai disini sebenarnya script sudah bisa berjalan dengan baik, tapi tampilan tombolnya terlihat tidak bagus. Kamu bisa mempercantiknya dengan CSS berikut:
+Sekarang script sudah bisa berjalan dengan baik, tapi tampilan tombolnya terlihat tidak bagus. Kamu bisa mempercantiknya dengan CSS berikut:
 
 {% highlight css %}
 #show-comments {
