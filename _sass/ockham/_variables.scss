@@ -8,7 +8,7 @@ $xl-screen: 80rem;
   --spacer-2: calc(var(--spacer) * 2);
   --spacer-3: calc(var(--spacer) * 3);
 
-  --body-font: -apple-system, BlinkMacSystemFont, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --body-font: 'Quicksand', sans-serif;
   --body-font-size: 16px;
   --body-line-height: 1.5;
   --body-color: #{$oc-gray-9};
@@ -16,7 +16,7 @@ $xl-screen: 80rem;
 
   --link-color: #{$oc-orange-9};
 
-  --heading-font: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  --heading-font: 'Quicksand', sans-serif;
   --heading-color: #{$oc-black};
 
   --code-font: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
