@@ -3,7 +3,7 @@
 .page, .post {
   h1 {
     font-size: 28px;
-    color: var(--link-color);
+    color: var(--heading-color);
   }
 }
 
@@ -28,3 +28,6 @@ a.social-icon {
     font-weight: normal !important;
   }
   
+figure.highlight {
+  font-size: 16px;
+}
