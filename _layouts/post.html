@@ -8,11 +8,11 @@ layout: default
     {%- if page.author -%}
       Diposting oleh
       {% for author in page.author %}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author }}</span>
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author }} </span>
         {%- if forloop.last == false %}, {% endif -%}
       {% endfor %}
     {%- endif -%}
-    &nbsp; pada
+    pada
     <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ page.date | date_to_string }}
     </time>
