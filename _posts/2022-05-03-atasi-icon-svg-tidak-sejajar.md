@@ -1,6 +1,7 @@
 ---
 layout      : post
 title       : Mengatasi Icon SVG Tidak Sejajar
+author      : Aping
 date        : 2022-05-03 15:32:06 +0700
 categories  : CSS
 ---

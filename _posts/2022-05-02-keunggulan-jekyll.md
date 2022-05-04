@@ -1,6 +1,7 @@
 ---
 layout      : post
 title       : Keunggulan Jekyll
+author      : Aping
 date        : 2022-05-02 19:39:06 +0700
 categories  : Pribadi
 ---

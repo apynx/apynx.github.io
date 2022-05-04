@@ -25,4 +25,4 @@ Dari semuanya, yang paling simple sih memang Jekyll. Buat kamu yang awam atau pe
 
 Pilihan temanya juga lumayan banyak, dari yang gratis sampai berbayar juga ada. Kamu bisa memilih tema yang paling sederhana agar bisa fokus pada konten, atau memilih tema dengan tampilan yang mewah dan *eye-catching* juga ada. Sesuai selera lah yaa.
 
-Saat posting ini dibuat, saya memakai tema dari Ockham. Tema yang sangat sederhana tapi sudah cukup memenuhi kebutuhan saya dalam blogging. Semoga aja dengan blog baru ini saya agak lebih bersemangat dalam menulis. Salam.
+Saat posting ini dibuat, saya memakai tema dari [Ockham](https://github.com/zivong/ockham "Ockham is a content-first minimalist Jekyll blog theme"). Tema yang sangat sederhana tapi sudah cukup memenuhi kebutuhan saya dalam blogging. Semoga aja dengan blog baru ini saya lebih bersemangat dalam menulis. Salam.
