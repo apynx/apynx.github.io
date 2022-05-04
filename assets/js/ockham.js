@@ -13,8 +13,3 @@
     checkbox.checked = false;
   }, false);
 })(document);
-
-
-$('#showComments').click(function() {
-  $('#disqus_thread').html('<script>(function() { var d = document, s = d.createElement("script"); s.src = "https://aping.disqus.com/embed.js"; s.setAttribute("data-timestamp", +new Date()); (d.head || d.body).appendChild(s); })(); </script>');
-  });
