@@ -3,7 +3,7 @@ layout      : post
 title       : Post Styles
 author      : Aping
 date        : 2022-04-30 06:58:06 +0700
-categories  : Pribadi
+categories  : Jekyll
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
