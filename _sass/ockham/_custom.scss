@@ -4,11 +4,16 @@
   h1, h2 {
     font-size: 24px;
     color: var(--link-color) !important;
+    text-align: center;
   }
 }
 
 .post-entry .post-title {
   font-size: 22px;
+}
+
+.post .post-meta {
+  text-align: center;
 }
 
 svg {
