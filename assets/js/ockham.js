@@ -30,7 +30,7 @@ window.onscroll = function (e) {
 
 function load_disqus() {
   if (disqus_loaded || !disqus_enabled) return;
-  var disqus_shortname = "{{site.disqus}}";
+  var disqus_shortname = "aping";
   $.ajax({
     type: "GET",
     url: "https://" + disqus_shortname + ".disqus.com/embed.js",
