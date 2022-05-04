@@ -15,28 +15,6 @@
 })(document);
 
 
-var disqus_loaded = false;
-var disqus_enabled = document.getElementById("load-comments");
-$("#load-comments").on("click", load_disqus);
-
-window.onscroll = function (e) {
-  scrollFunction();
-  if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
-    if (disqus_enabled && disqus_loaded == false) {
-      load_disqus();
-    }
-  }
-};
-
-function load_disqus() {
-  if (disqus_loaded || !disqus_enabled) return;
-  var disqus_shortname = "aping";
-  $.ajax({
-    type: "GET",
-    url: "https://" + disqus_shortname + ".disqus.com/embed.js",
-    dataType: "script",
-    cache: true,
+$('#showComments').click(function() {
+  $('#disqus_thread').html('<script>(function() { var d = document, s = d.createElement("script"); s.src = "https://aping.disqus.com/embed.js"; s.setAttribute("data-timestamp", +new Date()); (d.head || d.body).appendChild(s); })(); </script>');
   });
-  disqus_loaded = true;
-  $(".show-comments").fadeOut();
-}
