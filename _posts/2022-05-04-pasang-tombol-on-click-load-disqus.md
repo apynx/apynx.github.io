@@ -67,7 +67,15 @@ if(/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent
 </script>
 {% endhighlight %}
 
-Jangan lupa ganti '**xxxxx**' dengan akun Disqus kamu lalu klik tombol simpan. Sampai disini sebenarnya script sudah bisa berjalan dengan baik, tapi tampilan tombolnya terlihat tidak bagus. Kamu bisa mempercantiknya dengan CSS berikut:
+Jangan lupa ganti '**xxxxx**' dengan akun Disqus kamu lalu klik tombol simpan. Oh iya, jika kamu menemukan script berikut di 'post.html' bisa dihapus saja agar tidak bentrok:
+
+{% highlight html %}
+    {% if page.comments %}
+        {% include disqus.html %}
+    {% endif %}
+{% endhighlight %}
+
+Sampai disini sebenarnya script sudah bisa berjalan dengan baik, tapi tampilan tombolnya terlihat tidak bagus. Kamu bisa mempercantiknya dengan CSS berikut:
 
 {% highlight css %}
 #show-comments {
