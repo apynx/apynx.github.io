@@ -21,7 +21,7 @@
 title: Aping Blog
 email: safriladi@gmail.com
 tagline: Just Another FUNtastix Blog
-description: Hanya sekedar coretan kecil dari hal-hal yang menarik perhatian
+description: Sekedar coretan kecil dari hal-hal yang menarik perhatian
 author: Aping
 url: "https://apynx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,7 +32,7 @@ instagram_username: apynx
 twitter_username: capkatak
 github_username: apynx
 disqus: aping
-google_analytics: 
+google_analytics: G-M7B0PTSJV0
 
 # Build settings
 markdown: kramdown
