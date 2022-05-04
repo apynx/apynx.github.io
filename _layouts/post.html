@@ -35,14 +35,14 @@ layout: default
 -->
 
 <div class="comments-block">
-  <button id="show-comments" onclick="disqus();return false;">Load Comments</button>
+  <button id="show-comments" onclick="disqus();return false;">Tampilkan Komentar</button>
 </div>
 
 <div id="disqus_thread"></div>
 
 <script>
 var disqus_loaded = false;
-var disqus_shortname = 'aping'; //Add your shortname here
+var disqus_shortname = '{{site.disqus}}'; //Add your shortname here
 
 function disqus() {
 
