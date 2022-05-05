@@ -4,6 +4,7 @@ title       : Kenapa Pindah ke Jekyll
 author      : Aping
 date        : 2022-05-03 21:00:00 +0700
 categories  : Jekyll
+tags        : [jekyll, pindah ke jekyll, migrasi jekyll]
 comments    : true
 ---
 Alasan saya beralih dari platform CMS populer seperti Blogger dan Wordpress cuma satu, *Bosan*. Rasa-rasanya sudah terlalu mainstream dan jenuh.

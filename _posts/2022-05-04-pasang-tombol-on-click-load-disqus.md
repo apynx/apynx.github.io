@@ -71,7 +71,7 @@ if(/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent
 
 Jangan lupa ganti '**xxxxx**' dengan akun Disqus kamu lalu klik tombol simpan. Oh iya, jika kamu menemukan script berikut di 'post.html' bisa dihapus saja agar tidak bentrok:
 
-{% highlight liquid %}
+{% highlight %}
     {% if page.comments %}
         {% include disqus.html %}
     {% endif %}
