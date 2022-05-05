@@ -13,6 +13,16 @@ Kalau Wordpress jangan ditanya, fiturnya komplit! ***Palugada***, *Apa Lu Mau Gu
 
 Coba aja kalau kamu mau modifikasi WP theme yang sudah ada. Para pemula pasti langsung pusing tujuh keliling. Banyak sekali yang perlu diubah. Ujung-ujungnya waktu terbuang cuma untuk memodifikasi template. Atau malah jadi galau gara-gara bingung memilih mau pakai plugin A atau B?
 
+Tapi yang pasti, waktu pemuatan (*load time*) halaman pada semua CMS termasuk lambat. Itu wajar karena rata-rata CMS akan meminta banyak sekali request eksternal. Memanggil script-script eksternal seperti jQuery, Bootstrap, FontAwesome, Adsense, Google Analytic, HitCounter, dll.
+
+Sedangkan SSG seperti Jekyll dan Hugo rata-rata bisa tampil dibawah 1 detik, alias cuma dalam hitungan milidetik aja situs/blog kamu sudah bisa terbuka. Kan **wow banget** gituu.
+
+Tapi kan Wordpress bisa cepat tuh sampai dibawah 1 detik? Iya, asalkan memasang plugin cache yang bagus. Toh ujung-ujungnya yang di-*generate* juga HTML statis. Lalu kenapa tidak dari awal aja bikin static web sekalian?
+
+Saya tergolong orang yang terobsesi pada *loading time* ini. Bahkan hampir semua situs web dan blog yang saya handle memiliki waktu pemuatan kurang dari 1 detik, tentunya dengan banyak sekali optimasi di sana-sini. 
+
+Makanya kehadiran platform Static-Site Generator seperti Jekyll ibarat membuka cara pandang baru buat saya. Rasanya, ibarat menemukan kendi emas di bawah kaki pelangi.
+
 Sebagai seorang Front-End Developer selama bertahun-tahun, urusan modifikasi theme website sudah jadi makanan sehari-hari. Adaaa aja yang perlu diubah atau diperbaiki. Alhasil konten blognya stagnan hanya itu-itu aja. Tidak ada perkembangan.
 
 Karena keseringan edit-edit template, akhirnya bosan dan ditinggalkan. Begitu siklus yang terjadi selama bertahun-tahun pada blog dan situs yang saya buat. Poin plusnya sih, saya jadi semakin paham dan mendapat banyak pengalaman untuk modifikasi atau redesign template situs web. Poin minusnya, konten blognya kagak nambah-nambah :D
