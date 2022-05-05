@@ -3,16 +3,15 @@ layout: page
 title: Hubungi Saya
 permalink: /kontak/
 ---
-<form action="https://formspree.io/f/xayvllol" method="POST">    
-    <p class="mb-4">Silahkan tuliskan pesan kamu di kotak yang tersedia berikut ini :</p>
-    <div class="form-group row">
-    <div class="col-md-6">
-    <input class="form-control" type="text" name="name" placeholder="Nama *" required>
-    </div>
-    <div class="col-md-6">
-    <input class="form-control" type="email" name="_replyto" placeholder="Email *" required>
-    </div>
-    </div>
-    <textarea rows="8" class="form-control mb-3" name="message" placeholder="Isi pesan *" required></textarea>    
-    <input class="btn btn-dark" type="submit" value=Kirim">
+<form action="https://formspree.io/f/xayvllol" method="POST">
+    <label>
+      Email kamu:
+      <input type="email" name="email">
+    </label>
+    <label>
+      Isi pesan:
+      <textarea name="message"></textarea>
+    </label>
+    <!-- your other form fields go here -->
+    <button type="submit">Kirim</button>
     </form>
