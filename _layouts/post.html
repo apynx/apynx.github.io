@@ -6,13 +6,13 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-meta">
     {%- if page.author -%}
-      Diposting oleh
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="16px" height="16px"><path d="M224 256c70.7 0 128-57.31 128-128s-57.3-128-128-128C153.3 0 96 57.31 96 128S153.3 256 224 256zM274.7 304H173.3C77.61 304 0 381.6 0 477.3c0 19.14 15.52 34.67 34.66 34.67h378.7C432.5 512 448 496.5 448 477.3C448 381.6 370.4 304 274.7 304z"/></svg>
       {% for author in page.author %}
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author }} </span>
         {%- if forloop.last == false %}, {% endif -%}
       {% endfor %}
     {%- endif -%}
-    pada
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16px" height="16px"><path d="M13.5 3H12V1.5a.5.5 0 0 0-.5-.5h-2a.5.5 0 0 0-.5.5V3H6V1.5a.5.5 0 0 0-.5-.5h-2a.5.5 0 0 0-.5.5V3H1.5a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h12a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5zM10 2h1v2h-1V2zM4 2h1v2H4V2zm.25 12H2v-2.25h2.25V14zm0-2.75H2v-2.5h2.25v2.5zm0-3H2V6h2.25v2.25zm3 5.75h-2.5v-2.25h2.5V14zm0-2.75h-2.5v-2.5h2.5v2.5zm0-3h-2.5V6h2.5v2.25zm3 5.75h-2.5v-2.25h2.5V14zm0-2.75h-2.5v-2.5h2.5v2.5zm0-3h-2.5V6h2.5v2.25zM13 14h-2.25v-2.25H13V14zm0-2.75h-2.25v-2.5H13v2.5zm0-3h-2.25V6H13v2.25z"/></svg>
     <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ page.date | date_to_string }}
     </time>
@@ -23,7 +23,7 @@ layout: default
         {{ mdate | date_to_string }}
       </time>
     {%- endif -%}
-    <span>{%- include read-time.html -%}</span>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="16px" height="16px"><path d="M256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512zM232 256C232 264 236 271.5 242.7 275.1L338.7 339.1C349.7 347.3 364.6 344.3 371.1 333.3C379.3 322.3 376.3 307.4 365.3 300L280 243.2V120C280 106.7 269.3 96 255.1 96C242.7 96 231.1 106.7 231.1 120L232 256z"/></svg><span> {%- include read-time.html -%}</span>
   </div>
 
   {{ content }}
