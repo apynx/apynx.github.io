@@ -87,3 +87,28 @@ figure.highlight {
     background-color: var(--body-bg);
   }
 }
+
+.form-control::-webkit-input-placeholder {
+	color: rgba(0,0,0,.5);
+}
+.form-control:-moz-placeholder {
+	color: rgba(0,0,0,.5);
+}
+.form-control::-moz-placeholder {
+	color: rgba(0,0,0,.5);
+}
+.form-control:-ms-input-placeholder {
+	color: rgba(0,0,0,.5);
+}
+.form-control::-ms-input-placeholder {
+	color: rgba(0,0,0,.5);
+}
+.form-control {border:1px solid #eee; border-radius:0;}
+.authorpage h1 {
+	font-weight:700;
+	font-size:30px;
+}
+
+@media (max-width: 575px) {
+  .form-group .col-md-6:first-child {margin-bottom: 1rem;}
+}
