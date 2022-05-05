@@ -16,6 +16,12 @@
   text-align: center;
 }
 
+.post .post-meta #span::after {
+  content: "";
+  margin: 0 6.4px;
+  margin: 0 .4rem;
+}
+
 svg {
     vertical-align: -3px;
   }
