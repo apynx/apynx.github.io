@@ -54,7 +54,17 @@ figure.highlight {
 }
 
 .comments-block {
+  font-size: small;
   text-align: center;
+}
+
+.post-categories {
+  font-size: small;
+  margin-top: var(--spacer);
+}
+
+.post-tags {
+  margin-bottom: var(--spacer);
 }
 
 .page-taxonomy-item {
