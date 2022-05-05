@@ -56,3 +56,18 @@ figure.highlight {
 .comments-block {
   text-align: center;
 }
+
+.page-taxonomy-item {
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 8px;
+  padding: 5px 10px;
+  text-decoration: none;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+
+  &:hover {
+    text-decoration: none;
+    color: var(--body-bg);
+  }
+}

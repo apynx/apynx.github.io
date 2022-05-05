@@ -48,7 +48,7 @@ layout: default
     {% endif %}
     Kata kunci : 
     {% for tag in tags %}
-    {{tag}}
+    <i>{{tag}}</i>
     {% unless forloop.last %},&nbsp;{% endunless %}
     {% endfor %}
   </div>
