@@ -37,7 +37,7 @@ layout: default
     Kategori : 
     {% for category in categories %}
     <a class="page-taxonomy-item" href="{{site.baseurl}}/kategori/#{{category|slugize}}">{{category}}</a>
-    {% unless forloop.last %},&nbsp;{% endunless %}
+    {% unless forloop.last %}{% endunless %}
     {% endfor %}
   </div>
   <div class="post-tags">
