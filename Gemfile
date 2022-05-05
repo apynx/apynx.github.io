@@ -35,4 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
 gem "ockham"
-gem 'tzinfo-data'
+gem 'jekyll-seo-tag'
