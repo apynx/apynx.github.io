@@ -23,7 +23,7 @@ layout: default
         {{ mdate | date_to_string }}
       </time>
     {%- endif -%}
-    
+    <span>{%- include read-time.html -%}</span>
   </div>
 
   {{ content }}

@@ -1,0 +1,21 @@
+{%- if post.layout != post -%}
+  {%- assign words = post.content | strip_html | number_of_words -%}
+  {%- if words < 180 -%}
+    waktu: 1 menit
+  {%- elsif words < 360 -%}
+    waktu: 1 menit
+  {%- else -%}
+    waktu: {{ words | divided_by:180 }} menit
+  {%- endif -%}
+{%- endif -%}
+
+{%- if post.layout == post -%}
+  {%- assign words = content | number_of_words -%}
+  {%- if words < 180 -%}
+    waktu: 1 menit
+  {%- elsif words < 360 -%}
+    waktu: 1 menit
+  {%- else -%}
+    waktu: {{ words | divided_by:180 }} menit
+  {%- endif -%}
+{%- endif -%}
