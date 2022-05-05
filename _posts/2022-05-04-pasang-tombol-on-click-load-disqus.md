@@ -3,7 +3,14 @@ layout      : post
 title       : Pasang Tombol On-Click Load Komentar Disqus
 author      : Aping
 date        : 2022-05-04 18:54:00 +0700
-categories  : CSS JavaScript Jekyll
+categories  :
+    - CSS
+    - JavaScript
+    - Jekyll
+tags        :
+  - sembunyikan disqus
+  - show hide disqus
+  - tombol on click load disqus
 comments    : true
 ---
 Mumpung masih inget keburu lupa, sekarang saya akan bagikan cara memasang tombol *on-click load* komentar Disqus di situs static seperti Jekyll. Saya sudah mencari kemana-mana dan akhirnya menemukan caranya. Hasil dari implementasi script dapat dilihat pada bagian bawah tulisan ini.
@@ -70,11 +77,11 @@ if(/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent
 
 Jangan lupa ganti '**xxxxx**' dengan akun Disqus kamu lalu klik tombol simpan. Oh iya, jika kamu menemukan script berikut di 'post.html' bisa dihapus saja agar tidak bentrok:
 
-```
+{% highlight liquid %}
     {% if page.comments %}
         {% include disqus.html %}
     {% endif %}
-```
+{% endhighlight %}
 
 Sekarang script sudah bisa berjalan dengan baik, tapi tampilan tombolnya terlihat tidak bagus. Kamu bisa mempercantiknya dengan CSS berikut:
 
