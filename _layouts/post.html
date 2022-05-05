@@ -34,13 +34,23 @@ layout: default
     {% else %}
       {% assign categories = page.categories %}
     {% endif %}
+    Kategori : 
     {% for category in categories %}
-    Kategori : <a href="{{site.baseurl}}/kategori/#{{category|slugize}}">{{category}}</a>
-    {% unless forloop.last %}&nbsp;{% endunless %}
+    <a href="{{site.baseurl}}/kategori/#{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %},&nbsp;{% endunless %}
     {% endfor %}
   </div>
   <div class="post-tags">
-    Kata kunci : {{page.tags | capitalize | join: ', '}}
+    {% if post %}
+      {% assign tags = post.tags %}
+    {% else %}
+      {% assign tags = page.tags %}
+    {% endif %}
+    Kata kunci : 
+    {% for tag in tags %}
+    {{tag}}
+    {% unless forloop.last %},&nbsp;{% endunless %}
+    {% endfor %}
   </div>
 
 {% if page.comments %}
