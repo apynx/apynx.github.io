@@ -34,6 +34,7 @@ layout: default
   {% endif %}
 -->
 
+{% if page.comments %}
 <div class="comments-block">
   <button id="show-comments" onclick="disqus();return false;">Tampilkan Komentar</button>
 </div>
@@ -69,14 +70,10 @@ if (hash.length > 8) {
       disqus();
   }
 }
-
-//Remove this if you don't want to load comments for search engines
-if(/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
- disqus();
-}
 </script>
-
+{% endif %}
 </article>
+
 
 <div class="post-pagination">
   {% if page.previous %}
