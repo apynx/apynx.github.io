@@ -63,11 +63,15 @@ figure.highlight {
   margin-bottom: 8px;
   padding: 5px 10px;
   text-decoration: none;
-  border: 1px solid var(--border-color);
+  color: var(--body-bg);
+  background-color: var(--link-color);
+  border: 1px solid var(--link-color);
   border-radius: var(--border-radius);
 
   &:hover {
     text-decoration: none;
-    color: var(--body-bg);
+    border: 1px solid var(--border-color);
+    color: var(--link-color);
+    background-color: var(--body-bg);
   }
 }
