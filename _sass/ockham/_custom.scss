@@ -91,12 +91,8 @@ figure.highlight {
 input[type="text"], input[type="email"], input[type="search"], 
 input[type="submit"], button, textarea { 
   padding: .5em 1em; 
-  border: 1px solid #e5e5e5; 
+  border: 1px solid var(--link-color); 
   border-radius: 10px; 
-  margin-bottom: 1em; 
-  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", 
-                "Roboto", "Oxygen", "Ubuntu", "Cantarell", 
-                "Fira Sans", "Droid Sans", "Helvetica Neue", 
-                Arial, sans-serif; 
+  margin-bottom: 1em;
 }
-textarea { width: 73%;  resize: none; }
+textarea { width: 73%; }
