@@ -4,6 +4,7 @@ title       : Keunggulan Jekyll
 author      : Aping
 date        : 2022-05-02 19:39:06 +0700
 categories  : Jekyll
+comments    : true
 ---
 Di postingan ini saya akan menuliskan apa yang menjadi keunggulan Jekyll jika dibandingkan dengan platform blogging lain seperti Blogger, Wordpress, Joomla, dan sebagainya. Tentunya jika dilihat dari sudut pandang saya sendiri yaa.
 

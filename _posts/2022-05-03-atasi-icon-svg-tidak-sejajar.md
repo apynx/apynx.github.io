@@ -4,6 +4,7 @@ title       : Mengatasi Icon SVG Tidak Sejajar
 author      : Aping
 date        : 2022-05-03 15:32:06 +0700
 categories  : CSS
+comments    : true
 ---
 Ketika saya mengutak-atik theme Jekyll dari Ockham ini saya menyadari bahwa theme ini menggunakan icon dari Font-Awesome. Padahal saya paling anti karena beban *load* dan *resource* yang tinggi dari CSS eksternal. Solusinya ya menghapus script Font Awesome dan mengganti icon dengan jenis SVG.
 
