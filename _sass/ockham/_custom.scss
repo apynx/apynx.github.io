@@ -42,7 +42,7 @@ figure.highlight {
 }
 
 #show-comments {
-  background-color: var(--border-color);
+  background-color: var(--body-bg);
   border: 1px solid var(--border-color);
   border-radius: var(--border-radius);
   color: inherit;
@@ -50,5 +50,9 @@ figure.highlight {
   text-align: center;
   font-size: 20px;
   margin: 0px 0px;
-  width: 100%;
+  width: 50%;
+}
+
+.comments-block {
+  text-align: center;
 }
