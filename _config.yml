@@ -48,7 +48,7 @@ plugins:
   - jekyll-seo-tag
 
 paginate: 5
-paginate_path: /halaman-:num/
+paginate_path: /halaman/:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
