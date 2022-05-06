@@ -23,8 +23,10 @@ email: safriladi@gmail.com
 tagline: Just Another FUNtastix Blog
 description: Sekedar coretan kecil dari hal-hal yang menarik perhatian
 author: Aping
-url: "https://apynx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aping.my.id" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
+locale: "id-ID"
+lang: id
 
 # Social Profiles
 facebook_username: safril
@@ -36,7 +38,6 @@ google_analytics: G-M7B0PTSJV0
 
 # Build settings
 markdown: kramdown
-timezone: "Asia/Jakarta"
 permalink: /:title/
 #theme: ockham
 remote_theme: zivong/ockham
