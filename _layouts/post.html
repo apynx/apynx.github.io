@@ -35,7 +35,7 @@ layout: default
     {% else %}
       {% assign categories = page.categories %}
     {% endif %}
-    Kategori : 
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="16px" height="16px" fill="var(--body-color)"><path d="M447.1 96h-172.1L226.7 50.75C214.7 38.74 198.5 32 181.5 32H63.1c-35.35 0-64 28.66-64 64v320c0 35.34 28.65 64 64 64h384c35.35 0 64-28.66 64-64V160C511.1 124.7 483.3 96 447.1 96zM463.1 416c0 8.824-7.178 16-16 16h-384c-8.822 0-16-7.176-16-16V96c0-8.824 7.178-16 16-16h117.5c4.273 0 8.293 1.664 11.31 4.688L255.1 144h192c8.822 0 16 7.176 16 16V416z"/></svg>
     {% for category in categories %}
     <a class="page-taxonomy-item" href="{{site.baseurl}}/kategori/#{{category|slugize}}">{{category}}</a>
     {% unless forloop.last %}{% endunless %}
@@ -47,7 +47,7 @@ layout: default
     {% else %}
       {% assign tags = page.tags %}
     {% endif %}
-    Kata kunci : 
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="16px" height="16px" fill="var(--body-color)"><path d="M48 32H197.5C214.5 32 230.7 38.74 242.7 50.75L418.7 226.7C443.7 251.7 443.7 292.3 418.7 317.3L285.3 450.7C260.3 475.7 219.7 475.7 194.7 450.7L18.75 274.7C6.743 262.7 0 246.5 0 229.5V80C0 53.49 21.49 32 48 32L48 32zM112 176C129.7 176 144 161.7 144 144C144 126.3 129.7 112 112 112C94.33 112 80 126.3 80 144C80 161.7 94.33 176 112 176z"/></svg>
     {% for tag in tags %}
     <i>{{tag}}</i>
     {% unless forloop.last %},{% endunless %}

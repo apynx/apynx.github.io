@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 
 .page, .post {
   h1, h2 {
@@ -10,6 +10,7 @@
 
 .post-entry .post-title {
   font-size: 22px;
+  font-weight: normal;
 }
 
 .post .post-meta {
@@ -67,6 +68,26 @@ figure.highlight {
 .post-tags {
   font-size: small;
   margin-bottom: var(--spacer);
+}
+
+.post-home-categories {
+  margin-top: .5em;
+}
+
+.page-home-taxonomy {
+  display: inline-block;
+  color: $oc-red-7;
+  text-decoration: none;
+  border: 1px solid $oc-red-9;
+  padding: 2px 5px;
+  border-radius: 2px;
+  transition: color 0.2s;
+  margin-bottom: 8px;
+  font-size: 16px;
+
+  &:hover {
+    text-decoration: none;
+    }
 }
 
 .page-taxonomy-item {
