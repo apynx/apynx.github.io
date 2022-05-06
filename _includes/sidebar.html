@@ -4,6 +4,13 @@
     <p>{{ site.description }}</p>
   </div>
 
+  <div id="search">
+    <form action="{{ site.baseurl }}/search/" method="get">
+      <input type="text" name="q" id="search-input" placeholder="Ketik untuk mencari" autofocus>
+      <input type="submit" value="Search" style="display: none;">
+    </form>
+  </div>
+
   {% if site.data.navigation %}
   <nav class="sidebar-nav">
     <ul class="sidebar-nav-list">
