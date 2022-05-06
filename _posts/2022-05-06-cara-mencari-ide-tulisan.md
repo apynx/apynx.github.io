@@ -5,7 +5,7 @@ author      : Aping
 date        : 2022-05-06 17:22:00 +0700
 categories  : Blogging
 tags        : [ide tulisan, ide menulis, ide blog, mendapatkan ide, cara mencari ide]
-comments    : false
+comments    : true
 ---
 Mencari ide untuk tulisan di blog itu gampang-gampang susah. Adakalanya kita menemukan topik atau tema yang menarik, tapi sulit sekali dikembangkan isinya. Kadang pikiran kita seolah buntu, susah sekali mendapatkan inspirasi untuk menulis. Maka dalam tulisan ini saya akan bagikan beberapa cara yang pernah saya lakukan untuk mendapatkan ide dalam menulis blog.
 
