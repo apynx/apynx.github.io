@@ -46,6 +46,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jemoji
 
 paginate: 5
 paginate_path: /halaman/:num/

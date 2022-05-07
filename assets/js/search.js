@@ -73,10 +73,10 @@ layout: null
 			});
 
 			searchResultsEl.innerHTML = resultsHTML;
-			searchProcessEl.innerText = "Showing";
+			searchProcessEl.innerText = "Menampilkan";
 		} else {
-			searchResultsEl.style.display = "none";
-			searchProcessEl.innerText = "No";
+			searchResultsEl.style.display = "tidak ada";
+			searchProcessEl.innerText = "Tidak ada";
 		}
 	}
 
