@@ -15,7 +15,7 @@ Banyak orang berpendapat bahwa topik yang sedang hangat, trending, atau viral ad
 
 Portal berita utama seperti Detik, Kompas, Tempo, Tribun, dan sebagainya banyak menampilkan topik-topik berita yang hangat. Dari sana kamu bisa menentukan topik yang menarik perhatian atau yang sesuai dengan minat untuk kemudian dikembangkan menjadi sebuah ide tulisan.
 
-Kamu bisa merangkai kata-kata berupa opini pribadi terhadap topik yang yang dituju. Gunakan bahasa yang sopan dan menarik serta alur tulisan yang mengalir agar membuat pembaca tidak mudah merasa bosan dengan tulisan kamu.
+Kamu bisa merangkai kata-kata berupa opini pribadi terhadap topik yang yang dituju. Gunakan bahasa yang sopan dan menarik serta alur tulisan yang mengalir agar membuat pembaca tidak mudah bosan dengan tulisanmu.
 
 Yang perlu diingat, topik yang sedang hangat dibicarakan memang bisa membuat tulisan kamu nongol di halaman pertama pencarian, tapi bisa juga tenggelam karena banyaknya orang yang menuliskan topik serupa. Sebaiknya, hindari memilih topik yang bertema negatif seperti perselingkuhan, korupsi, tindak kriminal, dan sebagainya.
 
