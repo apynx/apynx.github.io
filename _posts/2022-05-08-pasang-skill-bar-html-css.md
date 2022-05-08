@@ -7,15 +7,15 @@ categories  : [Jekyll, CSS]
 tags        : [skill bar, progress bar, script skill bar tanpa javascript]
 comments    : true
 ---
-Dari kemarin saya kepikiran ingin memasang skill bar (atau progress bar) karena terinspirasi dari situs-situs portofolio yang dibuat dengan Hugo. Kok kesannya keren dan profesional gitu ya.
+Dari kemarin saya kepikiran ingin memasang *skill bar* (atau *progress bar*) karena terinspirasi dari situs-situs portofolio yang dibuat dengan Hugo. Kok kesannya keren dan profesional gitu daripada cuma menampilkan *badge*. Rencananya mau saya pasang di halaman '[Tentang Saya]({{ base.url }}/tentang-saya/ "Halaman Tentang Saya")'.
 
-Akhirnya mulailah ~~pengembaraan~~ pencarian saya pada script-script dan artikel yang membahas tentang desain skill bar. Rata-rata sih mereka memakai tambahan Javascript, bahkan ada yang memanfaatkan Bootstrap dan jQuery. Saya sih maunya yang simpel aja, cukup dengan HTML dan CSS biar tidak mempengaruhi performa blog secara signifikan.
+Akhirnya mulailah ~~pengembaraan~~ pencarian saya pada script-script dan artikel yang membahas tentang desain skill bar. Rata-rata mereka memakai tambahan Javascript, bahkan ada yang memanfaatkan Bootstrap dan jQuery. Saya sih maunya yang simpel aja, cukup dengan HTML dan CSS biar tidak mempengaruhi performa blog secara signifikan.
 
 Hampir semua code dan script yang bertebaran di internet saya coba. Mencari mana yang paling mudah diterapkan di blog berbasis Jekyll ini. Peringatan error yang muncul sudah tak terhitung berapa kali nongol di layar laptop.
 
-Saya menemukan blog menarik dari mas/mbak [Thai Nhat](https://us.niemvuilaptrinh.com/article/15-examples-of-html5-progress-bar "33 Examples Of Progress Bar Javascript"){:target="_blank"}{:rel="nofollow noopener noreferrer"}. Ada yang bagus dan cocok, tapi ternyata perlu banyak perubahan untuk diterapkan di tema blog ini. Sebenarnya saya juga menemukan yang sederhana dan rapi tampilannya seperti pada tutorial W3 schools tentang [How TO - CSS Skill Bar](https://www.w3schools.com/howto/howto_css_skill_bar.asp "How TO - CSS Skill Bar"){:target="_blank"}{:rel="nofollow noopener noreferrer"} dan dari [Shantanu Jana](https://dev.to/shantanu_jana/animated-skills-bar-html-and-css-1fbl "Animated Skills Bar using HTML and CSS"){:target="_blank"}{:rel="nofollow noopener noreferrer"} hanya saja daftar skill justru dibuat menjadi variable pada CSS. Itu yang saya tidak suka. Kode CSS akan jadi panjaaang sekali.
+Saya menemukan blog menarik dari mas/mbak [Thai Nhat](https://us.niemvuilaptrinh.com/article/15-examples-of-html5-progress-bar "33 Examples Of Progress Bar Javascript"){:target="_blank"}{:rel="nofollow noopener noreferrer"}. Ada yang bagus dan cocok, tapi ternyata perlu banyak perubahan untuk diterapkan di tema blog ini. Sebenarnya ada juga yang sederhana dan rapi tampilannya seperti pada tutorial W3 schools tentang [How TO - CSS Skill Bar](https://www.w3schools.com/howto/howto_css_skill_bar.asp "How TO - CSS Skill Bar"){:target="_blank"}{:rel="nofollow noopener noreferrer"} dan dari [Shantanu Jana](https://dev.to/shantanu_jana/animated-skills-bar-html-and-css-1fbl "Animated Skills Bar using HTML and CSS"){:target="_blank"}{:rel="nofollow noopener noreferrer"}, hanya saja daftar skill-nya justru dibuat menjadi variable pada CSS. Itu yang saya tidak suka. Kode CSS akan jadi panjaaang sekali.
 
-Akhirnya setelah trial dan error saya mendapatkan script yang bisa berjalan dengan efektif dan efisien. Jadi buat kamu yang sedang mencari cara memasang skill bar yang mudah, sederhana, dan tanpa menggunakan Javascript, jQuery, atau Bootstrap maka posting ini memang buat kamu.
+Akhirnya setelah *trial-error* saya mendapatkan script yang bisa berjalan dengan efektif dan efisien. Jadi buat kamu yang sedang mencari cara memasang skill bar yang mudah, sederhana, dan tanpa menggunakan Javascript, jQuery, atau Bootstrap maka posting ini memang buat kamu.
 
 ### Cara Pasang Skill Bar Hanya dengan HTML dan CSS
 
@@ -94,4 +94,4 @@ Contoh implementasi dari script di atas bisa kamu lihat pada Codepen di bawah in
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-Udah, gitu aja. Gampang kaan? Tentu saja kamu bisa mengubah properti dari masing-masing script di atas sesuai dengan kebutuhan kamu. Semoga bermanfaat.
+Udah, gitu aja. Gampang kaan? Tentu saja kamu bisa mengubah properti dari masing-masing script di atas sesuai dengan kebutuhan kamu. Karena hanya menggunakan script HTML dan CSS aja maka script di atas bisa juga kamu terapkan di platform lain seperti Hugo, Gatsby, bahkan Blogger atau Wordpress. Semoga bermanfaat.
