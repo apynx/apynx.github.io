@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 
+body {
+  border-top: 4px solid $oc-lime-7;
+  margin: 0;
+}
+
 .page, .post {
   h1, h2 {
     font-size: 24px;
@@ -157,8 +162,8 @@ textarea { width: 73%; }
 /* The alert message box */
 .alert {
   padding: 20px;
-  background-color: #f44336; /* Red */
-  color: white;
+  background-color: $oc-orange-8; /* Red */
+  color: $oc-white;
   margin-bottom: 15px;
   border-radius: 25px;
 }
@@ -166,7 +171,7 @@ textarea { width: 73%; }
 /* The close button */
 .closebtn {
   margin-left: 15px;
-  color: white;
+  color: $oc-white;
   font-weight: bold;
   float: right;
   font-size: 22px;
@@ -177,5 +182,45 @@ textarea { width: 73%; }
 
 /* When moving the mouse over the close button */
 .closebtn:hover {
-  color: black;
+  color: $oc-black;
 }
+
+/* Animated Skill Bar */
+.skills
+	{
+		padding: 10px;
+		box-sizing: border-box;
+		box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+	}
+  .skill
+	{
+		box-sizing: border-box;
+		background: var(--border-color);
+		border-radius: 8px;
+	}
+.level
+	{
+		width: 100%;
+		height: 5px;
+		border-radius: 8px;
+    background-color: $oc-blue-4;
+	}
+  .skillbox
+	{
+		box-sizing: border-box;
+		width: 100%;
+		margin: 10px 0;
+	}
+	.skillbox p
+	{
+		padding: 0;
+		margin: 5px 0;
+		color: $oc-white;
+    font-size: 14px;
+	}
+	.skillbox p:nth-child(2)
+	{
+		float: right;
+		position: relative;
+		top: -30px;
+	}

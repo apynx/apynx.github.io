@@ -3,45 +3,345 @@ layout: page
 title: Tentang Saya
 permalink: /tentang-saya/
 ---
-Panggil saja Aping. Seorang *Front-End Developer* sekaligus PNS di Mahkamah Agung yang doyan ngutak-atik kode meskipun gak *pinter-pinter amat*. Suka tantangan dan gemar mempelajari sesuatu yang baru, asalkan masih sesuai minat.
+Panggil saja Aping. Seorang *Front-End Web Developer* sekaligus PNS di Mahkamah Agung yang doyan ngutak-atik kode meskipun gak *pinter-pinter amat*. Suka tantangan dan gemar mempelajari sesuatu yang baru, asalkan masih sesuai minat.
 
 Ini situs pertama pake Jekyll yang benar-benar dibikin dengan niat. Yang gak pake niat sudah ada puluhan situs tapi ujung-ujungnya terbengkalai. Kenapa gak balik ke Blogger sama WP? *Bosen*.
 
-Mahir; atau setidaknya; pernah mempelajari tentang :
+<div class="skills">
+		<h3>Skill Bahasa Pemrograman</h3>
+		<div class="skillbox">
+			<p>HTML</p>
+			<p>90%</p>
+			<div class="skill">
+				<div class="level" style="width: 90%;"></div>
+			</div>
+		</div>
+		<div class="skillbox">
+			<p>CSS</p>
+			<p>90%</p>
+			<div class="skill">
+				<div class="level" style="width: 90%;"></div>
+			</div>
+		</div>
+		<div class="skillbox">
+			<p>JavaScript</p>
+			<p>70%</p>
+			<div class="skill">
+				<div class="level" style="width: 70%;"></div>
+			</div>
+		</div>
+		<div class="skillbox">
+			<p>HTML5</p>
+			<p>75%</p>
+			<div class="skill">
+				<div class="level" style="width: 75%;"></div>
+			</div>
+		</div>
+		<div class="skillbox">
+			<p>CSS3</p>
+			<p>70%</p>
+			<div class="skill">
+				<div class="level" style="width: 70%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>PHP</p>
+			<p>75%</p>
+			<div class="skill">
+				<div class="level" style="width: 75%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>AMP</p>
+			<p>70%</p>
+			<div class="skill">
+				<div class="level" style="width: 70%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>jQuery</p>
+			<p>50%</p>
+			<div class="skill">
+				<div class="level" style="width: 50%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Bootstrap</p>
+			<p>75%</p>
+			<div class="skill">
+				<div class="level" style="width: 75%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>TailwindCSS</p>
+			<p>40%</p>
+			<div class="skill">
+				<div class="level" style="width: 40%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Markdown</p>
+			<p>85%</p>
+			<div class="skill">
+				<div class="level" style="width: 85%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>MySQL</p>
+			<p>70%</p>
+			<div class="skill">
+				<div class="level" style="width: 70%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>SQLite</p>
+			<p>45%</p>
+			<div class="skill">
+				<div class="level" style="width: 45%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Microsoft SQL Server</p>
+			<p>60%</p>
+			<div class="skill">
+				<div class="level" style="width: 60%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>MariaDB</p>
+			<p>35%</p>
+			<div class="skill">
+				<div class="level" style="width: 35%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Git</p>
+			<p>60%</p>
+			<div class="skill">
+				<div class="level" style="width: 60%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Ruby</p>
+			<p>60%</p>
+			<div class="skill">
+				<div class="level" style="width: 60%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>PHP</p>
+			<p>75%</p>
+			<div class="skill">
+				<div class="level" style="width: 75%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Java</p>
+			<p>30%</p>
+			<div class="skill">
+				<div class="level" style="width: 30%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Perl</p>
+			<p>25%</p>
+			<div class="skill">
+				<div class="level" style="width: 25%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Phyton</p>
+			<p>40%</p>
+			<div class="skill">
+				<div class="level" style="width: 40%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>C++</p>
+			<p>45%</p>
+			<div class="skill">
+				<div class="level" style="width: 45%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>C#</p>
+			<p>40%</p>
+			<div class="skill">
+				<div class="level" style="width: 40%;"></div>
+			</div>
+		</div>
+        <h3>Framework dan CMS</h3>
+        <div class="skillbox">
+			<p>Blogger</p>
+			<p>90%</p>
+			<div class="skill">
+				<div class="level" style="width: 90%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Wordpress</p>
+			<p>85%</p>
+			<div class="skill">
+				<div class="level" style="width: 85%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Jekyll</p>
+			<p>90%</p>
+			<div class="skill">
+				<div class="level" style="width: 90%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Hugo</p>
+			<p>80%</p>
+			<div class="skill">
+				<div class="level" style="width: 80%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>React</p>
+			<p>65%</p>
+			<div class="skill">
+				<div class="level" style="width: 65%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>SASS</p>
+			<p>75%</p>
+			<div class="skill">
+				<div class="level" style="width: 75%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Gatsby</p>
+			<p>60%</p>
+			<div class="skill">
+				<div class="level" style="width: 60%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>NextJS</p>
+			<p>55%</p>
+			<div class="skill">
+				<div class="level" style="width: 55%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>VueJS</p>
+			<p>50%</p>
+			<div class="skill">
+				<div class="level" style="width: 50%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Laravel</p>
+			<p>50%</p>
+			<div class="skill">
+				<div class="level" style="width: 50%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Code Igniter</p>
+			<p>55%</p>
+			<div class="skill">
+				<div class="level" style="width: 55%;"></div>
+			</div>
+		</div>
+        <h3>Aplikasi Desain dan Komputasi Harian</h3>
+        <div class="skillbox">
+			<p>Adobe Photoshop</p>
+			<p>80%</p>
+			<div class="skill">
+				<div class="level" style="width: 80%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Adobe Illustrator</p>
+			<p>50%</p>
+			<div class="skill">
+				<div class="level" style="width: 50%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Adobe After Effects</p>
+			<p>70%</p>
+			<div class="skill">
+				<div class="level" style="width: 70%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Adobe Dreamweaver</p>
+			<p>70%</p>
+			<div class="skill">
+				<div class="level" style="width: 70%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Adobe Audition</p>
+			<p>65%</p>
+			<div class="skill">
+				<div class="level" style="width: 65%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Adobe Lightroom</p>
+			<p>75%</p>
+			<div class="skill">
+				<div class="level" style="width: 75%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Adobe Premiere Pro</p>
+			<p>60%</p>
+			<div class="skill">
+				<div class="level" style="width: 60%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>GIMP</p>
+			<p>40%</p>
+			<div class="skill">
+				<div class="level" style="width: 40%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Inkscape</p>
+			<p>45%</p>
+			<div class="skill">
+				<div class="level" style="width: 45%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Microsoft Word</p>
+			<p>95%</p>
+			<div class="skill">
+				<div class="level" style="width: 95%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Microsoft Excel</p>
+			<p>85%</p>
+			<div class="skill">
+				<div class="level" style="width: 85%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Microsoft PowerPoint</p>
+			<p>85%</p>
+			<div class="skill">
+				<div class="level" style="width: 85%;"></div>
+			</div>
+		</div>
+        <div class="skillbox">
+			<p>Microsoft Access</p>
+			<p>80%</p>
+			<div class="skill">
+				<div class="level" style="width: 80%;"></div>
+			</div>
+		</div>
+	</div>
 
-![HTML](//img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](//img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](//img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](//img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](//img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white)
-![jQuery](//img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Markdown](//img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![MySQL](//img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](//img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Ruby](//img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Gatsby](//img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![React](//img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue Js](//img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Laravel](//img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Netlify](//img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Perl](//img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![Phyton](//img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C Plus](//img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C Sharp](//img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 Tools pendukung yang biasa atau pernah saya gunakan:
 
@@ -63,24 +363,6 @@ Tools pendukung yang biasa atau pernah saya gunakan:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-Aplikasi desain dan komputasi harian:
-
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 Sistem operasi yang sedang atau pernah dipakai:
 
