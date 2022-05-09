@@ -18,23 +18,23 @@ Ini situs pertama pake Jekyll yang benar-benar dibikin dengan niat. Yang gak pak
 		</div>
 		<div class="skillbox">
 			<p>CSS</p>
-			<p>90%</p>
+			<p>85%</p>
 			<div class="skill">
-				<div class="level" style="width: 90%;"></div>
+				<div class="level" style="width: 85%;"></div>
 			</div>
 		</div>
 		<div class="skillbox">
 			<p>JavaScript</p>
-			<p>70%</p>
+			<p>65%</p>
 			<div class="skill">
-				<div class="level" style="width: 70%;"></div>
+				<div class="level" style="width: 65%;"></div>
 			</div>
 		</div>
 		<div class="skillbox">
 			<p>HTML5</p>
-			<p>75%</p>
+			<p>80%</p>
 			<div class="skill">
-				<div class="level" style="width: 75%;"></div>
+				<div class="level" style="width: 80%;"></div>
 			</div>
 		</div>
 		<div class="skillbox">
@@ -74,9 +74,9 @@ Ini situs pertama pake Jekyll yang benar-benar dibikin dengan niat. Yang gak pak
 		</div>
         <div class="skillbox">
 			<p>TailwindCSS</p>
-			<p>40%</p>
+			<p>60%</p>
 			<div class="skill">
-				<div class="level" style="width: 40%;"></div>
+				<div class="level" style="width: 60%;"></div>
 			</div>
 		</div>
         <div class="skillbox">
@@ -126,13 +126,6 @@ Ini situs pertama pake Jekyll yang benar-benar dibikin dengan niat. Yang gak pak
 			<p>60%</p>
 			<div class="skill">
 				<div class="level" style="width: 60%;"></div>
-			</div>
-		</div>
-        <div class="skillbox">
-			<p>PHP</p>
-			<p>75%</p>
-			<div class="skill">
-				<div class="level" style="width: 75%;"></div>
 			</div>
 		</div>
         <div class="skillbox">
@@ -194,9 +187,9 @@ Ini situs pertama pake Jekyll yang benar-benar dibikin dengan niat. Yang gak pak
 		</div>
         <div class="skillbox">
 			<p>Hugo</p>
-			<p>80%</p>
+			<p>75%</p>
 			<div class="skill">
-				<div class="level" style="width: 80%;"></div>
+				<div class="level" style="width: 75%;"></div>
 			</div>
 		</div>
         <div class="skillbox">
@@ -258,16 +251,16 @@ Ini situs pertama pake Jekyll yang benar-benar dibikin dengan niat. Yang gak pak
 		</div>
         <div class="skillbox">
 			<p>Adobe Illustrator</p>
-			<p>50%</p>
+			<p>40%</p>
 			<div class="skill">
-				<div class="level" style="width: 50%;"></div>
+				<div class="level" style="width: 40%;"></div>
 			</div>
 		</div>
         <div class="skillbox">
 			<p>Adobe After Effects</p>
-			<p>70%</p>
+			<p>60%</p>
 			<div class="skill">
-				<div class="level" style="width: 70%;"></div>
+				<div class="level" style="width: 60%;"></div>
 			</div>
 		</div>
         <div class="skillbox">
@@ -286,9 +279,9 @@ Ini situs pertama pake Jekyll yang benar-benar dibikin dengan niat. Yang gak pak
 		</div>
         <div class="skillbox">
 			<p>Adobe Lightroom</p>
-			<p>75%</p>
+			<p>70%</p>
 			<div class="skill">
-				<div class="level" style="width: 75%;"></div>
+				<div class="level" style="width: 70%;"></div>
 			</div>
 		</div>
         <div class="skillbox">
