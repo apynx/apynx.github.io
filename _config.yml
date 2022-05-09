@@ -48,7 +48,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 
-paginate: 5
+paginate: 10
 paginate_path: /halaman/:num/
 
 # Exclude from processing.

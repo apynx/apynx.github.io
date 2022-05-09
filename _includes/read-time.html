@@ -1,7 +1,7 @@
 {%- if post.layout != post -%}
   {%- assign words = post.content | strip_html | number_of_words -%}
   {%- if words < 180 -%}
-    1 menit
+    < 1 menit
   {%- elsif words < 360 -%}
     1 menit
   {%- else -%}
@@ -12,7 +12,7 @@
 {%- if post.layout == post -%}
   {%- assign words = content | number_of_words -%}
   {%- if words < 180 -%}
-    1 menit
+    < 1 menit
   {%- elsif words < 360 -%}
     1 menit
   {%- else -%}
