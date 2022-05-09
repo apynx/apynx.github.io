@@ -15,7 +15,7 @@ Waktu di kantor lebih banyak dihabiskan untuk mengerjakan laporan aktualisasi. N
 
 SIPTERA meskipun disebut aplikasi, sebenarnya hanya sebuah database dari Microsoft Access yang diberi GUI untuk input data dan dibuat relasi antar tabelnya. Hasilnya kemudian diintegrasikan ke dalam dokumen Word melalui fitur Mail Merge. Kedengarannya simpel, tapi script yang ditambahkan buanyakk dan bikin pusing.
 
-Sebetulnya ingin dibuat SIPTERA versi web dan kebetulan sudah mulai bikin pakai Code Igniter (CI). Tapi dasar bawaannya gak doyan sama lingkungan back-end, jadinya molor terus ndak rampung-rampung. Maklum, seperti belajar dari awal lagi rasanya.
+Sebetulnya ingin dibuat SIPTERA versi web dan kebetulan sudah mulai bikin pakai Code Igniter (CI). Tapi dasar bawaannya gak doyan sama lingkungan back-end, jadinya molor terus ndak rampung-rampung. Maklum, seperti belajar dari awal lagi.
 
 Aaahh,, Rasanya ingin cepat-cepat kelar aja latsar ini. Dan semoga bisa pindah jabatan ke IT biar sesuai dengan *passion* dan latar belakang pendidikan.
 
