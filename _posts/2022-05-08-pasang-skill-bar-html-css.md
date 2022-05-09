@@ -86,6 +86,10 @@ Kemudian tambahkan script berikut untuk memasang skill bar di halaman atau di po
 </div>
 {% endhighlight %}
 
+Seperti yang kamu lihat, ukuran bar tak lagi diatur dari *rules* CSS atau Javascript, melainkan dari *value* yang diatur oleh properti 'style:width' pada *class* 'level'. Disini akan tampak sekali betapa efisien script di atas untuk diimplementasikan.
+
+Kalau kamu tidak suka pengaturan bar level yang berwarna-warni, hapus aja seluruh properti 'background' yang ada pada CSS inline di atas dan tambahkan properti tersebut ke CSS 'level' sebelumnya.
+
 Contoh implementasi dari script di atas bisa kamu lihat pada Codepen di bawah ini :
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ePXqZe" data-user="apynx" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/apynx/pen/ePXqZe">
