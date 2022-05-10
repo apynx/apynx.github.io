@@ -8,14 +8,19 @@ body {
 .page, .post {
   h1, h2 {
     font-size: 24px;
-    color: var(--link-color) !important;
     text-align: center;
+    background: -webkit-linear-gradient(45deg, $oc-orange-9, $oc-yellow-7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
 }
 
 .post-entry .post-title {
   font-size: 22px;
   font-weight: normal;
+  background: -webkit-linear-gradient(45deg, $oc-orange-9, $oc-yellow-7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .post .post-meta {
