@@ -13,7 +13,7 @@ Akhirnya mulailah ~~pengembaraan~~ pencarian saya pada script-script dan artikel
 
 Hampir semua code dan script yang bertebaran di internet saya coba. Mencari mana yang paling mudah diterapkan di blog berbasis Jekyll ini. Peringatan error yang muncul sudah tak terhitung berapa kali nongol di layar laptop.
 
-Saya menemukan blog menarik dari mas/mbak [Thai Nhat](https://us.niemvuilaptrinh.com/article/15-examples-of-html5-progress-bar "33 Examples Of Progress Bar Javascript"){:target="_blank"}{:rel="nofollow noopener noreferrer"}. Ada yang bagus dan cocok, tapi ternyata perlu banyak perubahan untuk diterapkan di tema blog ini. Sebenarnya ada juga yang sederhana dan rapi tampilannya seperti pada tutorial W3 schools tentang [How TO - CSS Skill Bar](https://www.w3schools.com/howto/howto_css_skill_bar.asp "How TO - CSS Skill Bar"){:target="_blank"}{:rel="nofollow noopener noreferrer"} dan dari [Shantanu Jana](https://dev.to/shantanu_jana/animated-skills-bar-html-and-css-1fbl "Animated Skills Bar using HTML and CSS"){:target="_blank"}{:rel="nofollow noopener noreferrer"}, hanya saja daftar skill-nya justru dibuat menjadi variable pada CSS. Itu yang saya tidak suka. Kode CSS akan jadi panjaaang sekali.
+Saya menemukan blog menarik dari mas/mbak [Thai Nhat](https://us.niemvuilaptrinh.com/article/15-examples-of-html5-progress-bar "33 Examples Of Progress Bar Javascript"){:target="_blank"}{:rel="nofollow noopener noreferrer"}. Ada yang bagus dan cocok, tapi ternyata perlu banyak perubahan untuk diterapkan di tema blog ini. Sebenarnya ada juga yang sederhana dan rapi tampilannya seperti pada tutorial W3 schools tentang [How TO - CSS Skill Bar](https://www.w3schools.com/howto/howto_css_skill_bar.asp "How TO - CSS Skill Bar"){:target="_blank"}{:rel="nofollow noopener noreferrer"} dan dari [Shantanu Jana](https://dev.to/shantanu_jana/animated-skills-bar-html-and-css-1fbl "Animated Skills Bar using HTML and CSS"){:target="_blank"}{:rel="nofollow noopener noreferrer"}, hanya saja daftar skill-nya justru memiliki rules-nya sendiri-sendiri pada CSS. Itu yang saya tidak suka. Kode CSS akan jadi panjaaang sekali.
 
 Akhirnya setelah *trial-error* saya mendapatkan script yang bisa berjalan dengan efektif dan efisien. Jadi buat kamu yang sedang mencari cara memasang skill bar yang mudah, sederhana, dan tanpa menggunakan Javascript, jQuery, atau Bootstrap maka posting ini memang buat kamu.
 
@@ -85,6 +85,10 @@ Kemudian tambahkan script berikut untuk memasang skill bar di halaman atau di po
 	</div>
 </div>
 {% endhighlight %}
+
+Seperti yang kamu lihat, ukuran bar tak lagi diatur dari *rules* CSS atau Javascript, melainkan dari *value* yang diatur oleh properti 'style:width' pada *class* 'level'. Disini akan tampak sekali betapa efisien script di atas untuk diimplementasikan.
+
+Kalau kamu tidak suka pengaturan bar level yang berwarna-warni, hapus aja seluruh properti 'background' yang ada pada CSS inline di atas dan tambahkan properti tersebut ke CSS 'level' sebelumnya.
 
 Contoh implementasi dari script di atas bisa kamu lihat pada Codepen di bawah ini :
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ePXqZe" data-user="apynx" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
