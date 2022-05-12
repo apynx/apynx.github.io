@@ -11,19 +11,19 @@ $xl-screen: 80rem;
   --body-font: 'Lato', sans-serif;
   --body-font-size: 20px;
   --body-line-height: 1.5;
-  --body-color: #{$oc-gray-9};
-  --body-bg: #{$oc-white};
+  --body-color: #{$oc-gray-3};
+  --body-bg: #{$oc-gray-9};
 
-  --link-color: #{$oc-orange-9};
+  --link-color: #{$oc-yellow-7};
 
   --heading-font: 'Lato', sans-serif;
-  --heading-color: #{$oc-black};
+  --heading-color: #{$oc-white};
 
   --code-font: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
-  --code-bg: #{$oc-gray-2};
+  --code-bg: #{$oc-gray-7};
 
   --border-radius: .8em;
-  --border-color: #{$oc-gray-5};
+  --border-color: #{$oc-gray-7};
 
   --sidebar-width: 16rem;
   --sidebar-color: #{$oc-gray-5};
