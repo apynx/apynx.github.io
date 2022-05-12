@@ -1,4 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
 
 body {
   border-top: 4px solid $oc-lime-7;
@@ -17,10 +23,7 @@ body {
 
 .post-entry .post-title {
   font-size: 22px;
-  font-weight: normal;
-  background: -webkit-linear-gradient(45deg, $oc-orange-9, $oc-yellow-7);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  font-weight: bold;
 }
 
 .post .post-meta {
@@ -86,9 +89,9 @@ figure.highlight {
 
 .page-home-taxonomy {
   display: inline-block;
-  color: $oc-orange-8;
+  color: $oc-blue-5;
   text-decoration: none;
-  border: 1px solid $oc-orange-9;
+  border: 1px solid $oc-blue-9;
   padding: 2px 5px;
   border-radius: 2px;
   transition: color 0.2s;
