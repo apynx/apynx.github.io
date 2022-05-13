@@ -21,4 +21,4 @@ Ya ini, aping.my.id. Sesuai dengan nama blog nya. Nama panggilan saya sejak keci
 
 Kalo dibaca kan juga bagus tuh,<br/>Aping -> My ID<br/>ID saya : Aping<br/>Simpel. Mudah diingat. Dan tentu saja, **MURAH**!
 
-Jadi buat kamu yang masih pakai domain gratisan kayak namablogyangpanjangsekali.blogspot.com WAJIB pakai domain MY.ID
+Jadi buat kamu yang masih pakai domain gratisan kayak namablogpanjangsekali.blogspot.com WAJIB pakai domain MY.ID

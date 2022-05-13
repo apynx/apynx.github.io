@@ -389,7 +389,7 @@ Sistem operasi yang sedang atau pernah dipakai:
 		width: 100%;
 		height: 5px;
 		border-radius: 8px;
-    background-color: $oc-blue-4;
+    background-color: #4dabf7;
 	}
   .skillbox
 	{
@@ -401,7 +401,6 @@ Sistem operasi yang sedang atau pernah dipakai:
 	{
 		padding: 0;
 		margin: 5px 0;
-		color: $oc-white;
     font-size: 14px;
 	}
 	.skillbox p:nth-child(2)
