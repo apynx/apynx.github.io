@@ -370,3 +370,44 @@ Sistem operasi yang sedang atau pernah dipakai:
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<style>
+	.skills
+	{
+		padding: 10px;
+		box-sizing: border-box;
+		box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+	}
+  .skill
+	{
+		box-sizing: border-box;
+		background: var(--border-color);
+		border-radius: 8px;
+	}
+.level
+	{
+		width: 100%;
+		height: 5px;
+		border-radius: 8px;
+    background-color: $oc-blue-4;
+	}
+  .skillbox
+	{
+		box-sizing: border-box;
+		width: 100%;
+		margin: 10px 0;
+	}
+	.skillbox p
+	{
+		padding: 0;
+		margin: 5px 0;
+		color: $oc-white;
+    font-size: 14px;
+	}
+	.skillbox p:nth-child(2)
+	{
+		float: right;
+		position: relative;
+		top: -30px;
+	}
+</style>

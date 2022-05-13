@@ -89,9 +89,9 @@ figure.highlight {
 
 .page-home-taxonomy {
   display: inline-block;
-  color: $oc-blue-5;
+  color: $oc-blue-4;
   text-decoration: none;
-  border: 1px solid $oc-blue-9;
+  border: 1px solid $oc-blue-4;
   padding: 2px 5px;
   border-radius: 2px;
   transition: color 0.2s;
@@ -127,6 +127,7 @@ input[type="submit"], button, textarea {
   padding: .5em 1em;
   border-radius: 10px; 
   margin-bottom: 1em;
+  background-color: $oc-gray-0;
 }
 textarea { width: 73%; }
 
@@ -192,43 +193,3 @@ textarea { width: 73%; }
 .closebtn:hover {
   color: $oc-black;
 }
-
-/* Animated Skill Bar */
-.skills
-	{
-		padding: 10px;
-		box-sizing: border-box;
-		box-shadow: 0 20px 40px rgba(0,0,0,0.5);
-	}
-  .skill
-	{
-		box-sizing: border-box;
-		background: var(--border-color);
-		border-radius: 8px;
-	}
-.level
-	{
-		width: 100%;
-		height: 5px;
-		border-radius: 8px;
-    background-color: $oc-blue-4;
-	}
-  .skillbox
-	{
-		box-sizing: border-box;
-		width: 100%;
-		margin: 10px 0;
-	}
-	.skillbox p
-	{
-		padding: 0;
-		margin: 5px 0;
-		color: $oc-white;
-    font-size: 14px;
-	}
-	.skillbox p:nth-child(2)
-	{
-		float: right;
-		position: relative;
-		top: -30px;
-	}
