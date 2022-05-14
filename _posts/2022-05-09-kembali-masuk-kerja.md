@@ -15,6 +15,8 @@ Liburan Idul Fitri tahun ini diberikan selama 10 hari (totalnya). Saking lamanya
 
 Waktu di kantor lebih banyak dihabiskan untuk mengerjakan laporan aktualisasi, ngumpulin foto-foto dokumentasi sebagai eviden. Kebetulan tema yang digarap soal aplikasi SIPTERA (Sistem Informasi Perkara Kepaniteraan) yang sebetulnya pakai sistem jadul tapi masih berguna banget buat bantu kerjaan.
 
+![SIPTERA](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwbCs3BQ2K2MCom31a2iVk1ZCrcZQQ6fw_oFw50dK3_FApzhUuE9PjwQm58cv4oxBBz7A_eKAReb094yA8Xn8AEdZfQSclSKmvvnwY1tzhd5SO1L5JVV0S7UnBkko8QZjjhSh1kYMZLRQzRouoxbuEQ3FtG3ojvxnKG9VCANzVQ_By0WSsgOPfdv1Feg/s800/tampilan-depan-siptera.jpg)
+
 SIPTERA itu inovasi yang saya buat di Kepaniteraan buat bikin akta-akta upaya hukum secara otomatis. Sebelum bikin aplikasi itu, bikin 1 akta aja paling cepet 15 menit. Itupun rawan terjadi 'salah *copy-paste*' dari berkas perkara yang bersangkutan.
 
 Meskipun disebut aplikasi, SIPTERA sebenarnya hanya sebuah database sederhana dari Microsoft Access yang diberi GUI untuk input data dan dibuat relasi antar tabelnya. Database lalu diintegrasikan ke dalam dokumen Word melalui fitur Mail Merge. Kedengarannya simpel, tapi script yang ditambahkan buanyakk dan bikin pusing.
