@@ -48,6 +48,9 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 
+sass:
+    style: compressed
+
 paginate: 10
 paginate_path: /halaman/:num/
 
