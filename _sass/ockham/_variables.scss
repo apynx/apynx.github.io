@@ -9,7 +9,7 @@ $xl-screen: 80rem;
   --spacer-3: calc(var(--spacer) * 3);
 
   --body-font: 'Lato', sans-serif;
-  --body-font-size: 20px;
+  --body-font-size: 1.25rem;
   --body-line-height: 1.5;
   --body-color: #{$oc-gray-3};
   --body-bg: #{$oc-gray-9};
@@ -48,7 +48,7 @@ $xl-screen: 80rem;
 
 @media (min-width: $md-screen) {
   :root {
-    --body-font-size: 20px;
+    --body-font-size: 1.25rem;
 
     --sidebar-width: 20rem;
   }  

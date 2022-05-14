@@ -14,7 +14,7 @@ body {
 
 .page, .post {
   h1, h2 {
-    font-size: 24px;
+    font-size: 1.75rem;
     text-align: center;
     background: -webkit-linear-gradient(45deg, $oc-orange-9, $oc-yellow-7);
     -webkit-background-clip: text;
@@ -24,7 +24,7 @@ body {
 }
 
 .post-entry .post-title {
-  font-size: 22px;
+  font-size: 1.4rem;
   font-weight: bold;
 }
 
@@ -38,7 +38,7 @@ svg {
   }
 
 .post-excerpt {
-    margin: 5px 0 0 0;
+    margin: 0;
   }
 
 a.social-icon {
