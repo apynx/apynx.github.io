@@ -3,7 +3,7 @@ layout: page
 title: Tentang Saya
 permalink: /tentang-saya/
 ---
-Panggil saja Aping. Seorang *Front-End Web Developer* sekaligus PNS di Mahkamah Agung yang doyan ngutak-atik kode meskipun gak *pinter-pinter amat*. Suka tantangan dan gemar mempelajari sesuatu yang baru, asalkan masih sesuai minat.
+Panggil saja Aping. *Front-End Web Developer* sekaligus PNS di Mahkamah Agung yang doyan ngutak-atik kode meskipun gak *pinter-pinter amat*. Suka tantangan dan gemar mempelajari sesuatu yang baru, asalkan masih sesuai minat.
 
 Ini situs pertama pake Jekyll yang benar-benar dibikin dengan niat. Yang gak pake niat sudah ada puluhan situs tapi ujung-ujungnya terbengkalai. Kenapa gak balik ke Blogger sama WP?<br/>*Bosen*.
 
