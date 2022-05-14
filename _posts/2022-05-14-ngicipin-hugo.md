@@ -33,7 +33,7 @@ Tapi benar kata orang. Selama kita ada niat untuk bersungguh-sungguh mengerjakan
 
 Selama penggunaan sih *everything looks good*, tidak ada masalah sama sekali. Saya coba jalankan pake `hugo serve` juga lancar tanpa kendala. Giliran mau 'push' ke Gitlab, baru deh ribetnya keluar.
 
-Jujur, dokumentasi cara deploy Hugo ke Gitlab itu minim banget. Saya coba cara yang disediakan dari official-nya juga tetap gagal. Padahal saya tidak menemukan masalah ini selama pakai Jekyll. Repotnya sih soal SSH, yang ~sialnya~ kebetulan saya belum memahami betul konsep deploy Hugo ke Gitlab ini.
+Jujur, dokumentasi cara deploy Hugo ke Gitlab itu minim banget. Saya coba cara yang disediakan dari official-nya juga tetap gagal. Padahal saya tidak menemukan masalah ini selama pakai Jekyll. Repotnya sih soal SSH, yang ~~sialnya~~ kebetulan saya belum memahami betul konsep deploy Hugo ke Gitlab ini.
 
 Faktor penghambat lainnya, rata-rata dokumentasi untuk masalah yang timbul hampir selalu memakai platform Linux. Ya jelas gak nyambung lah *wong* saya pakai Windows kok 😑 Terminal yang dipakai juga cuma lewat VS Code.
 
