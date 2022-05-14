@@ -1,6 +1,6 @@
 ---
 layout      : post
-title       : Post Styles
+title       : Hello World
 author      : Aping
 date        : 2022-04-30 06:58:06 +0700
 categories  : Jekyll
