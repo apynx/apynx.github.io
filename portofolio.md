@@ -107,11 +107,6 @@ permalink: /portofolio/
       <div class="deskripsi-partner">Download Android Mod and Premium APK</div>
     </li>
     <li class="box-partner">
-      <h3 class="title-partner"><a id='linkblog' title='Cerpen 21' href="https://www.cerpen21.com">Cerpen 21</a></h3>
-      <div class="mas-tamvan"></div>
-      <div class="deskripsi-partner">Kumpulan Cerpen 21 dan Cerita Hub Badan Paling Romantis di Wattpad</div>
-    </li>
-    <li class="box-partner">
       <h3 class="title-partner"><a id='linkblog' title='Kode Forex' href="https://www.kodefx.my.id">Kode Forex</a></h3>
       <div class="mas-tamvan"></div>
       <div class="deskripsi-partner">Tutorial, Strategi, Indikator, dan Robot Forex</div>
@@ -130,6 +125,11 @@ permalink: /portofolio/
       <h3 class="title-partner"><a id='linkblog' title='Flora Welt' href="https://www.florawelt.xyz">Flora Welt</a></h3>
       <div class="mas-tamvan"></div>
       <div class="deskripsi-partner">Die Welt der Flora</div>
+    </li>
+        <li class="box-partner">
+      <h3 class="title-partner"><a id='linkblog' title='Solusindo Tirtatek' href="https://www.solusindotirtatek.co.id">Solusindo Tirtatek</a></h3>
+      <div class="mas-tamvan"></div>
+      <div class="deskripsi-partner">Perusahaan industri pembuatan segala macam barang stainlees/mild steel</div>
     </li>
     <li class="box-partner">
       <h3 class="title-partner"><a id='linkblog' title='Tepung Mocaf Solusindo' href="https://www.tepungmocafsolusindo.co.id">Tepung Mocaf Solusindo</a></h3>

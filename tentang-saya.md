@@ -244,9 +244,9 @@ Ini situs pertama pake Jekyll yang benar-benar dibikin dengan niat. Yang gak pak
         <h3>Aplikasi Desain dan Komputasi Harian</h3>
         <div class="skillbox">
 			<p>Adobe Photoshop</p>
-			<p>80%</p>
+			<p>90%</p>
 			<div class="skill">
-				<div class="level" style="width: 80%;"></div>
+				<div class="level" style="width: 90%;"></div>
 			</div>
 		</div>
         <div class="skillbox">
