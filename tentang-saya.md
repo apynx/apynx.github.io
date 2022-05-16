@@ -3,9 +3,9 @@ layout: page
 title: Tentang Saya
 permalink: /tentang-saya/
 ---
-```Update: 14 Mei 2022```
+```Update: 16 Mei 2022```
 
-Panggil saja Aping. *Half-blood* Arab, Jawa, Madura ~~Cina~~. Muka blasteran sampai gak bakal ada yang tau saya orang mana 😆 Asli kota tape, Bondowoso. Tapi alamat domisili di kota Solo, dan sekarang bermukim di Surabaya karena urusan pekerjaan.
+Panggil saja Aping. *Half-blood* Arab, Jawa, ~~Cina~~ Madura. Muka blasteran sampai gak bakal ada yang tau saya orang mana 😆 Asli kota tape, Bondowoso. Tapi alamat domisili di kota Solo, dan sekarang bermukim di Surabaya karena urusan pekerjaan.
 
 Saya seorang *Front-End Web Developer* sekaligus PNS di Mahkamah Agung yang doyan ngutak-atik kode meskipun gak *pinter-pinter amat*. Hobi traveling, baca komik, dan mempelajari sesuatu yang baru asalkan masih sesuai minat.
 
@@ -26,6 +26,13 @@ Dengan berpindah ke platform *static-site generator* ini saya berharap bisa lebi
 Karena *passion* yang tinggi pada *front-end web development*, saya memulai bisnis sambil kuliah dengan membuka jasa web design sejak tahun 2008. Saat itu saya memanfaatkan domain dan hosting gratis yang diberikan saat menjadi juara pertama lomba blog di Yogyakarta. Penghasilannya tak banyak, tapi cukup lah buat jajan bakso di pinggir rel kereta.
 
 Portofolio juga tidak terlalu istimewa. Kadang malah lupa kalau pernah bikin situs itu, maklum kebiasaan jarang mencatat. Tapi setidaknya sudah ada ~~ratusan~~ puluhan situs corporate dan blog hasil jerih payah saya selama ini. Portofolio saya bisa kamu lihat di [halaman ini](/portofolio/ "Portofolio Saya").
+
+Penghargaan yang pernah saya raih :
+* Juara 2 pada "**Zyrex Blogging Competition**" – Yogyakarta (2007)
+* Juara 1 pada "**NIX 2008 Blogging Competition**" – Yogyakarta (2008)
+* Finalis Wajah "**Model Remaja (WMR) on Air TV**" – Jakarta (2008)
+
+Seperti yang tertera pada penghargaan di atas, selain menjadi *front-end developer*, saya pernah meniti karir sebagai foto model di bawah naungan "Be One Plus Management" Jakarta meski hanya sebentar.
 
 ### Pertanyaan, Kritik, dan Saran
 
