@@ -4,6 +4,8 @@ title: Portofolio
 permalink: /portofolio/
 ---
 
+Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. Baik yang merupakan pembuatan situs baru, sekedar mengubah template/redesign, sampai yang benar-benar saya *handle* dari awal. Sebagian besar situs-situs ini sudah tidak aktif (*expired*), berubah kepemilikan, bahkan ada yang sudah di-*manage* oleh pihak lain. Jadi sengaja tidak mencantumkan link aktif.
+
 <ul class="cards">
   <li class="cards_item">
     <div class="card">
@@ -331,7 +333,7 @@ permalink: /portofolio/
   }
 .card {
     background-color: #343a40;
-    border-radius: 0.25rem;
+    border-radius: 0.5rem;
     box-shadow: 0 20px 40px -14px rgba(0,0,0,0.8);
     display: flex;
     flex-direction: column;
