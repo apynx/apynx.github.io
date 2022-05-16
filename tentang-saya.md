@@ -30,7 +30,7 @@ Portofolio juga tidak terlalu istimewa. Kadang malah lupa kalau pernah bikin sit
 Penghargaan yang pernah saya raih :
 * Juara 2 pada "**Zyrex Blogging Competition**" – Yogyakarta (2007)
 * Juara 1 pada "**NIX 2008 Blogging Competition**" – Yogyakarta (2008)
-* Finalis Wajah "**Model Remaja (WMR) on Air TV**" – Jakarta (2008)
+* Finalis "**Wajah Model Remaja (WMR) on Air TV**" – Jakarta (2008)
 
 Seperti yang tertera pada penghargaan di atas, selain menjadi *front-end developer*, saya pernah meniti karir sebagai foto model di bawah naungan "Be One Plus Management" Jakarta meski hanya sebentar.
 
