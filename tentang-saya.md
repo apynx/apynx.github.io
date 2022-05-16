@@ -5,27 +5,27 @@ permalink: /tentang-saya/
 ---
 ```Update: 16 Mei 2022```
 
-Panggil saja Aping. *Half-blood* Arab, Jawa, ~~Cina~~ Madura. Muka blasteran sampai gak bakal ada yang tau saya orang mana 😆 Asli kota tape, Bondowoso. Tapi alamat domisili di kota Solo, dan sekarang bermukim di Surabaya karena urusan pekerjaan.
+Panggil saja Aping. *Half-blood* Arab, Jawa, ~~Cina~~ Madura. Muka blasteran sampai gak ada yang tau saya orang mana 😆 Asli kota tape, Bondowoso. Tapi domisili di kota Solo, dan sekarang bermukim di Surabaya karena urusan pekerjaan.
 
 Saya seorang *Front-End Web Developer* sekaligus PNS di Mahkamah Agung yang doyan ngutak-atik kode meskipun gak *pinter-pinter amat*. Hobi traveling, baca komik, dan mempelajari sesuatu yang baru asalkan masih sesuai minat.
 
 ### Tentang Blog Ini
 
-Saya mulai menulis blog pada medio tahun 2005 di [Blogdrive](http://safril.blogdrive.com "Safril Blog") untuk membuat diari online, sebagai media curhat, menuliskan opini pribadi, atau menulis hal-hal yang menarik. Bulan Februari 2007 saya pindah ke [Wordpress](https://safril.wordpress.com "Just Another Funtastic Blog") untuk kegiatan blogging yang lebih serius. Semenjak itu saya lebih aktif menulis, meskipun awalnya lebih sering *copas* dari situs-situs besar.
+Saya mulai menulis blog medio tahun 2005 di [Blogdrive](http://safril.blogdrive.com "Safril Blog") untuk bikin diari online, sebagai media curhat, menulis opini pribadi, atau menulis hal-hal menarik. Bulan Februari 2007 saya pindah ke [Wordpress](https://safril.wordpress.com "Just Another Funtastic Blog") untuk kegiatan blogging yang lebih serius. Sejak itu saya lebih aktif menulis, meskipun awalnya lebih sering *copas* dari situs-situs lain.
 
-Tahun 2018 saya memutuskan beralih ke platform Blogger karena memiliki fitur yang lebih baik. Saya bisa memodifikasi template, mengubah struktur/layout blog, sampai memakai *custom domain*. Bahkan saya membuat brand untuk menunjukkan semangat baru menulis, [Oom Blogger](https://oom.web.id "Oom Blogger").
+Tahun 2018 saya beralih ke platform Blogger karena punya fitur yang lebih baik. Saya bisa modifikasi template, ganti layout blog, dan pasang *custom domain*. Saya membuat brand untuk menunjukkan semangat baru menulis, [Oom Blogger](https://oom.web.id "Oom Blogger").
 
-Sampai pada bulan Mei 2022 saya memutuskan migrasi secara bertahap ke platform *static site*. Saya menyadari bahwa kegiatan blogging saya sudah cukup jauh melenceng dari konsep dan rencana semua. Alih-alih fokus pada konten, aktifitas saya justru dihabiskan untuk memodifikasi template, *redesign*, sampai membuat theme baru.
+Sampai bulan Mei 2022 saya memutuskan migrasi secara bertahap ke platform *static site*. Saya sadar kalau kegiatan blogging sudah cukup jauh melenceng dari konsep dan rencana semua. Alih-alih fokus pada konten, aktifitas saya justru dihabiskan untuk memodifikasi template, *redesign*, sampai membuat theme baru.
 
-Pernah selama lebih dari 1 tahun saya hiatus, tidak menulis apapun di blog. Ada aja penyebabnya. Mulai dari lupa, malas, sampai tidak dapat ide. Kebetulan beberapa tahun belakangan saya juga membuka sektor usaha baru yakni bisnis penjualan makanan ringan sehingga kesibukan membuat saya jarang menulis.
+Pernah selama lebih dari 1 tahun saya hiatus, tidak menulis apapun di blog. Ada aja penyebabnya. Mulai dari lupa, malas, sampai tidak dapat ide. Kebetulan beberapa tahun belakangan saya juga membangun usaha baru yakni bisnis penjualan keripik jadi kesibukan membuat saya jarang menulis.
 
-Dengan berpindah ke platform *static-site generator* ini saya berharap bisa lebih fokus membuat konten yang berkualitas dan menuangkan ide atau gagasan yang tercetus di pikiran ke dalam sebuah tulisan. Siapa tahu suatu saat tulisan saya dapat bermanfaat bagi seseorang.
+Dengan berpindah ke platform *static-site generator* ini saya berharap bisa lebih fokus membuat konten yang berkualitas dan menuangkan ide atau gagasan yang tercetus di pikiran ke dalam sebuah tulisan. Siapa tahu suatu saat tulisan saya bisa bermanfaat bagi seseorang.
 
 ### My Professional Work
 
-Karena *passion* yang tinggi pada *front-end web development*, saya memulai bisnis sambil kuliah dengan membuka jasa web design sejak tahun 2008. Saat itu saya memanfaatkan domain dan hosting gratis yang diberikan saat menjadi juara pertama lomba blog di Yogyakarta. Penghasilannya tak banyak, tapi cukup lah buat jajan bakso di pinggir rel kereta.
+Karena *passion* yang tinggi pada *front-end web development*, saya memulai bisnis sambil kuliah dengan membuka jasa web design sejak tahun 2008. Saat itu saya memanfaatkan domain dan hosting gratis yang diberikan saat jadi juara pertama lomba blog. Pendapatannya memang tak banyak, tapi cukup lah buat jajan bakso di pinggir rel kereta.
 
-Portofolio juga tidak terlalu istimewa. Kadang malah lupa kalau pernah bikin situs itu, maklum kebiasaan jarang mencatat. Tapi setidaknya sudah ada ~~ratusan~~ puluhan situs corporate dan blog hasil jerih payah saya selama ini. Portofolio saya bisa kamu lihat di [halaman ini](/portofolio/ "Portofolio Saya").
+Portofolio saya tidak terlalu istimewa. Kadang malah lupa kalau pernah bikin situs web, maklum kebiasaan jarang mencatat. Tapi setidaknya sudah ada ~~ratusan~~ puluhan situs corporate dan blog hasil jerih payah saya selama ini. Portofolio saya bisa kamu lihat di [halaman ini](/portofolio/ "Portofolio Saya").
 
 Penghargaan yang pernah saya raih :
 * Juara 2 pada "**Zyrex Blogging Competition**" – Yogyakarta (2007)
