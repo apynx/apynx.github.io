@@ -17,7 +17,7 @@ Tahun 2018 saya beralih ke platform Blogger karena punya fitur yang lebih baik. 
 
 Sampai bulan Mei 2022 saya memutuskan migrasi secara bertahap ke platform *static site*. Saya sadar kalau kegiatan blogging sudah cukup jauh melenceng dari konsep dan rencana semua. Alih-alih fokus pada konten, aktifitas saya justru dihabiskan untuk memodifikasi template, *redesign*, sampai membuat theme baru.
 
-Pernah selama lebih dari 1 tahun saya hiatus, tidak menulis apapun di blog. Ada aja penyebabnya. Mulai dari lupa, malas, sampai tidak dapat ide. Kebetulan beberapa tahun belakangan saya juga membangun usaha baru yakni bisnis penjualan keripik jadi kesibukan membuat saya jarang menulis.
+Pernah selama lebih dari 1 tahun saya hiatus, tidak menulis apapun di blog. Ada aja penyebabnya. Mulai dari lupa, malas, sampai tidak dapat ide. Kebetulan beberapa tahun belakangan saya juga membangun usaha baru yakni bisnis penjualan keripik jadi semakin sibuk dan jarang menulis.
 
 Dengan berpindah ke platform *static-site generator* ini saya berharap bisa lebih fokus membuat konten yang berkualitas dan menuangkan ide atau gagasan yang tercetus di pikiran ke dalam sebuah tulisan. Siapa tahu suatu saat tulisan saya bisa bermanfaat bagi seseorang.
 
@@ -32,7 +32,7 @@ Penghargaan yang pernah saya raih :
 * Juara 1 pada "**NIX 2008 Blogging Competition**" – Yogyakarta (2008)
 * Finalis "**Wajah Model Remaja (WMR) on Air TV**" – Jakarta (2008)
 
-Seperti yang tertera pada penghargaan di atas, selain menjadi *front-end developer*, saya pernah meniti karir sebagai foto model di bawah naungan "Be One Plus Management" Jakarta meski hanya sebentar.
+Seperti yang tertera pada penghargaan di atas, selain menjadi *front-end developer*, saya pernah berkarir sebagai foto model di bawah naungan "Be One Plus Management" Jakarta meski hanya sebentar.
 
 ### Pertanyaan, Kritik, dan Saran
 
