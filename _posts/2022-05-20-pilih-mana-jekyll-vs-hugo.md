@@ -68,7 +68,6 @@ Kamu memang bisa mendapatkan hasil yang sama di Jekyll, tapi tentu butuh lebih b
 Cara hosting Jekyll dan Hugo sangat gampang. Tapi dalam hal ini Jekyll menjadi pemenang. Jekyll dan GitHub Pages memiliki hubungan yang erat dan lama. itu berarti menerapkan proyek Jekyll ke GitHub Pages menjadi sangat sederhana dan cepat, cocok untuk kamu yang baru belajar atau sekedar coba-coba.
 
 Tapi secara umum, kamu punya dua opsi untuk meletakkan file di hosting:
-
 1. Kamu bisa menjalankan framework secara lokal lalu mengunggah hasilnya ke server. Bisa dengan cara manual atau menginstruksikan beberapa layanan untuk mengambil HTML Anda yang sudah diperbarui.
 2. Kamu bisa menginstall static site generator di komputer cloud, menjalankan perintah untuk pembuatan konten, lalu menyajikan file yang sudah dibuat. Ini cara kerja layanan seperti Amazon Amplify, CloudCannon, dan Netlify.
 
