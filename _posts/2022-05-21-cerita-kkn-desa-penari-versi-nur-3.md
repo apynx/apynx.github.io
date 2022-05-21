@@ -50,9 +50,7 @@ kalimat terakhir yang Widya ucapkan sebelum kembali ke kamarnya adalah, "kamu bi
 
 Nur membereskan semuanya saat itu juga, ia mengembalikan tas Ayu pada tempatnya, sempat ia melihat Widya yang tengah tidur, ia mengurungkan niat untuk membangunkanya, esok, ia harus bertemu dengan Bima, Nur yang paling sadar, tempat ini sudah menolak mereka semua.
 
-sejak insiden itu, Ayu menghindari Nur, terlebih Bima apalagi, meski begitu, tidak ada yang nampak bahwa mereka sedang memiliki urusan, Widya wahyu dan Anton pun, di buat tidak sadar, bahwa ada permasalah internal pada kelompok KKN mereka. Nur, bingung, tidak ada yang bisa-
-
-untuk di ajak berbagi, kecuali. mbah Buyut, namun, ia tidak tahu dimana beliau tinggal, pun Nur sudah mencoba mengelilingi desa, tak di temui sosok lelaki tua itu, sehingga akhirnya, Nur berinisiatif menyelesaikan ini sendiri, ia menemui Bima, sore itu, mengajaknya ke tepi sungai
+sejak insiden itu, Ayu menghindari Nur, terlebih Bima apalagi, meski begitu, tidak ada yang nampak bahwa mereka sedang memiliki urusan, Widya wahyu dan Anton pun, di buat tidak sadar, bahwa ada permasalah internal pada kelompok KKN mereka. Nur, bingung, tidak ada yang bisa untuk di ajak berbagi, kecuali. mbah Buyut, namun, ia tidak tahu dimana beliau tinggal, pun Nur sudah mencoba mengelilingi desa, tak di temui sosok lelaki tua itu, sehingga akhirnya, Nur berinisiatif menyelesaikan ini sendiri, ia menemui Bima, sore itu, mengajaknya ke tepi sungai
 
 "ceritakno sing gak isok mok ceritakne nang ngarep'e Ayu" (ceritakan yang gak bisa kamu ceritakan didepan Ayu)
 
@@ -106,9 +104,7 @@ Ayu, Nur dan Anton pergi ke lokasi, waktu itu ramai, dan ketika Nur tiba, seoran
 
 (Tamu sudah dihormati tambah seenaknya, kesini kamu kesini!!)
 
-Nur kaget, ia di lindungi warga lain, tidak hanya pria itu, ada satu lagi, yang juga di tahan, sayangnya, pria yang satu lagi, melotot pada pria pertama, seakan ia marah pada warga desa itu. "aku wes janji-
-
-jogo cah iki, awakmu ra oleh gawe perkara ambek arek iki" (saya sudah berjanji sama seseorang untuk jaga anak ini, kamu tidak boleh membuat masalah sama dia)
+Nur kaget, ia di lindungi warga lain, tidak hanya pria itu, ada satu lagi, yang juga di tahan, sayangnya, pria yang satu lagi, melotot pada pria pertama, seakan ia marah pada warga desa itu. "aku wes janji jogo cah iki, awakmu ra oleh gawe perkara ambek arek iki" (saya sudah berjanji sama seseorang untuk jaga anak ini, kamu tidak boleh membuat masalah sama dia)
 
 warga yang resah akhirnya membawa Nur ke rumah mereka, berikut Ayu dan Anton, di ikuti yang lain, kecuali, Widya.
 
@@ -127,9 +123,7 @@ sejak awal, Widya juga yang paling aneh di tempat ini.
 "aku gak isok ngomong Wid, penjelasane ruwet, tapi, aku wes keroso ngene iki ket mondok," kata Nur, "Ghaib iku nyata Wid" 
 (aku gak bisa jelaskan secara spesifik, tapi, aku sudah merasa begini sejak mondok, yang jelas, ghaib itu nyata Wid)
 
-"awakmu onok sing jogo ya?" (kamu ada yang jaga ya?) tanya Widya, yang membuat Nur semakin kaget, bingung harus menjelaskanya, ia harus mengingat bahwa sebelum keluar dari pesantren, banyak temanya yang bilang, setiap malam, Nur terbangun dan melafaldzkan doa yang bahkan-
-
-sangat susah di hafal oleh santri pondok saat itu.
+"awakmu onok sing jogo ya?" (kamu ada yang jaga ya?) tanya Widya, yang membuat Nur semakin kaget, bingung harus menjelaskanya, ia harus mengingat bahwa sebelum keluar dari pesantren, banyak temanya yang bilang, setiap malam, Nur terbangun dan melafaldzkan doa yang bahkan sangat susah di hafal oleh santri pondok saat itu.
 
 teman-temanya sampai memanggil guru mereka, agar Nur di ruqiah, namun, guru Nur menolak, beralasan bahwa, selama tidak menganggu keimanan Nur, di biarkan saja, daripada menjadi boomerang untuk Nur, bahkan,
 
@@ -141,9 +135,7 @@ tanpa Nur sadari, itu adalah kali pertama ia bisa bicara lagi sama Widya setelah
 
 karena Nur percaya, Widya punya apa yang ia cari selama ini, meski itu hanya asumsi, namun, ia yakin, Widya memilikinya.
 
-hingga, kesempatan itu muncul, Nur, melihat kamar, tanpa ada satu orangpun, Ayu dan Widya mengerjakan proker mereka, Nur membuka almari, mengeluarkan-
-
-isi tas Widya.
+hingga, kesempatan itu muncul, Nur, melihat kamar, tanpa ada satu orangpun, Ayu dan Widya mengerjakan proker mereka, Nur membuka almari, mengeluarkan isi tas Widya.
 
 ia membongkar semuanya, mencari hingga ke celah terkecil di tas yang Widya bawa, semua persedian yang ia bawa tak luput dari pencarianya, sampai, Nur akhirnya menemukanya.
 
@@ -151,9 +143,7 @@ sebuah logam melingkar, dengan bentuk ukiran dari kemuning, bentuknya indah laya
 
 sebuah perhiasan, tidak hanya itu, di tengahnya, ada batu mulia berwarna hijau, dengan wajah bingung, Nur bergumam sendiran "Kawaturih" itu, bagaimana bisa ada pada Widya.
 
-melihat itu, Nur sudah hilang kesabaran, ia membongkar isi tas Ayu, mengambil selendang hijaunya, 2 benda itu, Nur simpan pada sebuah kotak kayu yang ia temukan di pawon (dapur) tempat biasa untuk menyimpan bumbu masakan, tidak hanya itu, Nur menutupinya dengan kain putih, yang-
-
-di dalamnya, ada kitab agamanya. Nur menyembunyikan tepat di bawah meja kamar, tertutup taplak meja. lalu, Nur pergi mencari Ayu,
+melihat itu, Nur sudah hilang kesabaran, ia membongkar isi tas Ayu, mengambil selendang hijaunya, 2 benda itu, Nur simpan pada sebuah kotak kayu yang ia temukan di pawon (dapur) tempat biasa untuk menyimpan bumbu masakan, tidak hanya itu, Nur menutupinya dengan kain putih, yang di dalamnya, ada kitab agamanya. Nur menyembunyikan tepat di bawah meja kamar, tertutup taplak meja. lalu, Nur pergi mencari Ayu,
 
 setelah menemukan Ayu di tempat proker, Nur menarik Ayu, membawanya menjauh sebelum menampar wajahnya sampai Ayu, tidak bisa bicara apa-apa.
 
@@ -227,7 +217,7 @@ dan warga itu pun pergi.
 
 Nur menjelaskan kronologi kejadian itu, namun, ia meminta pak Prabu tidak menceritakan semua ini kepada warga, Anton dan Wahyu yang mendengarnya seakan tidak percaya dengan apa yang ia dengar.
 
-"Asu, kok isok loh" (anj*ng! kok bisa bisanya) Wahyu tampak merah padam mendengarnya.
+"Asu, kok isok loh" (anjxxng! kok bisa bisanya) Wahyu tampak merah padam mendengarnya.
 
 pak Prabu pun mengumpulkan warga, meminta mereka semua pergi menyisir setiap penjuru Desa, ia beralaskan, bahwa Bima dan Widya hilang kemarin malam, dan saat ini belum kembali.
 
@@ -275,9 +265,7 @@ Wahyu, segera memeluknya, menutupi Nur agar tidak melihat Bima yang menjadi sepe
 
 Mbah buyut kemudian mengatakan, bahwa bila sukma dua orang ini sedang terjebak, namun, ada satu orang yang bukan hanya sukmanya yang hilang atau di sesatkan, melainkan raganya juga ikut disesatkan, ia adalah Widya, orang yang paling di inginkan oleh, Badarawuhi namun, ia meleset
 
-Mbah buyut menunjukkan kawaturih, yang harusnya memiliki pasangan, benda ini di letakkan di lengan seorang penari, sebagai susuk, entah ada kejadian apa, Badarawuhi menginginkan benda ini ada pada Widya, namun, Nur yang menemukanya, kemudian mengambilnya, membuat benda ini-
-
-kehilangan pemilik, yang maka artinya, Nur yang memiliki, tapi, Nur di lindungi, itulah alasan kenapa Nur selalu merasakan bahwa badanya terasa berat di jam-jam tertentu, mbah Dok yang melindungi Nur sudah berkelahi hampir dengan setengah penghuni hutan ini.
+Mbah buyut menunjukkan kawaturih, yang harusnya memiliki pasangan, benda ini di letakkan di lengan seorang penari, sebagai susuk, entah ada kejadian apa, Badarawuhi menginginkan benda ini ada pada Widya, namun, Nur yang menemukanya, kemudian mengambilnya, membuat benda ini kehilangan pemilik, yang maka artinya, Nur yang memiliki, tapi, Nur di lindungi, itulah alasan kenapa Nur selalu merasakan bahwa badanya terasa berat di jam-jam tertentu, mbah Dok yang melindungi Nur sudah berkelahi hampir dengan setengah penghuni hutan ini.
 
 setelah itu, pak Prabu meminta agar Ayu dan Bima di tutup oleh kain selendang, di ikat dengan tali kain kafan, membiarkanya seolah-olah mereka sudah tidak bernyawa.
 
@@ -337,14 +325,14 @@ ada kejadian menarik, dimana Nur di ceritakan oleh Umi, semalam sebelum Bima akh
 
 namun, Nur juga diberitahu Abah, bahwa, apa yg di katakan Umi tempo hari tidak usah di pikirkan, karena Umi menceritakan tentang mimpinya, anaknya Bima masih kejang-kejang dan memang meninggal pada malam kejadian , semua itu mimpi Umi, mungkin itu cara Bima pamit dan memberitahu
 
-masih mau lanjut apa besok saja, sekarang yang mbak Nur saksikan saat mendampingi Ayu, ia di ajak ke Ng**i yang katanya bisa menyembuhkan beliau. 
+masih mau lanjut apa besok saja, sekarang yang mbak Nur saksikan saat mendampingi Ayu, ia di ajak ke Ngxxxi yang katanya bisa menyembuhkan beliau. 
 sedikit panjang dan gw jadikan 1 thread saja. gimana?
 
 Maksudnya gw sambung sama thread ini. Biar gak usah nyari thread lagi ya. Gw mau kelarin malam ini semuanya.
 
 Mas Ilham menghubungi Nur, beliau meminta tolong agar Nur bersedia mendampngi Ayu selama proses penyembuhan, dimana dokter sudah angkat tangan dan mendiagnosa Ayu, lumpuh total yang tidak di ketahui penyebabnya. ia di beritahu oleh temanya, bahwa Nur adalah orang yang tahu semua
 
-malam itu, Ayu di bawa ke kabupaten Ng**i, di perjalanan, Nur selalu melihat Ayu, matanya di tutup paksa dengan kain, melihatnya kadang membuat Nur merasa Ayu sadar ada dia di sampingnya. 
+malam itu, Ayu di bawa ke kabupaten Ngxxxi, di perjalanan, Nur selalu melihat Ayu, matanya di tutup paksa dengan kain, melihatnya kadang membuat Nur merasa Ayu sadar ada dia di sampingnya. 
 namun tetap saja nihil, sampailah mereka di rumah orang yang menawarkan bantuan itu
 
 sesampai disana, Ayu di tidurkan di atas pelepah daun pisang. yang kemudian, di masukkan dalam sebuah keranda, Nur yang melihat itu, mengatakan pada mas Ilham bahwa itu perbuatan tidak benar, namun, mas Ilham menolak. mengatakan mungkin masih bisa, mas Ilham sangat frustasi.
@@ -355,16 +343,12 @@ Ayu, tidak dapat di selamatkan, kecuali, di bawa keluar dari pulau jawa. namun, 
 
 "ayu gorong wayahe mati, dadi, keadaane yo bakal koyok ngene sampe wayahe mati" (ayu belum seharusnya meninggal, jadi dia akan terjebak seperti ini sampai waktunya tiba)
 
-"di bawa saja ke pulau K********N, saya ada saudara disana" kata mas Ilham waktu itu.
+"di bawa saja ke pulau KxxxxxN, saya ada saudara disana" kata mas Ilham waktu itu.
 
-"masalahe-
-
-arek iki gak oleh cidek segoro, nek cedek segoro, isok di matekno" (masalahnya, anak ini di larang mendekati laut/samudera, bila tetap nekat dia mati)
+"masalahe arek iki gak oleh cidek segoro, nek cedek segoro, isok di matekno" (masalahnya, anak ini di larang mendekati laut/samudera, bila tetap nekat dia mati)
 
 "kan isok numpak pesawat" (kan bisa naik pesawat) kata mas Ilham, 
-"isok pesawat gak liwat segoro?" (memang bisa pesawat-
-
-nya gak usah melewati laut)
+"isok pesawat gak liwat segoro?" (memang bisa pesawatnya gak usah melewati laut)
 
 setelah darisana itu, Ayu akhirnya di pulangkan, ia ada di rumah itu kurang lebih 3 bulan, sampai akhirnya menghembuskan nafas terakhir juga, setelah orang tua Ayu mengatakan sudah ikhlas, termasuk mas Ilham.
 

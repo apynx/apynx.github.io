@@ -47,7 +47,7 @@ sejenak ia melihat Widya dari jauh, ia berhenti tepat di samping penjual cilok, 
 
 Wahyu menceritakan semuanya, termasuk tempat KKN nya, saat itu juga terlihat jelas sekali perubahan wajah si penjual.
 
-"Loh, sampeyan berarti mari iki liwat Alas D*********??" (berarti sebentar lagi anda akan lewat di hutan **********??)
+"Loh, sampeyan berarti mari iki liwat Alas Dxxxxx??" (berarti sebentar lagi anda akan lewat di hutan xxxxx??)
 
 "nggih pak" (iya pak)
 
@@ -61,7 +61,7 @@ si penjual cilok, tiba-tiba mengatakan hal itu dengan wajah tegang.
 
 "nggih pak" kata Wahyu.
 
-Widya yang sedari tadi memilih diam, hanya mendengarkan saja saat penjual cilok itu menceritakan apa yang harus mereka lakukan saat masuk ke Alas *********** 
+Widya yang sedari tadi memilih diam, hanya mendengarkan saja saat penjual cilok itu menceritakan apa yang harus mereka lakukan saat masuk ke Alas xxxxx 
 "ngeten mas" (begini mas) "engken, bade sampun mlebet nang Alas'e sampeyan mlaku ae teros"
 
 (nanti setelah kalian sampai dan masuk ke jalanan hutanya, jalan saja ya terus)
@@ -138,7 +138,7 @@ rupanya, pertanyaan Widya segera terjawab, dari jauh, tiba-tiba tercium aroma me
 
 di ikuti serombongan orang, dihadapanya ada seorang penari, ia di tuntun naik ke atas panggung, kemudian, semua orang memandang pada satu titik, tempat penari mulai berlenggak lenggok di atas panggung, semua mata, seperti terhipnotis melihatnya
 
-"Ayu'ne curr!!"(cantik sekali anj*ng!!) kata Wahyu
+"Ayu'ne curr!!"(cantik sekali anjxxng!!) kata Wahyu
 
 bingung, apakah hanya perasaan saja, mata si penari beberapa kali mencuri pandang pada Widya, ia seperti mengenal penari itu, tapi, tidak ada yang tau siapa si penari, sampai si bapak tua kembali, menawarkan makanan pada mereka
 
@@ -224,9 +224,7 @@ seharusnya yang lain sudah ada di rumah, entah mencicil laporan proker atau mung
 
 apa yang Widya alami, apakah juga mereka alami, hanya saja mereka menutupi dan lebih memilih diam.
 
-kini, Widya sudah ada di depan pintu, mengetuknya, mengucap salam, dan kemudian melangkah masuk, dilihatnya ruang tengah, tempat biasa Ayu ada disana, menulis laporan, sayangnya-
-
-tidak ada Ayu disana. hanya ruangan kosong.
+kini, Widya sudah ada di depan pintu, mengetuknya, mengucap salam, dan kemudian melangkah masuk, dilihatnya ruang tengah, tempat biasa Ayu ada disana, menulis laporan, sayangnya tidak ada Ayu disana. hanya ruangan kosong.
 
 di teras rumah pun sama, seharusnya Wahyu dan Anto ada disana, sedang bercanda seputar apa yang mereka lakukan hari ini di temani asap rokok dari mulut mereka, atau suara Nur yang sedang mengaji, dan Bima yang entah apa yang ia lakukan
 

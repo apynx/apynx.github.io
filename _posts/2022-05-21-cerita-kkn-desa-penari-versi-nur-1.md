@@ -79,7 +79,7 @@ hujan tiba-tiba turun, tanpa terasa, 4 jam lebih perjalanan ini ditempuh. Mobil 
 
 Nur tidak berkomentar, ia hanya berdiri di samping mobil yang berhenti di tepi jalan hutan ini. sebuah hutan yang sudah di kenal oleh semua orang jawatimur.
 
-Hutan D********, tidak beberapa lama, nyala lampu dan suara motor terdengar. mas Ilham, melambaikan tanganya.
+Hutan Dxxxxx, tidak beberapa lama, nyala lampu dan suara motor terdengar. mas Ilham, melambaikan tanganya.
 
 "iku wong deso'ne, melbu'ne kudu numpak motor, gak isok numpak mobil soale" (itu orang desanya, masuknya harus naik motor, mobil tidak bisa masuk soalnya)
 
@@ -152,13 +152,10 @@ mereka pun segera naik motor, sebelum keluar dari desa itu. sosok yang Nur lihat
 pelan, mobil itu pun meninggalkan jalanan hutan itu. Nur dan Ayu, kembali ke kotanya, mempersiapkan semua, sebelum mereka nanti kembali.
 
 siang itu, Nur melihat Widya dan Ayu di hari pembekalan sebelum keberangkatan KKN mereka. 
-setelah menunggu cukup lama, akhirnya 2 orang yang akan bergabung dalam kelompok KKN mereka pun muncul, namanya adalah Wahyu dan Anton. mereka pun membicarakan semua proker dan menentukan-
+setelah menunggu cukup lama, akhirnya 2 orang yang akan bergabung dalam kelompok KKN mereka pun muncul, namanya adalah Wahyu dan Anton. mereka pun membicarakan semua proker dan menentukan jadwal keberangkatan. semua anak sudah setuju, termasuk Widya, yang hampir sepanjang hari terus menceritakan, bahwa ibunya memiliki firasat yang buruk pada tempat KKN mereka. Nur hanya diam dan mendengar, karena di dalam dirinya, ia merasakan hal yang sama.
 
-jadwal keberangkatan. semua anak sudah setuju, termasuk Widya, yang hampir sepanjang hari terus menceritakan, bahwa ibunya memiliki firasat yang buruk pada tempat KKN mereka. Nur hanya diam dan mendengar, karena di dalam dirinya, ia merasakan hal yang sama.
+Malam keberangkatan, Nur, Widya, Ayu, Bima, Wahyu dan Anton, sudah berkumpul, perjalanan di lanjutkan dengan mobil elf yang sudah mereka sewa untuk mengantarkan mereka ke pemberhentian dimana nanti mereka akan di jemput oleh warga desa. Nur masih bisa melihat temanya, Widya, memasang wajah tidak nyaman. 
 
-Malam keberangkatan, Nur, Widya, Ayu, Bima, Wahyu dan Anton, sudah berkumpul, perjalanan di lanjutkan dengan mobil elf yang sudah mereka sewa untuk mengantarkan mereka ke pemberhentian dimana nanti mereka akan di jemput oleh warga desa. Nur masih bisa melihat temanya, Widya,
-
-memasang wajah tidak nyaman. 
 hanya sebuah harap, yang Nur panjatkan, bahwa mereka berangkat dengan utuh dan semoga, pulang dengan utuh juga.
 
 tetapi, tidak ada yang tahu, doa seperti apa yang akan di ijabah oleh tuhan.
@@ -218,9 +215,7 @@ namun ucapan Widya di tanggapi Ayu dengan nada mengejek. "halah, palingan yo ono
 
 Nur, yang mendengar itu bereaksi pada Ayu.
 
-"Yu, gak onok loh deso maneh nang
-
--kene)
+"Yu, gak onok loh deso maneh nang kene)
 
 "jare wong biyen, nek krungu suoro gamelan, iku pertanda elek" (kata orang dulu, bila mendengar suara gamelan, itu artinya sebuah pertanda buruk)
 
@@ -240,9 +235,7 @@ Nur dan Ayu pergi ke pawon (dapur) , wajah Nur, masih tegang, ia masih ingat, ma
 
 "Opo seh maksudmu ngomong ngunu?!" (apa sih maksudmu ngomong kaya gitu?!) ucap Ayu ketus.
 
-"bekne, pak Prabu nduwe alasan, lapo ngelarang awak dewe KKN nang kene" (mungkin, pak Prabu punya alasan, kenapa melarang-
-
--kita KKN disini)
+"bekne, pak Prabu nduwe alasan, lapo ngelarang awak dewe KKN nang kene" (mungkin, pak Prabu punya alasan, kenapa melarang kita KKN disini)
 
 "nek awakmu ngomong ngene, soale perkoro Widya mau, ra masuk akal Nur, awakmu melu observasi nang kene kan ambek aku, opo onok sing aneh? gak kan. wes talah, mek pirang minggu tok ae loh" (kalau kamu ngomong begini karena perkara Widya tadi, gak masuk akal Nur-
 
@@ -297,9 +290,7 @@ tepat ketika isi hati Nur menyeruak, perlahan, suara itu menghilang, hilang, hil
 
 Nur terbangun ketika subuh memanggil, ia masih belum mengerti, apakah itu mimpi, atau benar-benar terjadi, yang ia tahu, ia harus menjalankan tugasnya, sebagai seorang muslimah yang taat, ia, tidak boleh meninggalkan sholat.
 
-Nur, hanya meyakinkan dirinya, tidak akan bercerita-
-
-bahkan, kepada 2 sahabatnya, atas apa yang barusaja menimpanya.
+Nur, hanya meyakinkan dirinya, tidak akan bercerita bahkan, kepada 2 sahabatnya, atas apa yang barusaja menimpanya.
 
 pagi hari, pak Prabu mengumpulkan semua anak. mengatakan bahwa hari ini, ia akan memperkenalkan keseluruhan desa, dan mana saja yang bisa di jadikan proker untuk mereka kerjakan sesuai kesepakatan per'anak.
 
@@ -330,9 +321,7 @@ dari semua anak, memang tidak ada yang lebih mengenal Nur daripada si Bima, tema
 
 Nur hanya tersenyum kecut, menjawabnya seadanya, bila mungkin kesehatanya sudah menurun, namun Bima tahu, Nur berbohong.
 
-"nang kuburan mau, rame ya" (di pemakaman-)
-
-(-tadi, rame ya)
+"nang kuburan mau, rame ya" (di pemakaman tadi, rame ya)
 
 ucapan Bima tidak di gubris sama sekali dengan Nur, sehingga Bima akhirnya menyerah, di tengah perjalanan pulang itu, tiba-tiba Bima menanyakan sesuatu yang membuat Nur menaruh curiga pada Bima.
 

@@ -7,8 +7,6 @@ categories  : [Cerpen]
 tags        : [kkn desa penari, cerita kkn desa penari, kkn desa penari simpleman, cerita kkn desa penari versi widya, cerita kkn desa penari asli, cerita kkn desa penari lengkap]
 comments    : false
 ---
-TIPAK TALAS
-
 Widya melihat Tipak talas seperti sebuah lorong panjang hanya saja, dindingnya adalah pepohonan besar dengan akar di sana-sini, selain medan tanahnya yang menanjak, di depan Tipak talas, ada gapura kecil, lengkap dengan kain merah dan hitam di sekelilingnya.
 
 pak Prabu pernah bercerita, kain hitam adalah nama adat untuk sebuah penanda seperti di pemakaman, namun bukankah warna cerah lebih baik untuk menjadi sebuah penanda, sebelum Widya tahu kebenaran dari warga yang bercerita, bahwa hitam yang di maksud adalah simbol alam lain.
@@ -121,9 +119,9 @@ bingung, hampir warga berhamburan memeluk Widya.
 
 si ibuk menggandeng Widya, Widya masih diam, seperti orang linglung, di jalan ramai warga desa yang mengikuti Widya, Widya mencuri dengar dari mereka yang bicara di belakang.
 
-"wes di goleki sampe Alas D********* jebule, maghrib kaet ketemu arek iki, aku wes mikir elek"
+"wes di goleki sampe Alas Dxxxxx jebule, maghrib kaet ketemu arek iki, aku wes mikir elek"
 
-(sudah di cari sampai ujung *********** gak taunya baru ketemu maghrib anak ini, aku sudah mikir buruk)
+(sudah di cari sampai ujung xxxxx gak taunya baru ketemu maghrib anak ini, aku sudah mikir buruk)
 
 sehari semalam, Widya rupanya sudah menghilang.
 
@@ -227,7 +225,7 @@ Mbah buyut kaget.
 
 mbah buyut pergi, Nur, Wahyu dan Anton melihat Widya sendirian di pawon, duduk, sembari termenung.
 
-"Goblok!! Bima karo Ayu asu!! kakean ngent*t!!" (bodoh!! Bima sama Ayu itu Anj*ng!! kebanyakan ngent*t)
+"Goblok!! Bima karo Ayu asu!! kakean ngentxxt!!" (bodoh!! Bima sama Ayu itu Anjxxng!! kebanyakan ngentxxt)
 
 kaimat itu, yang mereka semua pikirkan malam itu.
 
@@ -270,21 +268,15 @@ Bima??
 
 bagaimana?? meninggal juga, Malam sebelum dia meninggal, Bima teriak minta tolong, tapi ketika ditanya, kenapa dan minta tolong apa?
 
-Bima berteriak ular, ular, ular, ia meninggal lebih dulu dari Ayu, tubuhnya di kebumikan, orang tuanya awalnya masih mau memperpanjang-
+Bima berteriak ular, ular, ular, ia meninggal lebih dulu dari Ayu, tubuhnya di kebumikan, orang tuanya awalnya masih mau memperpanjang masalah ini sama pihak kampus, tapi akhirnya di cabut, dengan catatan, KKN tidak lagi di adakan di timur jawa lagi, sejak saat itu, kampus ini, hanya memperbolehkan KKN ke arah barat, tidak lagi timur, apalagi Desa yang jauh.
 
-masalah ini sama pihak kampus, tapi akhirnya di cabut, dengan catatan, KKN tidak lagi di adakan di timur jawa lagi, sejak saat itu, kampus ini, hanya memperbolehkan KKN ke arah barat, tidak lagi timur, apalagi Desa yang jauh.
-
-ada hal yang bikin gw radak susah gambarin adalah, narasumber (Widya) disamarkan, setiap beliau bercerita, beliau hanya menceritakan intinya, dan gw harus ngatur ulang ceritanya agar nyambung, terlepas dari itu, gw inget, tiap dia cerita, tanganya gugup, seperti -
-
-tidak mau mengulang peristiwa itu. apapun itu, gw berharap cerita ini mengandung hikmah bagi kalian yang membacanya,
+ada hal yang bikin gw radak susah gambarin adalah, narasumber (Widya) disamarkan, setiap beliau bercerita, beliau hanya menceritakan intinya, dan gw harus ngatur ulang ceritanya agar nyambung, terlepas dari itu, gw inget, tiap dia cerita, tanganya gugup, seperti tidak mau mengulang peristiwa itu. apapun itu, gw berharap cerita ini mengandung hikmah bagi kalian yang membacanya,
 
 untuk peserta KKN nya pun sebenarnya bukan 6 orang, tapi 14 orang, gw perpendek untuk mempersingkat cerita beliau yang saling berkaitan satu sama lain
 
 untuk kesalahan, pengetikan, dan bikin kentangnya, gw mohon maaf sebesar-besarnya.
 
-memang benar, manusia itu merasa besar, padahal sesungguhnya ada kebesaran lain yang membuat manusia gak ada apa-apanya di balik kalimat kecil, dimanapun kalian berada, junjung tata krama-
-
-saling menghormati, saling menjaga satu sama lain, dan senantiasa bersikap layaknya manusia yang beradab.
+memang benar, manusia itu merasa besar, padahal sesungguhnya ada kebesaran lain yang membuat manusia gak ada apa-apanya di balik kalimat kecil, dimanapun kalian berada, junjung tata krama saling menghormati, saling menjaga satu sama lain, dan senantiasa bersikap layaknya manusia yang beradab.
 
 gw simple_Man undur diri, untuk waktu yang tidak di tentukan.
 

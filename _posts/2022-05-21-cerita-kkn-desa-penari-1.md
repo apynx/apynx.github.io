@@ -43,7 +43,7 @@ wajah muram itu, berubah menjadi senyuman penuh harap
 
 "nang ndi?" (dimana?)
 
-"nang kota B, gok deso kabupaten K***li** , akeh proker, tak jamin, nggone cocok gawe KKN" (di kota B, disebuah desa di kabupaten K*******, banyak proker untuk di kerjakan, tempatnya cocok untuk KKN kita)
+"nang kota B, gok deso kabupaten Kxxxlixx , akeh proker, tak jamin, nggone cocok gawe KKN" (di kota B, disebuah desa di kabupaten Kxxxxx, banyak proker untuk di kerjakan, tempatnya cocok untuk KKN kita)
 
 saat itu juga, Widya segera mengajukan prop KKN
 
@@ -65,13 +65,9 @@ hanya tinggal menunggu, pembekalan sebelum keberangkatan.
 
 jauh hari sebelum malam pembekalan, Widya berpamitan kepada orangtuanya tentang progress KKN yang wajib ia tempuh, keika orangtua Widya bertanya kemana Projek KKN mereka, terlihat wajah tidak suka dari raut ibunya.
 
-"gak onok nggon liyo, lapo kudu gok Kota B," (apa gak ada tempat
+"gak onok nggon liyo, lapo kudu gok Kota B," (apa gak ada tempat lain, kenapa harus kota B) wajah ibunya menegang. "nggok kunu nggone Alas tok, ra umum di nggoni gawe menungso" (disana tempatnya bukanya hutan semua, tidak bagus ditinggali oleh manusia)
 
--lain, kenapa harus kota B) wajah ibunya menegang. "nggok kunu nggone Alas tok, ra umum di nggoni gawe menungso" (disana tempatnya bukanya hutan semua, tidak bagus ditinggali oleh manusia)
-
-namun setelah Widya menejelaskan, bahwa sebelumnya sudah dilakukan observasi,-
-
-wajah ibunya melunak.
+namun setelah Widya menejelaskan, bahwa sebelumnya sudah dilakukan observasi, wajah ibunya melunak.
 
 "Perasaane ibuk gak enak, opo gak isok di undur setahun maneh" (perasaan ibu gak enak, apa tidak bisa di undur satu tahun lagi)
 
@@ -132,7 +128,7 @@ apa ada yang sedang mengadakan hajatan di dekat sini.
 
 dan ketika sayup-sayup suara itu perlahan menghilang, terlihat gapura kayu, menyambut mereka.
 
-sampailah mereka di Desa W****, tempat mereka akan mengabdikan diri selama 6 minggu ke depan.
+sampailah mereka di Desa Wxxxxx, tempat mereka akan mengabdikan diri selama 6 minggu ke depan.
 
 "Monggo" (permisi)
 
@@ -160,9 +156,7 @@ di situ, Widya menyadari, ada yang salah.
 
 tempat menginap untuk laki-laki adalah rumah gubuk yang dulunya seringkali dipakai untuk posyandu, tapi sudah di rubah sedemikian rupa, meski beralaskan tanah, tapi di dalamnya sudah ada bayang (Ranjang tidur) beralasakan tikar.
 
-sedangkan untuk perempuan, menginap di salah satu-
-
-rumah warga.
+sedangkan untuk perempuan, menginap di salah satu rumah warga.
 
 di dalam kamar, Widya pun bertanya, maksud ucapanya kepada pak Prabu, karena sepanjang perjalanan, bila di rasakan oleh Widya sendiri, itu lebih dari satu jam, Ayu membantah bahwa lama perjalanan tidak sampai selama itu, anehnya, Nur memilih tidak ikut berdebad.
 
@@ -172,9 +166,7 @@ Nur, lebih memilih untuk diam.
 
 "yo paling onok hajatan lah, opo maneh" (ya palingan ada warga yang mengadakan hajatan, apalagi)
 
-berbeda dengan Ayu,-
-
-Nur, menatap Widya dengan ngeri.
+berbeda dengan Ayu, Nur, menatap Widya dengan ngeri.
 
 sembari berbicara lirih, Nur yang seharusnya paling ceria di antara mereka berkata. "Mbak, ra onok Deso maneh nang kene, gak mungkin nek onok hajatan, nek jare wong biyen, krungu gamelan nang nggon kene, iku pertanda elek"
 
@@ -182,9 +174,7 @@ sembari berbicara lirih, Nur yang seharusnya paling ceria di antara mereka berka
 
 mendengar itu, Ayu tersulut dan langsung menuding Nur sudah ngomong yang tidak-tidak.
 
-"Nur, ra usah ngomong aneh-aneh kui, awakmu yo melok observasi nang kene ambek aku, mosok gorong sedino wes ngomong ra masuk akal ngunu" (Nur, jangan ngomong sembarangan kamu-
-
-bukanya kamu ikut observasi di kampung ini sama aku, belum sehari kamu sudah ngomong ha; yang gak masuk akal begini)
+"Nur, ra usah ngomong aneh-aneh kui, awakmu yo melok observasi nang kene ambek aku, mosok gorong sedino wes ngomong ra masuk akal ngunu" (Nur, jangan ngomong sembarangan kamu bukanya kamu ikut observasi di kampung ini sama aku, belum sehari kamu sudah ngomong ha; yang gak masuk akal begini)
 
 Ayu pergi, meninggalkan Widya dengan Nur.
 
@@ -286,7 +276,7 @@ kemudian, sampailah di titik paling menakutkan
 
 pak Prabu diam lama, seperti sudah mempersiapkan jawaban namun ia enggan mengatakanya.
 
-"iku ngunu Alas D****** , gak onok opo-opo'ne, wedine, nek sampeyan niki nekat, kalau hilang, lalu tersesat bagaimana?"
+"iku ngunu Alas Dxxxxx, gak onok opo-opo'ne, wedine, nek sampeyan niki nekat, kalau hilang, lalu tersesat bagaimana?"
 
 (itu adalah hutan belantara, gak ada apa-apanya, hanya mempertimbangkan, takutnya kalau kalian kesana, hilang, tersesat, lalu bagaimana?)
 

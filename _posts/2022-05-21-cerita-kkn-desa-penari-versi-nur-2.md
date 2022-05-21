@@ -41,9 +41,7 @@ si mbah mengangguk puas, kemudian bertanya kembali. "sak iki ceritakno, onok opo
 
 "takon perkoro" (tanya soal)
 
-"kulo di ketok'e memedi sing gedeh mbah, kulo wedi mbah, nganggo salah ten mriki, ngapunten nek kulo enten salah nang njenengan warga mriki" (saya di ikuti oleh sosok besar kek, saya takut. apa saya sudah melakukan kesalahan, sehingga saya dikejar, apa ada yang saya perbuat-
-
--dan membuat tidak nyaman warga sini, saya minta maaf sebesar-besarnya) saat itulah, pak Prabu bicara
+"kulo di ketok'e memedi sing gedeh mbah, kulo wedi mbah, nganggo salah ten mriki, ngapunten nek kulo enten salah nang njenengan warga mriki" (saya di ikuti oleh sosok besar kek, saya takut. apa saya sudah melakukan kesalahan, sehingga saya dikejar, apa ada yang saya perbuat dan membuat tidak nyaman warga sini, saya minta maaf sebesar-besarnya) saat itulah, pak Prabu bicara
 
 "ndok, guk salahmu kok, sing ngetutke awakmu, iku ngunu, gak nyaman, mbek sing mok gowo" (nak, ini bukan salahmu, alasan kenapa kamu diikuti, karena kamu bawa sesuatu dari luar)
 
@@ -202,9 +200,7 @@ namun, seketika emosi Nur tak terbendung saat Anton mengatakan itu.
 
 "awakmu gor di jogo yo lambene, ojok maen fitnah yo" (kamu itu, tolong di jaga mulutnya, jangan maen fitnah seperti ini)
 
-"nek awakmu gak percoyo, ayok tak jak nang kamare, ben awakmu ndelok, nek aku gak mbujuk" (kamu kalau gak percaya ayo sini ikut, tak tunjukkan kalau aku-
-
-tidak pernah berbohong)
+"nek awakmu gak percoyo, ayok tak jak nang kamare, ben awakmu ndelok, nek aku gak mbujuk" (kamu kalau gak percaya ayo sini ikut, tak tunjukkan kalau aku tidak pernah berbohong)
 
 mendengar Anton menantang seperti itu, saat itu juga, Nur mengikuti Anton yang tengah berjalan menuju tempat mereka menginap.
 
@@ -238,16 +234,14 @@ meski Bima selalu bisa membalik pertanyaan Nur, ia tahu, Bima berbohong
 
 puncaknya, ketika itu, sore hari, Nur barusaja selesai sholat asar di dalam kamar, tiba-tiba, ia mendengar suara bising dari samping kamar, Nur pun beranjak, mencari sumber suara.
 
-manakala ketika ia mencari, ia melihat Bima, sedang menabur sesuatu di tempat dimana Widya
+manakala ketika ia mencari, ia melihat Bima, sedang menabur sesuatu di tempat dimana Widya biasa duduk. 
 
-biasa duduk. 
 Nur, yang selalu membersihkan bunga-bungaan itu. aneh, namun kelakukan Bima semakin membuat Nur penasaran.
 
 namun, masalah tidak hanya berhenti di Bima saja, melainkan sahabatnya Widya.
 
-setelah maghrib, Nur pergi ke dapur untuk minum, saat, ia melihat Widya-
+setelah maghrib, Nur pergi ke dapur untuk minum, saat, ia melihat Widya menatapnya. 
 
-menatapnya. 
 wajahnya kaget dan bingung melihat Nur, "lapo Wid?" tanya Nur yang juga kaget dan bingung. 
 mata mereka saling bertemu, namun, hanya untuk saling mengamati satu sama lain.
 
@@ -423,9 +417,7 @@ Ayu yang sedari tadi diam, kemudian bicara. "Nur, tolong, ojok di gawe rame dise
 "goblok ya wong loro iki, dipikir masalah iki mek masalah mu tok tah, gak mikir aku, gak mikir Widya, gak mikir liane, gak mikir-
 
 -jeneng kampusmu, gak mikir keluargamu, gak mikir agamamu, nek ngomong mu mek ngunu, penak yo, kari rabi tok, gak iling opo iku karma yo" 
-(goblok ya kalian, di kira ini masalah sepele, gak mikir aku, gak mikir Widya, gak mikir yang lain, gak mikir nama kampusmu, gak mikir-
-
-keluargamu, kalau memang cuma masalah pernikahan ya enak ya, tapi kalian lupa dengan yang namanya karma tabur tuai)
+(goblok ya kalian, di kira ini masalah sepele, gak mikir aku, gak mikir Widya, gak mikir yang lain, gak mikir nama kampusmu, gak mikir keluargamu, kalau memang cuma masalah pernikahan ya enak ya, tapi kalian lupa dengan yang namanya karma tabur tuai)
 
 Ayu yang mendengar itu perlahan sesenggukan, Nur tahu, ia menangis, namun Bima, ia seperti menyembunyikan sesuatu. ada yang belum ia jelaskan sama sekali.
 
@@ -458,8 +450,6 @@ Nur yang sedari tadi mendengar, membantu Bima, "bener mas wahyu, gak onok deso m
 
 alih-alih setelah mendengar itu,
 
-Wahyu semakin tidak terima,ia kemudian memanggil Widya, "Wid duduhno opo sing di kek'i-
-
--ambek warga sing nang tasmu" (Wid tunjukan oleh-oleh yang di kasih tadi sama warga di dalam tasmu)
+Wahyu semakin tidak terima,ia kemudian memanggil Widya, "Wid duduhno opo sing di kek'i ambek warga sing nang tasmu" (Wid tunjukan oleh-oleh yang di kasih tadi sama warga di dalam tasmu)
 
 dengan enggan Widya membuka isi tasnya, Wahyu yang sudah tidak sabar segera merebutnya, meraihnya dengan tanganya, namun, ekspresinya berubah manakala ia mengeluarkan barang itu.

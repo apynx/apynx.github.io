@@ -101,9 +101,7 @@ sebenarnya Widya mau cerita, namun bila melihat respon Ayu kemarin, sepertinya i
 
 di tengah keheningan mereka menggarap progres, tiba-tiba Ayu mengatakan sesuatu yang membuat Widya tertarik.
 
-"mau aku ambek Bima, ngecek progres gawe pembuangan, pas muter deso, iling gak ambek Tapak talas, tibakne, gak adoh tekan kunu, onok omah sanggar" (tadi aku sama Bima, mengecek progres untuk pembuangan, ketika memutari desa, ingat tidak sama Tapak Tilas, ternyata, gak jauh-
-
--darisana, ada sebuah bangunan tua menyerupai sanggar)
+"mau aku ambek Bima, ngecek progres gawe pembuangan, pas muter deso, iling gak ambek Tapak talas, tibakne, gak adoh tekan kunu, onok omah sanggar" (tadi aku sama Bima, mengecek progres untuk pembuangan, ketika memutari desa, ingat tidak sama Tapak Tilas, ternyata, gak jauh darisana, ada sebuah bangunan tua menyerupai sanggar)
 
 Widya terdiam beberapa saat, memproses kalimat Ayu
 
@@ -123,8 +121,7 @@ perdebadan mereka berhenti sampai disana, namun perasaan itu.
 
 Widya merasa perasaanya semakin tidak enak. sejak menginjak desa ini, semuanya terasa seperti kacau balau.
 
-karena malam semakin larut, Widya pun beranjak pergi ke kamar, disana ia melihat Nur, sudah terlelap dalam tidurnya. Ayu pun menyusul kemudian, berharap malam ini segera berlalu, 
-tiba-tiba terdengar langkah kaki saat Widya melihat apa yang terjadi, bayangan Nur melangkah keluar
+karena malam semakin larut, Widya pun beranjak pergi ke kamar, disana ia melihat Nur, sudah terlelap dalam tidurnya. Ayu pun menyusul kemudian, berharap malam ini segera berlalu, tiba-tiba terdengar langkah kaki saat Widya melihat apa yang terjadi, bayangan Nur melangkah keluar
 
 ragu apakah mau membangunkan Ayu, Widya pun beranjak dari tempatnya tidur, berjalan, mengejar Nur.
 
@@ -154,9 +151,7 @@ Wahyu.
 
 Widya melihat Wahyu yang menatapnya dengan tatapan bingung plus takut.
 
-"bengi bengi lapo As* nari-nari gak jelas nang kene!!" (malam-malam ngapain anji*g!! nari sendirian-
-
-disini seorang diri)
+"bengi bengi lapo Axx nari-nari gak jelas nang kene!!" (malam-malam ngapain anjxxg!! nari sendirian disini seorang diri)
 
 jeritan Widya rupanya membangunkan semua orang, termasuk si pemilik rumah, Widya melihat sorot mata semua orang memandangnya, tak terkecuali Nur yang rupanya baru saja keluar dari dalam rumah.
 
@@ -311,8 +306,7 @@ begitu penutup tekonya di buka, di dalamnya, ada segumpal rambut, benar-benar se
 
 Nur yang melihatnya langsung bereaksi. "aku mau yo ngombe teko kunu, gak eroh aku onok barang ngunu'ne" (tadi aku juga minum dari situ, gak tau ada begituanya)
 
-Widya muntah sejadi-jadinya, saat keadaan tegang seperti itu, Anton tiba-tiba mengatakan "awakmu di incer yo Wid, jare mbahku, nek onok rambut gak koro metu, iku biasane nek gak di santet yo di incer demit" 
-(kamu di incar ya Wid, kata mbahku, kalau tiba2 muncul rambut)
+Widya muntah sejadi-jadinya, saat keadaan tegang seperti itu, Anton tiba-tiba mengatakan "awakmu di incer yo Wid, jare mbahku, nek onok rambut gak koro metu, iku biasane nek gak di santet yo di incer demit" (kamu di incar ya Wid, kata mbahku, kalau tiba2 muncul rambut)
 
 (itu biasanya kalau gak di santet ya di incar makhluk halus)
 
