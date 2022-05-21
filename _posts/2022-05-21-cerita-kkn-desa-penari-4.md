@@ -1,6 +1,6 @@
 ---
 layout      : post
-title       : Cerita KKN Desa Penari Jawa Timur versi Widya Lengkap (Part 4 - TAMAT)
+title       : Cerita KKN Desa Penari Jawa Timur versi Widya Lengkap (Part 4 - Tamat)
 author      : Aping
 date        : 2022-05-21 12:35:00 +0700
 categories  : [Cerpen]

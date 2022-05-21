@@ -1,6 +1,6 @@
 ---
 layout      : post
-title       : Cerita KKN Desa Penari versi Nur Lengkap (Part 3 - TAMAT)
+title       : Cerita KKN Desa Penari versi Nur Lengkap (Part 3 - Tamat)
 author      : Aping
 date        : 2022-05-21 13:05:00 +0700
 categories  : [Cerpen]
