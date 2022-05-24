@@ -338,6 +338,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    background-image: linear-gradient(135deg, #343a40, #495057);
   }
 .card_content {
     display: flex;
