@@ -27,4 +27,4 @@ Anehnya, bahkan sampai sekarang, saya belum bisa mengakses langsung lokasi cerit
 
 Nasi sudah jadi bubur. Dari cerita itu kita bisa memetik hikmah bahwa kita akan menuai apapun yang telah kita pupuk. Kita akan mendapat akhir dari apa yang telah kita mulai.
 
-Saya pribadi tidak bisa berkata-kata terkait musibah yang dialami salah dua pemerannya. Takutnya, salah ucap berbuah petaka 🤭 Tapi saya setuju dengan SimpleMan, dimana bumi dipijak disitu langit dijunjung. Hendaknya kita bersikap hormat dimanapun kita berada.
+Saya pribadi tidak bisa berkata-kata terkait musibah yang dialami salah ~~satu~~ dua pemerannya. Takutnya, salah ucap berbuah petaka 🤭 Tapi saya setuju dengan SimpleMan, dimana bumi dipijak disitu langit dijunjung. Hendaknya kita bersikap hormat dimanapun kita berada.
