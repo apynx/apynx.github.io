@@ -13,6 +13,8 @@ Saking lancar dan halusnya dalam menuliskan cerita, kadang saya merasa seolah si
 
 Ceritanya sendiri cukup bagus. Tapi saya menangkap beberapa keganjilan dari cerita KKN Desa Penari ini. Entah karena typo, salah pengejaan, atau memang namanya seperti itu.
 
+![Review Cerita KKN Desa Penari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvu3VCUM3o-5TcdDaUeMvTe9Em1nJp_LphQn5dZ_PGr4Vy-_iVdG6t8kgeaMbiSMWjmbXWSDRys1Bt3lE8LnyJ7lM_EO_5EqicepobbEPzsEvdrdv1YbTtMxJEf6XehOnlCTXtbAVtfsXAGGxI0F832IHY4pDIQDRk2hNvJJenQ1rh79O1fShdpMCEQQ/s800/review-cerita-kkn-desa-penari.jpg "Review Cerita KKN Desa Penari"){:width="800" height="451"}
+
 Yang pertama adalah penyebutan lokasi tempat semua peserta KKN dilarang memasukinya, **Tipak Talas**. Entah memang salah tulis atau memang seperti itu, kok saya lebih familiar frasa kata **tapak tilas**.
 
 Yang kedua adalah yang paling menjadi buah bibir keganjilan cerita oleh banyak orang, yakni lokasi desa tempat KKN. Di awal cerita disebutkan kalau desa itu tidak bisa dicapai oleh mobil jadi mereka harus menggunakan motor. Tapi di akhir cerita, para mahasiswa KKN itu dijemput paksa dengan 'serombongan mobil'. Jadi kontradiktif antara awal dan akhir cerita 🤔
