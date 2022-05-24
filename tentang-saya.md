@@ -21,6 +21,9 @@ Pernah selama lebih dari 1 tahun saya hiatus, tidak menulis apapun di blog. Ada 
 
 Dengan berpindah ke platform *static-site generator* ini saya berharap bisa lebih fokus membuat konten yang berkualitas dan menuangkan ide atau gagasan yang tercetus di pikiran ke dalam sebuah tulisan. Siapa tahu suatu saat tulisan saya bisa bermanfaat bagi seseorang.
 
+Niche blog ini?<br/>
+**Gado-gado**
+
 ### My Professional Work
 
 Karena *passion* yang tinggi pada *front-end web development*, saya memulai bisnis sambil kuliah dengan membuka jasa web design sejak tahun 2008. Saat itu saya memanfaatkan domain dan hosting gratis yang diberikan saat jadi juara pertama lomba blog. Pendapatannya memang tak banyak, tapi cukup lah buat jajan bakso di pinggir rel kereta.
