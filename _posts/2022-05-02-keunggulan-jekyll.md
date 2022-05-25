@@ -3,6 +3,7 @@ layout      : post
 title       : Keunggulan Jekyll
 author      : Aping
 date        : 2022-05-02 19:39:06 +0700
+last_modified_at:   2022-05-25 13:52:00 +0700
 categories  : Jekyll
 tags        : [jekyll, keunggulan jekyll, kelebihan jekyll, kenapa memilih jekyll]
 comments    : true
@@ -18,6 +19,20 @@ Buat pemula atau orang yang baru belajar bikin situs web, Jekyll cukup nyaman. K
 Tapi secara umum kamu harus menghapal syntax-syntax Markdown untuk membuat efek tulisan *miring*, **tebal**, [membuat link](#), dan sebagainya. Jadi kamu bakal akrab sama tools-tools seperti Notepad++, Vim, Sublime Text, atau VS Code.
 
 Di balik ringannya Jekyll dan SSG lainnya, kamu harus membayar dengan prosesnya yang cukup ribet. Ada beberapa proses yang perlu dilewati sebelum konten yang kamu buat dapat tampil di internet. Hal ini sangat jauh berbeda kalau kamu memakai CMS popular seperti Blogger atau Wordpress yang tinggal klik '*Publish*' aja.
+
+### Super Ngebut
+
+Memang sih performa Jekyll tidak sebaik Hugo apalagi Gatsby yang hampir tanpa loading. Tapi buat saya pribadi jika dibandingkan dengan CMS populer seperti Blogger, Wordpress, Joomla, apalagi CMS e-Commerce seperti OpenCart, dll maka performa Jekyll SUPER NGEBUT!
+
+Liat aja hasil performa dari GTmetrix berikut ini, rasanya sudah mewakilkan pernyataan saya soal kecepatan loading blog Jekyll yang mengagumkan:
+
+![Performa GTMetrix Aping.my.id 1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWTXeNcFNtdolsnXAr-2xGL93ozbAOiXSlnBIgiBFD3y2EffeAFdjD7pM0VCMW8UcZXW2VhNqorRX8qkVMnrvjcXcqn5u7MOhJWppugGjBHVOL_uYzQjQXzD5hCM7Z3mzrL5wXjE5XUpsjom-NkRQjNsOpHUdVjWKyCDQ9W8M3DdVQhYlEl4m-13c0GQ/s812/performa-gtmetrix-aping-my-id-1.png "Performa GTMetrix Aping.my.id 1"){:width="812" height="550"}
+
+![Performa GTMetrix Aping.my.id 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvabC9qoLSKBExYNcCwplXjCjbMI36vGFKNVxgw00nKrHtmM8N--CNAdkxsx4Y7t1tmVVyED5sGW2kexHqAp0ZGl_nVZ9IeAeyv3hnMSsPnJP1DasiuIrQ72JEH4TL0ga2OCOLpMeIP54WSDpBsOPoTdsQXWnZvTo_qHdVM5sUsDSbV6iZzx5VzlgNgg/s693/performa-gtmetrix-aping-my-id-2.png "Performa GTMetrix Aping.my.id 2"){:width="691" height="693"}
+
+Memang sih, performa yang sama pernah saya capai dengan Blogger. Tapi butuh banyak sekali optimasi dan penerapan *lazy-load* yang hampir '*gila-gilaan*'. Sedangkan di Jekyll, performa setinggi itu bisa didapatkan dari setting default aja.
+
+![Performa GTmetrix Blogger Old](https://1.bp.blogspot.com/-mjb2jsydNZA/XUza2XMTqoI/AAAAAAAABkE/GzvESCwpt10nZTthhbjVCdsihkNJxwT_QCLcBGAs/s1600/pickmypics.jpg "Performa GTmetrix Blogger Old"){:width="629" height="480"}
 
 ### Bisa Posting dan Edit secara Offline
 

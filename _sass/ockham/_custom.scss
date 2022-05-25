@@ -34,7 +34,7 @@ body {
 }
 
 svg {
-    vertical-align: -3px;
+    vertical-align: -2px;
   }
 
 .post-excerpt {
@@ -75,6 +75,9 @@ figure.highlight {
   text-align: center;
 }
 
+hr {
+  margin-top: 20px;
+}
 .post-categories {
   font-size: small;
   margin-top: var(--spacer);
@@ -83,6 +86,10 @@ figure.highlight {
 .post-tags {
   font-size: small;
   margin-bottom: var(--spacer);
+}
+
+.last-mod {
+  font-size: small;
 }
 
 .post-home-categories {
