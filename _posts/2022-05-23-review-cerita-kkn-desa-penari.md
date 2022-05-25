@@ -17,11 +17,11 @@ Ceritanya sendiri cukup bagus. Tapi saya menangkap beberapa keganjilan dari ceri
 
 Yang pertama adalah penyebutan lokasi tempat semua peserta KKN dilarang memasukinya, **Tipak Talas**. Entah memang salah tulis atau memang seperti itu, kok saya lebih familiar frasa kata **tapak tilas**.
 
-Yang kedua adalah yang paling menjadi buah bibir keganjilan cerita oleh banyak orang, yakni lokasi desa tempat KKN. Di awal cerita disebutkan kalau desa itu tidak bisa dicapai oleh mobil jadi mereka harus menggunakan motor. Tapi di akhir cerita, para mahasiswa KKN itu dijemput paksa dengan 'serombongan mobil'. Jadi kontradiktif antara awal dan akhir cerita 🤔
+Yang kedua adalah yang paling menjadi buah bibir keganjilan cerita oleh banyak orang, yakni lokasi desa tempat KKN. Di awal disebutkan kalau desa itu tidak bisa dicapai oleh mobil jadi mereka harus menggunakan motor. Tapi di akhir cerita, para mahasiswa KKN itu dijemput paksa dengan 'serombongan mobil'. Jadi kontradiktif antara di awal dan di akhir 🤔
 
 Mungkin itu aja keganjilan yang saya rasakan selama membaca cerita KKN Desa Penari. Saya belum ada kesempatan nonton filmnya. Selain karena gak ada yang ngajak nonton, susah juga ninggalin 2 bocil sendirian 😄 Mungkin lain kali. Sebetulnya ingin nonton, tapi apa semua keinginan harus dipenuhi?
 
-Apapun yang terjadi dalam KKN Desa Penari, kita cukup menikmati ceritanya aja. Tidak perlu kepo mencari tau wujud asli orang-orangnya atau mencari tahu lokasi kejadian sebenarnya. Meskipun akhir-akhir ini santer beredar foto-foto dan video terkait pemeran asli dan lokasi kejadiannya.
+Apapun yang terjadi dalam KKN Desa Penari, kita cukup menikmati ceritanya aja. Tidak perlu kepo mencari tau orang-orangnya atau lokasi sebenarnya. Meskipun akhir-akhir ini santer beredar foto-foto dan video terkait pemeran asli dan lokasi kejadiannya.
 
 Waktu awal-awal saya baca cerita KKN Desa Penari baik versi Widya maupun versi Nur, saya memang sempat 'melihat' kebenaran dari cerita tersebut. Dan ya, cerita itu hampir tepat kejadiannya dengan kejadian asli, kecuali bumbu-bumbu cerita yang mengiringi.
 
