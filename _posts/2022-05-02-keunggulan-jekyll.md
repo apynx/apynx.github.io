@@ -42,3 +42,9 @@ Hal ini sangat berbeda dengan Blogger atau Wordpress yang mewajibkan kamu harus 
 
 Meskipun kesannya ribet, buat saya inilah cara paling nyaman. Saya tetap bisa fokus membuat konten saat tidak ada koneksi internet. Dan melakukan '*push*' ke GitHub saat koneksi sudah tersedia agar situs blog bisa terupdate.
 
+### Update Dimana Aja
+
+Saya paling suka sih sama fitur ini. Kalau dulu saya harus mengetik posting di Google Keep baru di-upload ke CMS seperti Blogger/WP sewaktu tidak ada PC/laptop. Maka dengan static-site begini saya jadi lebih mudah. Ada banyak sekali aplikasi yang bisa digunakan untuk bikin posting baru lewat aplikasi android/apple.
+
+Saya pribadi pakai aplikasi android 'QuickEdit' versi gratis untuk sekedar menulis posting baru ataupun melakukan editing pada file-file yang sudah ada.
+
