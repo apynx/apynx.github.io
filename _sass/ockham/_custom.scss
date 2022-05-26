@@ -78,6 +78,15 @@ figure.highlight {
 hr {
   margin-top: 20px;
 }
+
+.center {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none !important;
+}
+
 .post-categories {
   font-size: small;
   margin-top: var(--spacer);

@@ -5,6 +5,8 @@ permalink: /tentang-saya/
 ---
 ```Update: 16 Mei 2022```
 
+![Aping Blog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiguR3zEEjaLHBHO0EvX4GuYpiFM1q2yA3llsmg2MjOlZQsOddOddxBS7BbMzdCx7DA6Jn-HoFSPIuKe3NwtYbweE49_fEcTwFBTlWYt8NaMYsiL2t5aeLTJY86Itu3Vc61OkkUmLLl1Y3nkmrSO5_y7c--KCOyzZ2Uv8UuM6Ezq7GCs0vcJPI4Q7f-2Q/w200-h200/avatar.png "Aping Blog"){:width="200" height="200" .center}
+
 Panggil saja Aping. *Half-blood* Arab, Jawa, ~~Cina~~ Madura. Muka blasteran sampai gak ada yang tau saya orang mana 😆 Asli kota tape, Bondowoso. Tapi domisili di kota Solo, dan sekarang bermukim di Surabaya karena urusan pekerjaan.
 
 Saya seorang *Front-End Web Developer* sekaligus PNS di Mahkamah Agung yang doyan ngutak-atik kode meskipun gak *pinter-pinter amat*. Hobi traveling, baca komik, dan mempelajari sesuatu yang baru asalkan masih sesuai minat.

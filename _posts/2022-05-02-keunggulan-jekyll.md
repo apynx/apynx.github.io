@@ -26,13 +26,13 @@ Memang sih performa Jekyll tidak sebaik Hugo apalagi Gatsby yang hampir tanpa lo
 
 Liat aja hasil performa dari GTmetrix berikut ini, rasanya sudah mewakilkan pernyataan saya soal kecepatan loading blog Jekyll yang mengagumkan:
 
-![Performa GTMetrix Aping.my.id 1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWTXeNcFNtdolsnXAr-2xGL93ozbAOiXSlnBIgiBFD3y2EffeAFdjD7pM0VCMW8UcZXW2VhNqorRX8qkVMnrvjcXcqn5u7MOhJWppugGjBHVOL_uYzQjQXzD5hCM7Z3mzrL5wXjE5XUpsjom-NkRQjNsOpHUdVjWKyCDQ9W8M3DdVQhYlEl4m-13c0GQ/s812/performa-gtmetrix-aping-my-id-1.png "Performa GTMetrix Aping.my.id 1"){:width="812" height="550"}
+![Performa GTMetrix Aping.my.id 1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWTXeNcFNtdolsnXAr-2xGL93ozbAOiXSlnBIgiBFD3y2EffeAFdjD7pM0VCMW8UcZXW2VhNqorRX8qkVMnrvjcXcqn5u7MOhJWppugGjBHVOL_uYzQjQXzD5hCM7Z3mzrL5wXjE5XUpsjom-NkRQjNsOpHUdVjWKyCDQ9W8M3DdVQhYlEl4m-13c0GQ/s812/performa-gtmetrix-aping-my-id-1.png "Performa GTMetrix Aping.my.id 1"){:width="812" height="550" .center}
 
-![Performa GTMetrix Aping.my.id 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvabC9qoLSKBExYNcCwplXjCjbMI36vGFKNVxgw00nKrHtmM8N--CNAdkxsx4Y7t1tmVVyED5sGW2kexHqAp0ZGl_nVZ9IeAeyv3hnMSsPnJP1DasiuIrQ72JEH4TL0ga2OCOLpMeIP54WSDpBsOPoTdsQXWnZvTo_qHdVM5sUsDSbV6iZzx5VzlgNgg/s693/performa-gtmetrix-aping-my-id-2.png "Performa GTMetrix Aping.my.id 2"){:width="691" height="693"}
+![Performa GTMetrix Aping.my.id 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvabC9qoLSKBExYNcCwplXjCjbMI36vGFKNVxgw00nKrHtmM8N--CNAdkxsx4Y7t1tmVVyED5sGW2kexHqAp0ZGl_nVZ9IeAeyv3hnMSsPnJP1DasiuIrQ72JEH4TL0ga2OCOLpMeIP54WSDpBsOPoTdsQXWnZvTo_qHdVM5sUsDSbV6iZzx5VzlgNgg/s693/performa-gtmetrix-aping-my-id-2.png "Performa GTMetrix Aping.my.id 2"){:width="691" height="693" .center}
 
 Memang sih, performa yang sama pernah saya capai dengan Blogger. Tapi butuh banyak sekali optimasi dan penerapan *lazy-load* yang hampir '*gila-gilaan*'. Sedangkan di Jekyll, performa setinggi itu bisa didapatkan dari setting default aja.
 
-![Performa GTmetrix Blogger Old](https://1.bp.blogspot.com/-mjb2jsydNZA/XUza2XMTqoI/AAAAAAAABkE/GzvESCwpt10nZTthhbjVCdsihkNJxwT_QCLcBGAs/s1600/pickmypics.jpg "Performa GTmetrix Blogger Old"){:width="629" height="480"}
+![Performa GTmetrix Blogger Old](https://1.bp.blogspot.com/-mjb2jsydNZA/XUza2XMTqoI/AAAAAAAABkE/GzvESCwpt10nZTthhbjVCdsihkNJxwT_QCLcBGAs/s1600/pickmypics.jpg "Performa GTmetrix Blogger Old"){:width="629" height="480" .center}
 
 ### Bisa Posting dan Edit secara Offline
 
