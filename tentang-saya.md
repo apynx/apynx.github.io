@@ -17,11 +17,11 @@ Saya mulai menulis blog medio tahun 2005 di [Blogdrive](http://safril.blogdrive.
 
 Tahun 2018 saya beralih ke platform Blogger karena punya fitur yang lebih baik. Saya bisa modifikasi template, ganti layout blog, dan pasang *custom domain*. Saya membuat brand untuk menunjukkan semangat baru menulis, [Oom Blogger](https://oom.web.id "Oom Blogger").
 
-Sampai bulan Mei 2022 saya memutuskan migrasi secara bertahap ke platform *static site*. Saya sadar kalau kegiatan blogging sudah cukup jauh melenceng dari konsep dan rencana semua. Alih-alih fokus pada konten, aktifitas saya justru dihabiskan untuk memodifikasi template, *redesign*, sampai membuat theme baru.
+Sampai bulan Mei 2022 saya memutuskan migrasi secara bertahap ke platform *static site*. Saya sadar kalau kegiatan blogging sudah lumayan melenceng dari konsep dan rencana semula. Alih-alih fokus pada konten, aktifitas saya justru dihabiskan untuk modifikasi template, *redesign*, sampai bikin theme baru.
 
-Pernah selama lebih dari 1 tahun saya hiatus, tidak menulis apapun di blog. Ada aja penyebabnya. Mulai dari lupa, malas, sampai tidak dapat ide. Kebetulan beberapa tahun belakangan saya juga membangun usaha baru yakni bisnis penjualan keripik jadi semakin sibuk dan jarang menulis.
+Pernah selama lebih dari 1 tahun saya hiatus, tidak menulis apapun di blog. Ada aja penyebabnya. Mulai dari lupa, malas, sampai tidak dapat ide. Kebetulan beberapa tahun belakangan saya juga membuka bisnis penjualan keripik jadi semakin sibuk dan jarang menulis.
 
-Dengan berpindah ke platform *static-site generator* ini saya berharap bisa lebih fokus membuat konten yang berkualitas dan menuangkan ide atau gagasan yang tercetus di pikiran ke dalam sebuah tulisan. Siapa tahu suatu saat tulisan saya bisa bermanfaat bagi seseorang.
+Dengan pindah ke *static-site* ini harapannya bisa lebih fokus bikin konten yang berkualitas dan menuangkan ide atau gagasan yang tercetus di pikiran ke dalam sebuah tulisan. Siapa tahu suatu saat tulisan saya bisa bermanfaat bagi seseorang.
 
 Niche blog ini?<br/>
 **Gado-gado**
