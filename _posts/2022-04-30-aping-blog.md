@@ -1,10 +1,10 @@
 ---
 layout      : post
-title       : Hello World
+title       : Aping Blog
 author      : Aping
 date        : 2022-04-30 06:58:06 +0700
 categories  : Jekyll
-tags        : [jekyll, test post, lorem ipsum]
+tags        : [jekyll, test post, lorem ipsum, Aping Blog]
 comments    : false
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
