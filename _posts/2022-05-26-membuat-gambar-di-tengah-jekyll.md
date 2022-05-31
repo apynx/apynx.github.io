@@ -19,7 +19,7 @@ Pertama, tambahkan gambar ke dalam postingan dengan kode berikut:
 
 Biasanya gambar yang muncul akan berada di sebelah kiri seperti ini:
 
-![Aping Blog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiguR3zEEjaLHBHO0EvX4GuYpiFM1q2yA3llsmg2MjOlZQsOddOddxBS7BbMzdCx7DA6Jn-HoFSPIuKe3NwtYbweE49_fEcTwFBTlWYt8NaMYsiL2t5aeLTJY86Itu3Vc61OkkUmLLl1Y3nkmrSO5_y7c--KCOyzZ2Uv8UuM6Ezq7GCs0vcJPI4Q7f-2Q/w200-h200/avatar.png "Aping Blog"){:width="200" height="200"}
+![Aping Blog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiguR3zEEjaLHBHO0EvX4GuYpiFM1q2yA3llsmg2MjOlZQsOddOddxBS7BbMzdCx7DA6Jn-HoFSPIuKe3NwtYbweE49_fEcTwFBTlWYt8NaMYsiL2t5aeLTJY86Itu3Vc61OkkUmLLl1Y3nkmrSO5_y7c--KCOyzZ2Uv8UuM6Ezq7GCs0vcJPI4Q7f-2Q/w200-h200/avatar.png "Aping Blog"){:width="200" height="200" loading:"lazy"}
 
 Lalu tambahkan kode berikut pada akhir baris kode di atas:
 
@@ -47,5 +47,5 @@ Sekarang tambahkan CSS berikut:
 
 Simpan, lalu lihat perubahannya. Sekarang gambar kamu akan berada di tengah-tengah postingan seperti yang diharapkan. Selamat mencoba!
 
-![Aping Blog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiguR3zEEjaLHBHO0EvX4GuYpiFM1q2yA3llsmg2MjOlZQsOddOddxBS7BbMzdCx7DA6Jn-HoFSPIuKe3NwtYbweE49_fEcTwFBTlWYt8NaMYsiL2t5aeLTJY86Itu3Vc61OkkUmLLl1Y3nkmrSO5_y7c--KCOyzZ2Uv8UuM6Ezq7GCs0vcJPI4Q7f-2Q/w200-h200/avatar.png "Aping Blog"){:width="200" height="200" .center}
+![Aping Blog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiguR3zEEjaLHBHO0EvX4GuYpiFM1q2yA3llsmg2MjOlZQsOddOddxBS7BbMzdCx7DA6Jn-HoFSPIuKe3NwtYbweE49_fEcTwFBTlWYt8NaMYsiL2t5aeLTJY86Itu3Vc61OkkUmLLl1Y3nkmrSO5_y7c--KCOyzZ2Uv8UuM6Ezq7GCs0vcJPI4Q7f-2Q/w200-h200/avatar.png "Aping Blog"){:width="200" height="200" loading:"lazy" .center}
 

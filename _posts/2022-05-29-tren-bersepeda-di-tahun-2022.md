@@ -15,11 +15,15 @@ Kalaupun ada, memang orang-orang yang memang butuh dan hobi bersepeda aja. Bukan
 
 Saya masih ingat, tahun 2019 lalu sampai ada salah satu produsen sepeda yang sampai kewalahan memenuhi permintaan pasar, siapa lagi kalau bukan Element. Waktu itu produknya benar-benar digandrungi. Kalau gak salah sih type Element Troy. Karena stok terbatas tapi banyak yang nyari, hukum pasar berlaku. Harganya melejit tak karuan.
 
+![Sepeda Lipat Element Troy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdSaWERvEezTXaMkpGh2amT2-7ObF-qTnXIG_LANcB8g5wQ8dsEKqaGXcpSzHEycisug74Lgl1Uxw552UIWvCHQY1YT5xMK82hTAwBrs0zGDoU99MEPb_qp1Gz7ZWhBPuDX2r-AlZPejGysQH_gE3YgN41h2r-AjvS1oEn6cGNusNFGKfhlHLHsN5Lg/s673/sepeda-lipat-element-troy.jpg "Sepeda Lipat Element Troy"){:width="673" height="506" .center}
+
 Produknya sendiri memang bagus. Dilapisi chrome dan kualitas tergolong sangat bagus dengan harga segitu. Produk itu yang membuat pabrikan sepeda lain seperti Pacific dan United ketar-ketir 🤭 Bahkan Polygon yang dari awal tampak enggan meluncurkan varian sepeda lipat buru-buru menelurkan produk barunya.
 
 Saya juga tertarik sih. Tapi sayang harganya terlalu *over-priced* buat saya. Belum sempat beli sepeda lipat, eeh, saya dikasih sepeda lipat dari ibu mertua. Bonus dari pembukaan rekening taspen. Lumayan lah daripada keluar duit buat beli sepeda.
 
 Sepeda lipat pertama saya itu bermerk Odessy 🤔 Jujur saya aja belum pernah dengar merk itu sebelumnya. Mungkin merk lokal. Kualitas bahannya tak terlalu bagus. Bahkan, menurut saya termasuk buruk. Namanya juga sepeda hadiah 🤪
+
+![Sepeda Lipat Odessy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW69kTUvwq7Sw7_P0rJNiDdC8MCrqRd9L6_8rvO7ftNuteNMCHYWJOOum9Fr9SdZ0LAmD2nT6LixU6ph9yeO_puwG8kvpFb1pcXBrg8ZGB1a8V_UPSyhCz2PSTmsR1z63LruPP2Q3if29gWTemRae4340mO54AQHv3rRSpFXNjgNkvegjNtCFoZeWHBg/s800/sepeda-lipat-odessy.jpg "Sepeda Lipat Odessy"){:width="800" height="800" .center}
 
 Saya agak lupa spesifikasinya sih, kebetulan sepeda itu lagi saya titipkan ke kakak ipar. Yang pasti framenya dari steel biasa. Berat. Dengan ukuran lingkar ban 20 inch. Sistem pengereman masih pakai model U yang manual dan tidak pakem.
 
