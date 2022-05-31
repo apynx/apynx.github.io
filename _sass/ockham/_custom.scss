@@ -23,6 +23,11 @@ body {
   }
 }
 
+.post-entry {
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 1.5rem;
+}
+
 .post-entry .post-title {
   font-size: 1.4rem;
   font-weight: bold;
@@ -106,19 +111,8 @@ hr {
 }
 
 .page-home-taxonomy {
-  display: inline-block;
-  color: $oc-blue-4;
+  color: var(--body-color);
   text-decoration: none;
-  border: 1px solid $oc-blue-4;
-  padding: 2px 5px;
-  border-radius: 2px;
-  transition: color 0.2s;
-  margin-bottom: 8px;
-  font-size: 16px;
-
-  &:hover {
-    text-decoration: none;
-    }
 }
 
 .page-taxonomy-item {
