@@ -37,7 +37,7 @@ Penghargaan yang pernah saya raih :
 * Juara 1 pada "**NIX 2008 Blogging Competition**" – Yogyakarta (2008)
 * Finalis "**Wajah Model Remaja (WMR) on Air TV**" – Jakarta (2008)
 
-Seperti yang tertera pada penghargaan di atas, selain menjadi *front-end developer*, saya pernah berkarir sebagai foto model di bawah naungan "Be One Plus Management" Jakarta meski hanya sebentar.
+Seperti yang tertera pada penghargaan di atas, selain menjadi *front-end web developer*, saya pernah berkarir sebagai fotomodel di bawah naungan "Be One Plus Management" Jakarta meski hanya sebentar.
 
 ### Pertanyaan, Kritik, dan Saran
 
