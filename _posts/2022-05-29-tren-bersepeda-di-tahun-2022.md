@@ -7,7 +7,7 @@ categories  : [Diari]
 tags        : [tren sepeda, sepeda lipat, tren 2022, sepeda lipat 2022, element, pacific, united]
 comments    : true
 ---
-Media tahun 2022 ini tren bersepeda sudah sangat jauh menurun. Tidak seramai ketika awal-awal Covid-19 merajalela. Setidaknya itu yang saya perhatikan di lingkungan sekitar tempat tinggal saya.
+Medio tahun 2022 ini tren bersepeda sudah sangat jauh menurun. Tidak seramai ketika awal-awal Covid-19 merajalela. Setidaknya itu yang saya perhatikan di lingkungan sekitar tempat tinggal saya.
 
 Kalau 2 tahun lalu harga sepeda sempat gila-gilaan, sekarang sudah mulai berangsur normal. Sepeda yang sama ketika dulu menyentuh 5 jutaaan, sekarang sudah ditawarkan 4 jutaan. Itupun sudah tak banyak peminatnya.
 
