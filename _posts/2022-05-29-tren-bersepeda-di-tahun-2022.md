@@ -15,7 +15,7 @@ Kalaupun ada, memang orang-orang yang memang butuh dan hobi bersepeda aja. Bukan
 
 Saya masih ingat, tahun 2019 lalu sampai ada salah satu produsen sepeda yang sampai kewalahan memenuhi permintaan pasar, siapa lagi kalau bukan Element. Waktu itu produknya benar-benar digandrungi. Kalau gak salah sih type Element Troy. Karena stok terbatas tapi banyak yang nyari, hukum pasar berlaku. Harganya melejit tak karuan.
 
-![Sepeda Lipat Element Troy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdSaWERvEezTXaMkpGh2amT2-7ObF-qTnXIG_LANcB8g5wQ8dsEKqaGXcpSzHEycisug74Lgl1Uxw552UIWvCHQY1YT5xMK82hTAwBrs0zGDoU99MEPb_qp1Gz7ZWhBPuDX2r-AlZPejGysQH_gE3YgN41h2r-AjvS1oEn6cGNusNFGKfhlHLHsN5Lg/s673/sepeda-lipat-element-troy.jpg "Sepeda Lipat Element Troy"){:width="673" height="506" .center}
+![Sepeda Lipat Element Troy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdSaWERvEezTXaMkpGh2amT2-7ObF-qTnXIG_LANcB8g5wQ8dsEKqaGXcpSzHEycisug74Lgl1Uxw552UIWvCHQY1YT5xMK82hTAwBrs0zGDoU99MEPb_qp1Gz7ZWhBPuDX2r-AlZPejGysQH_gE3YgN41h2r-AjvS1oEn6cGNusNFGKfhlHLHsN5Lg/s673/sepeda-lipat-element-troy.jpg "Sepeda Lipat Element Troyupdate all"){:width="673" height="506" .center}
 
 Produknya sendiri memang bagus. Dilapisi chrome dan kualitas tergolong sangat bagus dengan harga segitu. Produk itu yang membuat pabrikan sepeda lain seperti Pacific dan United ketar-ketir 🤭 Bahkan Polygon yang dari awal tampak enggan meluncurkan varian sepeda lipat buru-buru menelurkan produk barunya.
 
