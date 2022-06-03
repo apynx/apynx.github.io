@@ -14,7 +14,7 @@ Saya akan coba mengulas secara lengkap apa aja sih kelebihan dan kekurangan moto
 
 Motor Honda Genio (selanjutnya saya sebut Genio aja) yang saya punya adalah produksi tahun 2020, meskipun saya beli pada media tahun 2021. Sengaja pilih edisi tahun lawas karena dapat potongan harga lumayan besar 🤭 Warna yang dipilih juga warna favorit, silver metalic ✌🏻 Kebetulan warna itu termasuk langka dan tak lagi muncul pada produksi tahun-tahun berikutnya.
 
-Saya beli varian CBS non-ISS. Selain yang ISS lebih mahal, saya juga tidak tertarik memakai fitur itu. Dulu malah pernah ada yg komen, gara-gara fitur ISS diaktifkan. Pas berhenti memang motornya mati, tapi malah tidak hidup-hidup lagi 😂
+Saya beli varian CBS non-ISS. Selain yang ISS lebih mahal, saya juga tidak tertarik memakai fitur itu. Dulu malah pernah ada yg komen, gara-gara fitur ISS diaktifkan pas berhenti memang motornya mati, tapi malah tidak hidup-hidup lagi 😂
 
 ### Harganya Murah
 
