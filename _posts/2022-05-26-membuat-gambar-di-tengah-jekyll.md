@@ -3,7 +3,7 @@ layout      : post
 title       : Membuat Gambar di Tengah Postingan pada Jekyll
 author      : Aping
 date        : 2022-05-26 14:08:00 +0700
-categories  : [Jekyll]
+categories  : [Framework]
 tags        : [tips jekyll, gambar jekyll, jekyll framework]
 comments    : true
 ---

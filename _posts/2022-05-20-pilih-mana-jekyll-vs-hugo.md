@@ -3,7 +3,7 @@ layout      : post
 title       : Pilih Mana? Jekyll vs Hugo
 author      : Aping
 date        : 2022-05-20 15:08:00 +0700
-categories  : [Jekyll, Hugo]
+categories  : [Framework]
 tags        : [static site generator, hugo, jekyll, github]
 comments    : true
 ---

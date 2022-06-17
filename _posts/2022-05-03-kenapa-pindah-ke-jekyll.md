@@ -3,7 +3,7 @@ layout      : post
 title       : Kenapa Pindah ke Jekyll
 author      : Aping
 date        : 2022-05-03 21:00:00 +0700
-categories  : Jekyll
+categories  : Framework
 tags        : [jekyll, pindah ke jekyll, migrasi jekyll]
 comments    : true
 ---

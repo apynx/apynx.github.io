@@ -3,7 +3,7 @@ layout      : post
 title       : Cara Pasang Skill Bar Sederhana dengan HTML dan CSS
 author      : Aping
 date        : 2022-05-08 15:04:00 +0700
-categories  : [Jekyll, CSS]
+categories  : [Pemrograman]
 tags        : [skill bar, progress bar, script skill bar tanpa javascript]
 comments    : true
 ---

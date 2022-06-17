@@ -62,7 +62,9 @@ paginate_path: /halaman/:num/
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - _site/assets/images/favicon.png
+  - _site/screenshot.png
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

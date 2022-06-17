@@ -4,7 +4,7 @@ title       : Keunggulan Jekyll
 author      : Aping
 date        : 2022-05-02 19:39:06 +0700
 last_modified_at:   2022-05-25 13:52:00 +0700
-categories  : Jekyll
+categories  : Framework
 tags        : [jekyll, keunggulan jekyll, kelebihan jekyll, kenapa memilih jekyll]
 comments    : true
 ---

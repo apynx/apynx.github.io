@@ -3,7 +3,7 @@ layout      : post
 title       : Ngicipin Hugo, Static Site Framework yang Lagi Naik Daun
 author      : Aping
 date        : 2022-05-14 09:46:00 +0700
-categories  : [GitHub]
+categories  : [Framework]
 tags        : [static site generator, hugo, jekyll, gitlab, github]
 comments    : true
 ---

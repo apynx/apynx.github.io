@@ -3,7 +3,7 @@ layout      : post
 title       : Pasang Tombol On-Click Load Komentar Disqus
 author      : Aping
 date        : 2022-05-04 18:54:00 +0700
-categories  : [CSS, JavaScript, Jekyll]
+categories  : [Framework]
 tags        : [sembunyikan disqus, show hide disqus, tombol on click load disqus]
 comments    : true
 ---

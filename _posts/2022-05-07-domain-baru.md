@@ -3,7 +3,7 @@ layout      : post
 title       : Domain Baru
 author      : Aping
 date        : 2022-05-07 20:07:00 +0700
-categories  : [Blogging, GitHub]
+categories  : [Blogging]
 tags        : [pasang domain github, custom domain github]
 comments    : true
 ---
