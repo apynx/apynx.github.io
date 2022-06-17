@@ -7,7 +7,7 @@ categories      : [Review, Blogging]
 tags            : [review philips shaver, philips shaver HQ804]
 comments        : true
 ---
-Tidak terasa sudah 10 tahun lebih saya menggunakan alat cukur Philips Shaver untuk urusan membuat wajah tampak klimis 😎 Sebelumnya, saya selalu menggunakan alat cukur dari Gilette karena harganya yang murah dan mudah didapatkan di warung-warung. Tapi lama-lama bosan juga karena cepat menjadi tumpul dan berkarat kalau terkena air. Akhirnya saya memutuskan membeli sebuah alat cukur elektrik merk Philips.
+Tidak terasa sudah 10 tahun lebih saya memakai alat cukur Philips Shaver untuk urusan membuat wajah tampak klimis 😎 Sebelumnya, saya baisa beli alat cukur dari Gilette karena harganya murah dan mudah didapatkan di warung-warung. Tapi lama-lama bosan juga karena cepat tumpul dan berkarat kalau terkena air. Akhirnya saya memutuskan membeli sebuah alat cukur elektrik merk Philips.
 
 ![Philips Shaver HQ804](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisH9gvxMafAsMTMfe-npP2tMuVmirlZMX3jMmOII1LNS_5PSZC-KtWpRxqWnvCdzKlnCzndjyxeKVUBoNpEUOvo7cvzO2ENd1RUG_tcfEwc6DfKIO1_dGO9b690MaG-JoOrEaELhkHnDItWPAUyIOpabuk2vhFGbXmnNDn2N-18gsf1OqHTbBmN6U_Pw/s800/philip-shaver-hq-804.jpg "Philips Shaver HQ804"){:width="800" height="450" loading:"lazy" .center}
 

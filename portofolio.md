@@ -32,6 +32,28 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
   <li class="cards_item">
     <div class="card">
       <div class="card_content">
+        <div class="card_title">Info Kuliner Jogja</div>
+          <div class="card_url">kulinerjogja.info</div>
+          <div class="card_text">
+            Pusat Informasi Seputar Dunia Kuliner di Kota Jogja.
+          </div>
+      </div>
+    </div>
+  </li>
+  <li class="cards_item">
+    <div class="card">
+      <div class="card_content">
+        <div class="card_title">Warung Unik</div>
+          <div class="card_url">warungunik.tk</div>
+          <div class="card_text">
+            Menyediakan barang-barang unik dengan harga terjangkau.
+          </div>
+      </div>
+    </div>
+  </li>
+  <li class="cards_item">
+    <div class="card">
+      <div class="card_content">
         <div class="card_title">Forum Kura Brazil</div>
           <div class="card_url">kurabrazil.info</div>
           <div class="card_text">
@@ -54,10 +76,43 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
   <li class="cards_item">
     <div class="card">
       <div class="card_content">
+        <div class="card_title">Ajim Antena TV</div>
+          <div class="card_url">ajimantenatv.com</div>
+          <div class="card_text">
+            TITIS Antena TV.
+          </div>
+      </div>
+    </div>
+  </li>
+  <li class="cards_item">
+    <div class="card">
+      <div class="card_content">
+        <div class="card_title">Antena TV Murah</div>
+          <div class="card_url">antenatvmurah.com</div>
+          <div class="card_text">
+            Situs penjualan antena tv online.
+          </div>
+      </div>
+    </div>
+  </li>
+  <li class="cards_item">
+    <div class="card">
+      <div class="card_content">
         <div class="card_title">Saudarata</div>
           <div class="card_url">saudarata-2010.com</div>
           <div class="card_text">
             Saudarata... Samsu Niang - Datu Hendra Pilihanta. Situs pasangan calon bupati dan wakil bupati Soppeng dari jalur perseorangan.
+          </div>
+      </div>
+    </div>
+  </li>
+  <li class="cards_item">
+    <div class="card">
+      <div class="card_content">
+        <div class="card_title">Dunia Mainan Anak</div>
+          <div class="card_url">mainananak.web.id</div>
+          <div class="card_text">
+            Pusat penjualan dan grosir mainan anak murah.
           </div>
       </div>
     </div>
@@ -76,10 +131,32 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
   <li class="cards_item">
     <div class="card">
       <div class="card_content">
+        <div class="card_title">Hayyas W.O</div>
+          <div class="card_url">hayyas.com</div>
+          <div class="card_text">
+            Hayyas Wedding Organizer.
+          </div>
+      </div>
+    </div>
+  </li>
+  <li class="cards_item">
+    <div class="card">
+      <div class="card_content">
         <div class="card_title">ALdesign</div>
           <div class="card_url">aldesign.web.id</div>
           <div class="card_text">
             Jasa Pembuatan Situs Web Professional di Kota Solo.
+          </div>
+      </div>
+    </div>
+  </li>
+  <li class="cards_item">
+    <div class="card">
+      <div class="card_content">
+        <div class="card_title">Aping &amp; Endah</div>
+          <div class="card_url">aping-endah.com</div>
+          <div class="card_text">
+            Situs Pernikahan Aping dan Endah.
           </div>
       </div>
     </div>
@@ -113,6 +190,17 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
           <div class="card_url">jualkuota.net</div>
           <div class="card_text">
             Pusat Penjualan Kuota Internet dan kartu Perdana Harga Murah.
+          </div>
+      </div>
+    </div>
+  </li>
+  <li class="cards_item">
+    <div class="card">
+      <div class="card_content">
+        <div class="card_title">JuraganFx</div>
+          <div class="card_url">juraganfx.blogspot.com</div>
+          <div class="card_text">
+            Tutorial, Strategi, Indikator, dan Robot Forex.
           </div>
       </div>
     </div>
