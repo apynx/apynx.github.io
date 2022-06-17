@@ -266,7 +266,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">Tosan Aji</div>
           <div class="card_url">tosanaji.com</div>
           <div class="card_text">
-            Atose Tenanan Ageming Jiwa - Situs Resmi Pemilik dan Pencinta Tosan Aji di Indonesia.
+            Situs Resmi Pemilik dan Pencinta Tosan Aji di Indonesia.
           </div>
       </div>
     </div>
@@ -277,7 +277,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">Touyelogy</div>
           <div class="card_url">touyelogy.com</div>
           <div class="card_text">
-            Touyelogy - Ilmu yang mempelajari tentang YANG ADA dicari-cari oleh Aristoteles.
+            Touyelogy dot com - Bukan Metafisika.
           </div>
       </div>
     </div>
