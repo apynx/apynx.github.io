@@ -277,7 +277,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">Touyelogy</div>
           <div class="card_url">touyelogy.com</div>
           <div class="card_text">
-            Touyelogy dot com - Bukan Metafisika.
+            Touyelogy - Ilmu yang mempelajari tentang YANG ADA.
           </div>
       </div>
     </div>
@@ -318,7 +318,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
   <li class="cards_item">
     <div class="card">
       <div class="card_content">
-        <div class="card_title">Penerbit Bintang Timur</div>
+        <div class="card_title">Bintang Timur</div>
           <div class="card_url">btbooks.my.id</div>
           <div class="card_text">
             Penerbit dan Penyedia Buku Kurikulum 2013.
