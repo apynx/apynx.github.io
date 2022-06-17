@@ -3,7 +3,7 @@ layout      : post
 title       : Aping Blog
 author      : Aping
 date        : 2022-04-30 06:58:06 +0700
-categories  : Jekyll
+categories  : Framework
 tags        : [jekyll, test post, lorem ipsum, Aping Blog]
 comments    : false
 ---
