@@ -7,9 +7,9 @@ categories      : [Review, Blogging]
 tags            : [review philips shaver, philips shaver HQ804]
 comments        : true
 ---
-![Philips Shaver HQ804](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisH9gvxMafAsMTMfe-npP2tMuVmirlZMX3jMmOII1LNS_5PSZC-KtWpRxqWnvCdzKlnCzndjyxeKVUBoNpEUOvo7cvzO2ENd1RUG_tcfEwc6DfKIO1_dGO9b690MaG-JoOrEaELhkHnDItWPAUyIOpabuk2vhFGbXmnNDn2N-18gsf1OqHTbBmN6U_Pw/s800/philip-shaver-hq-804.jpg "Philips Shaver HQ804"){:width="800" height="450" loading:"lazy" .center}
-
 Tidak terasa sudah 10 tahun lebih saya menggunakan alat cukur Philips Shaver untuk urusan membuat wajah tampak klimis 😎 Sebelumnya, saya selalu menggunakan alat cukur dari Gilette karena harganya yang murah dan mudah didapatkan di warung-warung. Tapi lama-lama bosan juga karena cepat menjadi tumpul dan berkarat kalau terkena air. Akhirnya saya memutuskan membeli sebuah alat cukur elektrik merk Philips.
+
+![Philips Shaver HQ804](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisH9gvxMafAsMTMfe-npP2tMuVmirlZMX3jMmOII1LNS_5PSZC-KtWpRxqWnvCdzKlnCzndjyxeKVUBoNpEUOvo7cvzO2ENd1RUG_tcfEwc6DfKIO1_dGO9b690MaG-JoOrEaELhkHnDItWPAUyIOpabuk2vhFGbXmnNDn2N-18gsf1OqHTbBmN6U_Pw/s800/philip-shaver-hq-804.jpg "Philips Shaver HQ804"){:width="800" height="450" loading:"lazy" .center}
 
 Saya masih ingat dulu saya beli shaver ini dari FJB (Forum Jual-Beli) Kaskus dengan harga sekitar 200 ribu. Shaver pertama yang saya miliki bertipe **HQ804/16 800 Series Yellow/Green Edition Men's Electric Shaver**. Sekarang sih sudah tidak dijual lagi di pasaran karena sudah digantikan dengan versi yang lebih baru yakni **PQ206**.
 
