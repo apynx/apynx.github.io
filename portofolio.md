@@ -24,7 +24,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">BuatWeb</div>
           <div class="card_url">buatweb.info</div>
           <div class="card_text">
-            Jasa Pembuatan Situs Web Professional dengan biaya terjangkau.
+            Jasa Pembuatan Situs Web dengan biaya terjangkau.
           </div>
       </div>
     </div>
@@ -79,7 +79,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">Ajim Antena TV</div>
           <div class="card_url">ajimantenatv.com</div>
           <div class="card_text">
-            TITIS Antena TV.
+            TITIS Antena TV - Menyediakan Aneka Antena TV.
           </div>
       </div>
     </div>
@@ -90,7 +90,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">Antena TV Murah</div>
           <div class="card_url">antenatvmurah.com</div>
           <div class="card_text">
-            Situs penjualan antena tv online.
+            Situs penjualan antena tv online dengan harga murah.
           </div>
       </div>
     </div>
@@ -101,7 +101,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">Saudarata</div>
           <div class="card_url">saudarata-2010.com</div>
           <div class="card_text">
-            Saudarata... Samsu Niang - Datu Hendra Pilihanta. Situs pasangan calon bupati dan wakil bupati Soppeng dari jalur perseorangan.
+            Situs pasangan calon bupati dan wakil bupati Soppeng.
           </div>
       </div>
     </div>
@@ -134,7 +134,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">Hayyas W.O</div>
           <div class="card_url">hayyas.com</div>
           <div class="card_text">
-            Hayyas Wedding Organizer.
+            Hayyas Wedding Organizer, Solusi Acara Pernikahan Anda.
           </div>
       </div>
     </div>
@@ -156,7 +156,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">Aping &amp; Endah</div>
           <div class="card_url">aping-endah.com</div>
           <div class="card_text">
-            Situs Pernikahan Aping dan Endah.
+            Situs Pernikahan Aping dan Endah di kota Solo.
           </div>
       </div>
     </div>
@@ -277,7 +277,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">Touyelogy</div>
           <div class="card_url">touyelogy.com</div>
           <div class="card_text">
-            Touyelogy - Bukan Metafisika. Ilmu yang mempelajari tentang YANG ADA dicari-cari oleh Aristoteles sejak beradad-abad yang lalu.
+            Touyelogy - Ilmu yang mempelajari tentang YANG ADA dicari-cari oleh Aristoteles.
           </div>
       </div>
     </div>
@@ -387,7 +387,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
         <div class="card_title">Solusindo Tirtatek</div>
           <div class="card_url">solusindotirtatek.co.id</div>
           <div class="card_text">
-            Perusahaan industri pembuatan segala macam barang stainlees/mild steel.
+            Perusahaan pembuatan segala macam barang stainlees/mild steel.
           </div>
       </div>
     </div>
@@ -395,7 +395,7 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
   <li class="cards_item">
     <div class="card">
       <div class="card_content">
-        <div class="card_title">Tepung Mocaf Solusindo</div>
+        <div class="card_title">Mocaf Solusindo</div>
           <div class="card_url">tepungmocafsolusindo.co.id</div>
           <div class="card_text">
             Perusahaan industri tepung mocaf berskala nasional di kota Surakarta.
