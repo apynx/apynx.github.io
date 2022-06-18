@@ -3,8 +3,6 @@ layout: page
 title: Tentang Saya
 permalink: /tentang-saya/
 ---
-```Update: 16 Mei 2022```
-
 ![Aping Blog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiguR3zEEjaLHBHO0EvX4GuYpiFM1q2yA3llsmg2MjOlZQsOddOddxBS7BbMzdCx7DA6Jn-HoFSPIuKe3NwtYbweE49_fEcTwFBTlWYt8NaMYsiL2t5aeLTJY86Itu3Vc61OkkUmLLl1Y3nkmrSO5_y7c--KCOyzZ2Uv8UuM6Ezq7GCs0vcJPI4Q7f-2Q/w200-h200/avatar.png "Aping Blog"){:width="200" height="200" .center}
 
 Panggil saja Aping. *Half-blood* Arab, Jawa, ~~Cina~~ Madura. Muka blasteran sampai gak ada yang tau saya orang mana 😆 Asli kota tape, Bondowoso. Tapi domisili di kota Solo, dan sekarang bermukim di Surabaya karena urusan pekerjaan.
@@ -44,3 +42,5 @@ Seperti yang tertera pada penghargaan di atas, selain menjadi *front-end web dev
 Buat kamu yang punya pertanyaan, masukan, kritik, atau saran silahkan hubungi saya lewat form [Kontak](/kontak/ "Hubungi Saya"). Jangan lupa mencantumkan no.HP atau email agar saya bisa membalas pesanmu sesegera mungkin. Buat para pembaca, terima kasih sudah meluangkan waktu untuk mampir ke gubuk saya ini 🙏
 
 > Dan semoga langit di atas kota Sidoarjo esok tak lagi mendung...
+
+```Update: 16 Mei 2022```
