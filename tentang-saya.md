@@ -43,4 +43,4 @@ Buat kamu yang punya pertanyaan, masukan, kritik, atau saran silahkan hubungi sa
 
 > Dan semoga langit di atas kota Sidoarjo esok tak lagi mendung...
 
-```Update: 16 Mei 2022```
+```Last update: 16 Mei 2022```
