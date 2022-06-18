@@ -4,7 +4,7 @@ title           : Pengalaman 1 Tahun Bersama Honda Genio
 author          : Aping
 date            : 2022-06-02 14:15:00 +0700
 last_modified_at: 2022-06-18 21:40:00 +0700
-categories      : [Otomotif]
+categories      : [Otomotif, Review]
 tags            : [review genio, honda genio, motor genio, pengalaman honda genio, test ride genio, test drive genio]
 comments        : true
 ---
