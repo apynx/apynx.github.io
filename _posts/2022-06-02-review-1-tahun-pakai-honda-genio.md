@@ -3,14 +3,12 @@ layout          : post
 title           : Pengalaman 1 Tahun Bersama Honda Genio
 author          : Aping
 date            : 2022-06-02 14:15:00 +0700
-last_modified_at: 2022-06-03 08:37:00 +0700
+last_modified_at: 2022-06-18 21:40:00 +0700
 categories      : [Otomotif]
 tags            : [review genio, honda genio, motor genio, pengalaman honda genio, test ride genio, test drive genio]
 comments        : true
 ---
-Tidak terasa sudah 1 tahun saya punya motor Honda Genio. Di tulisan ini saya akan memberikan review, opini, dan pengalaman selama memakai motor Honda Genio untuk mobilitas sehari-hari.
-
-Saya akan coba mengulas secara lengkap apa aja sih kelebihan dan kekurangan motor Honda Genio ini. Setidaknya jika dilihat dari sudut pandang saya pribadi selaku konsumen. Saya juga akan mencoba menilai secara objektif karena sejujurnya, saya pencinta produk Yamaha dan Suzuki 😆
+Di tulisan ini saya akan memberikan review, opini, dan pengalaman selama memakai motor Honda Genio untuk mobilitas sehari-hari. Saya akan coba mengulas secara lengkap dan objektif tentang apa aja sih kelebihan dan kekurangan motor Honda Genio ini. Setidaknya jika dilihat dari sudut pandang saya selaku konsumen.
 
 Motor Honda Genio (selanjutnya saya sebut Genio aja) yang saya punya adalah produksi tahun 2020, meskipun saya beli pada media tahun 2021. Sengaja pilih edisi tahun lawas karena dapat potongan harga lumayan besar 🤭 Warna yang dipilih juga warna favorit, silver metalic ✌🏻 Kebetulan warna itu termasuk langka dan tak lagi muncul pada produksi tahun-tahun berikutnya.
 
