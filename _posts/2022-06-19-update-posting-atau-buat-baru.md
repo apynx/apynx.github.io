@@ -21,7 +21,7 @@ Sistem crawler dari search engine utama seperti Google atau Bing menyukai blog y
 
 Satu hal yang perlu dicatat jika kamu menggunakan engine *static-site generator* untuk blog seperti Jekyll, kamu harus mencantumkan baris berikut pada *front matter* artikel:
 
-```last_modified_at : yyyy-mm-dd  HH:MM:ss```
+```last_modified_at : yyyy-mm-dd  HH:MM:ss +0700```
 
 Sedangkan di Hugo kamu bisa menambahkan baris berikut:
 
