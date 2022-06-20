@@ -3,7 +3,7 @@ layout          : post
 title           : Review 10 Tahun Pemakaian Philips Shaver HQ804
 author          : Aping
 date            : 2022-06-17 10:18:00 +0700
-categories      : [Review, Blogging]
+categories      : [Review]
 tags            : [review philips shaver, philips shaver HQ804]
 comments        : true
 ---
