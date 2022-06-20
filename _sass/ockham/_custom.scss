@@ -206,3 +206,15 @@ textarea { width: 73%; }
 .closebtn:hover {
   color: $oc-black;
 }
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  background: transparent;
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #606060;
+  /* we got the background now lets make it round */
+  border-radius: 100px;
+}
