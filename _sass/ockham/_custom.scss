@@ -1,4 +1,4 @@
-/* CSS BODY & HOMEPAGE */
+// CSS BODY & HOMEPAGE
 
 @font-face {
   font-family: 'Lato';
@@ -22,7 +22,7 @@ body {
 
 .post-entry .post-title {
   font-size: 1.4rem;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .post .post-meta {
@@ -81,7 +81,7 @@ svg {
   border-radius: 100px;
 }
 
-/* CSS POST */
+// CSS POST
 
 .page, .post {
   h1, h2 {
@@ -112,7 +112,7 @@ svg {
 }
 
 hr {
-  margin-top: 20px;
+  margin-top: var(--spacer-2);
 }
 
 .center {
@@ -137,7 +137,7 @@ hr {
   font-size: small;
 }
 
-/* SIDEBAR */
+// SIDEBAR
 
 a.social-icon {
   margin-right: .5em;
@@ -170,7 +170,7 @@ figure.highlight {
 	}
 }
 
-/* PAGES */
+// PAGES
 
 input[type="text"], input[type="email"], input[type="search"], 
 input[type="submit"], button, textarea { 
