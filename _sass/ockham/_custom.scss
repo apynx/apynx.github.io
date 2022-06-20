@@ -1,3 +1,5 @@
+/* CSS BODY & HOMEPAGE */
+
 @font-face {
   font-family: 'Lato';
   font-style: normal;
@@ -11,17 +13,6 @@ body {
   border-top: 4px solid $oc-lime-7;
   margin: 0;
   color-scheme: dark;
-}
-
-.page, .post {
-  h1, h2 {
-    font-size: 1.75rem;
-    text-align: center;
-    background: -webkit-linear-gradient(45deg, $oc-yellow-9, $oc-yellow-5);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
 }
 
 .post-entry {
@@ -40,33 +31,72 @@ body {
 }
 
 svg {
-    vertical-align: -2px;
-  }
+  vertical-align: -2px;
+}
 
 .post-excerpt {
-    margin: 0;
-  }
-
-a.social-icon {
-    margin-right: .5em;
-    text-decoration: none;
-  }
+  margin: 0;
+}
 
 .masthead-title {
-    font-weight: normal !important;
-  }
-  
-.sidebar-toggle {
-  margin-top: 10px;
+  font-weight: normal !important;
 }
-  
-figure.highlight {
-  font-size: 16px;
+
+.post-home-categories {
+  margin-top: .5em;
+}
+
+.page-home-taxonomy {
+  color: var(--body-color);
+  text-decoration: none;
+}
+
+.page-taxonomy-item {
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 8px;
+  padding: 0 10px;
+  text-decoration: none;
+  color: var(--link-color);
+  border: 1px solid var(--border-color);
+  background-color: var(--body-bg);
+  border-radius: var(--border-radius);
+
+  &:hover {
+  text-decoration: none;
+  color: var(--body-color);
+  border: 1px solid var(--link-color);
+  background-color: var(--link-color);
+  }
+}
+
+::-webkit-scrollbar {
+  background: transparent;
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  /* we got the background now lets make it round */
+  border-radius: 100px;
+}
+
+/* CSS POST */
+
+.page, .post {
+  h1, h2 {
+    font-size: 1.75rem;
+    text-align: center;
+    background: -webkit-linear-gradient(45deg, $oc-yellow-9, $oc-yellow-5);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
 }
 
 #show-comments {
   background-color: var(--body-bg);
-  border: 2px solid $oc-blue-4;
+  border: 1px solid $oc-blue-4;
   border-radius: var(--border-radius);
   color: $oc-blue-4;
   padding: 15px 32px;
@@ -107,42 +137,20 @@ hr {
   font-size: small;
 }
 
-.post-home-categories {
-  margin-top: .5em;
-}
+/* SIDEBAR */
 
-.page-home-taxonomy {
-  color: var(--body-color);
+a.social-icon {
+  margin-right: .5em;
   text-decoration: none;
 }
-
-.page-taxonomy-item {
-  display: inline-block;
-  margin-right: 5px;
-  margin-bottom: 8px;
-  padding: 0 10px;
-  text-decoration: none;
-  color: var(--link-color);
-  border: 1px solid var(--border-color);
-  background-color: var(--body-bg);
-  border-radius: var(--border-radius);
-
-  &:hover {
-  text-decoration: none;
-  color: var(--body-color);
-  border: 1px solid var(--link-color);
-  background-color: var(--link-color);
-  }
+  
+.sidebar-toggle {
+  margin-top: 10px;
 }
-
-input[type="text"], input[type="email"], input[type="search"], 
-input[type="submit"], button, textarea { 
-  padding: .5em 1em;
-  border-radius: 10px; 
-  margin-bottom: 1em;
-  background-color: $oc-gray-0;
+  
+figure.highlight {
+  font-size: 16px;
 }
-textarea { width: 73%; }
 
 #search-input {
 	-webkit-appearance: none;
@@ -161,6 +169,17 @@ textarea { width: 73%; }
 		border-left-color: var(--link-color);
 	}
 }
+
+/* PAGES */
+
+input[type="text"], input[type="email"], input[type="search"], 
+input[type="submit"], button, textarea { 
+  padding: .5em 1em;
+  border-radius: 10px; 
+  margin-bottom: 1em;
+  background-color: $oc-gray-0;
+}
+textarea { width: 73%; }
 
 #search-results {
 	margin: 0;
@@ -181,40 +200,10 @@ textarea { width: 73%; }
 	}
 }
 
-/* The alert message box */
 .alert {
   padding: 20px;
   background-color: $oc-orange-8; /* Red */
   color: $oc-white;
   margin-bottom: 15px;
   border-radius: 25px;
-}
-
-/* The close button */
-.closebtn {
-  margin-left: 15px;
-  color: $oc-white;
-  font-weight: bold;
-  float: right;
-  font-size: 22px;
-  line-height: 20px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-/* When moving the mouse over the close button */
-.closebtn:hover {
-  color: $oc-black;
-}
-
-/* Custom Scrollbar */
-::-webkit-scrollbar {
-  background: transparent;
-  width: 7px;
-}
-
-::-webkit-scrollbar-thumb {
-  background: var(--border-color);
-  /* we got the background now lets make it round */
-  border-radius: 100px;
 }
