@@ -9,7 +9,7 @@ comments        : true
 ---
 Habis surfing di Youtube kok saya terpikat dengan desain scrollbarnya. Tampak minimalis, tapi juga modern seperti tampilan scrollbar halaman web di perangkat mobile seperti Android. Saya penasaran bagaimana hasilnya kalau diterapkan di blog ini ya? Yuk kita coba!
 
-Untuk mengubah tampilan scrollbar halaman blog sebenarnya sangat gampang. Kenapa? Karena kita cuma menambah beberapa baris script CSS saja. Kamu tidak perlu pusing tentang script scrollbar JS. Script ini work di semua web browser, minimal pada versi terbaru, seperti pada Google Chrome dan Mozilla Firefox.
+Untuk mengubah tampilan scrollbar halaman blog sebenarnya sangat gampang. Kenapa? Karena kita cuma menambah beberapa baris script CSS saja. Kamu tidak perlu pusing tentang script scrollbar JS. Script ini work di semua web browser, minimal pada versi terbaru, seperti pada Google Chrome dan Opera.
 
 Saya menulis posting ini sekaligus buat catatan siapa tahu besok-besok mau ganti theme maka saya sudah punya backup-nya.
 
