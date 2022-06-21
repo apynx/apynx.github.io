@@ -27,7 +27,6 @@ Caranya sederhana, kamu cukup tambahkan baris script berikut pada file CSS web/b
 
 ::-webkit-scrollbar-thumb {
   background: #606060;
-  /* we got the background now lets make it round */
   border-radius: 100px;
 }
 {% endhighlight %}
