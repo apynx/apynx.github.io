@@ -3,6 +3,7 @@ layout      : post
 title       : Pasang Tombol On-Click Load Komentar Disqus
 author      : Aping
 date        : 2022-05-04 18:54:00 +0700
+last_modified_at:   2022-06-23 12:29:00 +0700
 categories  : [Framework]
 tags        : [sembunyikan disqus, show hide disqus, tombol on click load disqus]
 comments    : true
