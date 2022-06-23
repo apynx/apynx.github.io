@@ -17,11 +17,16 @@ Buat yang belum tahu, favicon adalah ikon utama atau logo yang muncul di samping
 
 Dalam dokumentasi resminya, Google memberikan sebuah guideline atau aturan yang mnejadi standarisasi format favicon di search engine mereka. Berikut adalah syarat-syaratnya:
 
-* Kamu hanya bisa memiliki 1 favicon untuk website/blog kamu sesuai dengan domain/hostname yang digunakan. Contoh, https://aping.my.id dan https://demo.aping.my.id adalah 2 situs yang berbeda, maka kamu bisa menggunakan favicon sendiri-sendiri. Sedangkan https://aping.my.id/kategori adalah subdirektori dari situs utama https://aping.my.id, maka kamu hanya bisa menggunakan 1 favicon saja.
+* Kamu hanya bisa memiliki 1 favicon untuk website/blog kamu sesuai dengan domain/hostname yang digunakan. Contoh, [https://aping.my.id](https://aping.my.id) dan [https://demo.aping.my.id](https://demo.aping.my.id) adalah 2 situs yang berbeda, maka kamu bisa menggunakan favicon sendiri-sendiri. Sedangkan [https://aping.my.id/kategori](https://aping.my.id/kategori) adalah subdirektori dari situs utama [https://aping.my.id](https://aping.my.id), maka kamu hanya bisa menggunakan 1 favicon saja.
+
 * File favicon harus bisa diakses oleh engine crawler dari mesin pencari, kamu dilarang mengecualikan pengindeksan untuk file tersebut.
+
 * Agar dapat memudahkan orang unutk mengenal situs kamu, pastikan favicon bisa merepresentasikan merk atau ciri khas situs kamu.
+
 * Ukuran favicon harus persegi dengan resolusi minimal 48px, 96px, sampai 512px. Google tidak menerima favicon dalam format SVG karena tidak punya ukuran spesifik. Google akan melakukan rescale/resize favicon secara otomatis ke ukuran 16px pada halaman hasil pencarian, jadi kamu tidak perlu upload banyak file dalam beragam ukuran yang berbeda.
+
 * Alamat URL favicon harus selalu tetap dan tidak pernah berubah.
+
 * Sistem Google akan secara otomatis mengubah favicon kamu ke tampilan default jika kamu menggunakan material yang dianggap berkaitan dengan pornografi atau mengungkapkan ujaran kebencian.
 
 ### Cara Pasang Favicon di Website
@@ -35,9 +40,9 @@ File favicon biasanya diletakkan di bagian utama situs (root) dan dipanggil mela
 <link rel="icon" type="image/gif" href="http://example.com/favicon.gif" />
 {% endhighlight %}
 
-Aplikasi-aplikasi editing gambar standar biasanya agak kesulitan untuk mengubah gambar biasa menjadi favicon. Tapi kamu tidak perlu khawatir, ada banyak kok sistus-situs online yang menyediakan layanan konversi gambar biasa menjadi favicon secara gratis. Saya menemukan situs yang bisa menghasilkan favicon terbaik. Yakni FavIcon.pro.
+Aplikasi-aplikasi editing gambar standar biasanya agak kesulitan untuk mengubah gambar biasa menjadi favicon. Tapi kamu tidak perlu khawatir, ada banyak kok sistus-situs online yang menyediakan layanan konversi gambar biasa menjadi favicon secara gratis. Saya menemukan situs yang bisa menghasilkan favicon terbaik. Yakni **FavIcon.pro**.
 
-Cara pakainya sngat mudah. Kamu cukup mengunjungi situs http://www.favicon.pro/ kemudian upload file gambar yang akan diubah mnejadi favicon dengan cara klik tombol 'Choose File'. File gambar boleh dalam ukuran atau format apa saja asalkan berbentuk persegi. Kalau bukan persegi? Di-crop dulu yaa..
+Cara pakainya sngat mudah. Kamu cukup mengunjungi situs [Favicon Pro](http://www.favicon.pro/ "Favicon Pro") kemudian upload file gambar yang akan diubah mnejadi favicon dengan cara klik tombol 'Choose File'. File gambar boleh dalam ukuran atau format apa saja asalkan berbentuk persegi. Kalau bukan persegi? Di-crop dulu yaa..
 
 ![Cara Membuat Favicon Terbaik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoI7RPzG2UQJjcYSLxrTQid-yJybFhFKEqtIkSXWE8_DmXDs2SsWqHmxcFv5Eo78ehBKxujx1QibjgSKjgQuip070FKW0O5OPxOfQuUKoCnW1wuzgRPyrLiBCnihdUSmkPtILaCaYacvpJ9UkCOEVD3lyHCd8Fxef9KqW4ftV31pSG9MGEdYXXFe85zA/s1600/favicon.-pro.png "Cara Membuat Favicon di Website"){:width="348" height="133" loading:"lazy" .center}
 

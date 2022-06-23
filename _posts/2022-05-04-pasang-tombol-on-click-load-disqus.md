@@ -71,9 +71,13 @@ if(/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent
 
 Jangan lupa ganti '**xxxxx**' dengan akun Disqus kamu lalu klik tombol simpan. Oh iya, jika kamu menemukan script berikut di 'post.html' bisa dihapus saja agar tidak bentrok:
 
-```    {% if page.comments %}
-        {% include disqus.html %}
-    {% endif %}```
+{% highlight html %}
+{% raw %}
+{% if page.comments %}
+    {% include disqus.html %}
+{% endif %}
+{% endraw %} 
+{% endhighlight %}
 
 Sekarang script sudah bisa berjalan dengan baik, tapi tampilan tombolnya terlihat tidak bagus. Kamu bisa mempercantiknya dengan CSS berikut:
 
