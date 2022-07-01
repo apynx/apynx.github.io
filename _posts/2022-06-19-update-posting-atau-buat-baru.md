@@ -7,6 +7,8 @@ categories      : [Blogging]
 tags            : [update posting, membuat posting baru, pilih update atau buat baru]
 comments        : true
 ---
+![Pilih Mana Update Posting atau Buat Baru](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqImy8Y1F2K4ZJcrLW9WqfCpdOj48kOMIlAjJ4SJ5hZQ9Dt4XUTIi7iJBvP3wr0m-sUvLo8bsL-j1TCGf219VT9jIx5Rl1uHsi_4jJrDAdLOe2_AJ0xXS8aJFN0xTgFPQxgfPMWsL-28LNtvlDp3Al4NyQW5CMC7uAELeZOGxXk_uuNp-LWzF2OImKVA/s1600/update-posting-atau-buat-baru.jpg "Pilih Mana Update Posting atau Buat Baru"){:width="739" height="416" loading:"lazy" .center}
+
 Dalam dunia blogging, kamu pasti sudah terbiasa dengan membuat postingan baru atau memperbarui (update) posting yang sudah dibuat sebelumnya. Ketika kamu punya ide menarik tapi sudah pernah mengulas tentang itu, mana yang sebaiknya dipilih antara membuat posting baru atau update posting lama?
 
 Banyak blogger pemula yang sering bingung pada hal sepele seperti ini. Biasanya sih mereka yang terlalu ketat dalam *organizing* posting karena lebih mementingkan SEO atau ingin memperbanyak jumlah artikel agar diterima AdSense.
