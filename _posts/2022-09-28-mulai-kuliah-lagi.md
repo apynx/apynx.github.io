@@ -1,6 +1,6 @@
 ---
 layout      : post
-title       : Kuliah Lagi
+title       : Mulai Kuliah Lagi
 author      : Aping
 date        : 2022-09-28 15:01:00 +0700
 categories  : [Diari]
