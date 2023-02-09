@@ -3,7 +3,7 @@ layout      : post
 title       : Sigra, Si Mobil Baru
 author      : Aping
 date        : 2023-02-09 13:52:00 +0700
-categories  : [Diari]
+categories  : [Otomotif]
 tags        : [daihatsu, sigra, mobil baru]
 comments    : true
 ---
