@@ -7,7 +7,7 @@ categories  : [Diari]
 tags        : [kuliah, transfer kuliah, d3 ke s1]
 comments    : true
 ---
-Terhitung mulai tanggal 26 September 2022 kemarin saya mulai kuliah lagi. Melanjutkan program dari D3 ke S1. Setelah menjadi PNS begini akhirnya baru menyadari kalau dalam urusan kepegawaian, gelar itu sangat berarti. Minimal S1 lah biar gaji, tunjangan, dan fasilitas tidak rendah-rendah amat.
+Terhitung mulai tanggal 26 September 2022 kemarin saya mulai kuliah lagi. Melanjutkan program dari D3 ke S1. Setelah menjadi PNS begini akhirnya baru menyadari kalau dalam urusan kepegawaian, gelar itu sangat berarti. Minimal S1 lah biar gaji, tunjangan, dan fasilitas tidak jelek-jelek amat.
 
 Kalau mau ngejar karir lewat PNS jelas gelar S2 itu wajib dimiliki. Tapi untuk permulaan sih gelar sarjana S1 sudah cukup. Kalau D3 jangan ditanya, lebih banyak gak enaknya daripada enaknya. Tunjangannya hanya cukup untuk sekedar biaya hidup. Nyaris tidak ada sisa untuk ditabung. Apalagi dengan kondisi sekarang dimana gaji saya disetarakan sama lulusan SMA
 
