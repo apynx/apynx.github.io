@@ -3,7 +3,7 @@ layout          : post
 title           : Daftar 10 Komik Manhwa Aksi Terbaik 2022
 author          : Aping
 date            : 2022-07-13 14:05:00 +0700
-categories      : [Diary]
+categories      : [Diari]
 tags            : [komik korea, komik manhwa, manhwa terbaik, 10 komik manhwa terbaik, manhwa terbaik 2022]
 comments        : true
 ---
