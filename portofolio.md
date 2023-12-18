@@ -403,6 +403,29 @@ Berikut adalah sebagian portofolio dari situs-situs yang pernah saya kerjakan. B
       </div>
     </div>
   </li>
+  <li class="cards_item">
+    <div class="card">
+      <div class="card_content">
+        <div class="card_title">CV Swadaya Murni</div>
+          <div class="card_url">swadayamurni.com</div>
+          <div class="card_text">
+            Penerbitkan buku sekolah dan umum.
+          </div>
+      </div>
+    </div>
+  </li>
+  
+  <li class="cards_item">
+    <div class="card">
+      <div class="card_content">
+        <div class="card_title">CV Karya Rizky</div>
+          <div class="card_url">karyarizky.com</div>
+          <div class="card_text">
+            Penerbit dan percetakan untuk sekolah maupun kedinasan.
+          </div>
+      </div>
+    </div>
+  </li>
 </ul>
             
             
